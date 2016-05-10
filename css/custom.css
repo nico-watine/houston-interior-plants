@@ -1,0 +1,23 @@
+.slide-show-render.slide-show { top: 0; }
+
+.PostBody p { font-size: 1rem; line-height: 1.4; }
+
+table.borderless td { border: 0; }
+
+.button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
+
+.button:hover { background: #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); color: #000; }
+
+.small.button { font-size: 14px; }
+
+.header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
+
+.shadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
+.shadow-2 { box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-3 { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-4 { box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-5 { box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
