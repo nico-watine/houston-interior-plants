@@ -1,6 +1,16 @@
 .slide-show-render.slide-show { top: 0; }
 
+#index-stretch-banner { text-align: center; position: relative; margin-bottom: 10px; }
+
+#index-stretch-banner h2 { text-shadow: 0 3px 2px #000; color: #fff; text-transform: none; font-size: 30px; position: absolute; top: 30px; width: 100%; }
+
+#index-stretch-banner img { width: 978px; height: 98px; border: 1px solid #000; }
+
+body#index #Wrapper { padding-top: 10px; }
+
 .PostBody p { font-size: 1rem; line-height: 1.4; }
+
+table#top-5-easiest-office-floor-plants img { max-width: 220px; }
 
 table.borderless td { border: 0; }
 

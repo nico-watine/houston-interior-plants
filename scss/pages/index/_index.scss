@@ -1,3 +1,10 @@
 @import "../../_settings.scss";
 
 @import "_slide-show.scss";
+@import "_stretch-banner.scss";
+
+body#index {
+	#Wrapper {
+		padding-top: 10px;
+	}
+}
