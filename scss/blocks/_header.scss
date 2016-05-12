@@ -1,0 +1,28 @@
+@import "../_settings.scss";
+
+#Logo {
+	#LogoContainer {
+		a {
+			display: inline-block;
+			img {
+				margin-right: 10px;
+			}
+		}
+
+		h1 {
+			display: inline-block;
+			a {
+				color: $dark-green !important;;
+
+				span#slogan {
+					color: #797979;
+					display: block;
+					letter-spacing: 0.5px;
+					font-family: $body-font;
+					font-size: 24px;
+					font-weight: 300;
+				}
+			}
+		}
+	}
+}

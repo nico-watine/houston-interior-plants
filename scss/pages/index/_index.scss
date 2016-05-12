@@ -6,5 +6,33 @@
 body#index {
 	#Wrapper {
 		padding-top: 10px;
+
+		table.plant-pot-blog-banner {
+			td {
+				padding: 0;
+			}
+		}
+
+		table.plant-pot-blog-banner#text {
+			h3 {
+				position: absolute;
+				color: #fff;
+				text-shadow: 2px 4px 4px #000;
+				font-size: 72px;
+				width: 320px;
+				padding-top: 42px;
+				padding-left: 14px;
+			}
+		}
+
+		#tagline {
+			text-align: center;
+			padding: 10px 0;
+			
+			h3 {
+				text-transform: none;
+				font-size: 24px;
+			}
+		}
 	}
 }

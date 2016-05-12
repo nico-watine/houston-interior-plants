@@ -1,3 +1,13 @@
+#Logo #LogoContainer a { display: inline-block; }
+
+#Logo #LogoContainer a img { margin-right: 10px; }
+
+#Logo #LogoContainer h1 { display: inline-block; }
+
+#Logo #LogoContainer h1 a { color: #569300 !important; }
+
+#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: 0.5px; font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; font-size: 24px; font-weight: 300; }
+
 .slide-show-render.slide-show { top: 0; }
 
 #index-stretch-banner { text-align: center; position: relative; margin-bottom: 10px; }
@@ -8,19 +18,35 @@
 
 body#index #Wrapper { padding-top: 10px; }
 
+body#index #Wrapper table.plant-pot-blog-banner td { padding: 0; }
+
+body#index #Wrapper table.plant-pot-blog-banner#text h3 { position: absolute; color: #fff; text-shadow: 2px 4px 4px #000; font-size: 72px; width: 320px; padding-top: 42px; padding-left: 14px; }
+
+body#index #Wrapper #tagline { text-align: center; padding: 10px 0; }
+
+body#index #Wrapper #tagline h3 { text-transform: none; font-size: 24px; }
+
 .PostBody p { font-size: 1rem; line-height: 1.4; }
 
+.PostBody a { color: #569300; text-decoration: underline; }
+
+.PostBody a:hover { text-decoration: none; color: #2199E8; }
+
 table#top-5-easiest-office-floor-plants img { max-width: 220px; }
+
+table#case-for-quality-plants img { max-width: 300px; }
 
 table.borderless td { border: 0; }
 
 .button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
 
-.button:hover { background: #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); color: #000; }
+.button:hover { background: #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); color: #000 !important; }
 
 .small.button { font-size: 14px; }
 
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
+
+.body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
 
 .shadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
