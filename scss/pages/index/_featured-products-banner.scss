@@ -1,0 +1,13 @@
+@import "../../_settings.scss";
+
+
+body#index {
+	#HomeFeaturedProducts {
+		margin-bottom: 0;
+		
+		h2 {
+			display: none;
+			visibility: hidden;
+		}
+	}
+}
