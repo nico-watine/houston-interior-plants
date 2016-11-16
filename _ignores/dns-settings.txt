@@ -1,0 +1,14 @@
+# ------------------------------------------------
+# |            BuildABiz DNS Settings            |
+# ------------------------------------------------
+
+DNS.BIZSITESERVICE.COM
+DNS2.BIZSITESERVICE.COM
+
+# --------------------------------------------------
+# |            BigCommerce DNS Settings            |
+# --------------------------------------------------
+
+NS1.BIGCOMMERCE.COM
+NS2.BIGCOMMERCE.COM
+NS3.BIGCOMMERCE.COM
