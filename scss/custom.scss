@@ -1,4 +1,5 @@
 @import "bourbon";
+@import "_settings.scss";
 
 @import "blocks/_pages-menu.scss";
 @import "blocks/_page-structure.scss";
@@ -11,4 +12,3 @@
 @import "pages/category/_subcategory-table.scss";
 @import "pages/category/_shop-for-pots.scss";
 @import "pages/category/_gallery-view.scss";
-
