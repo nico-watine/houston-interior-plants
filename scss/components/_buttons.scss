@@ -49,10 +49,12 @@ a.CartRemoveLink {
     }
 }
 
-a.CustomizeItemLink {
+a.CustomizeItemLink,
+.KeepShopping a {
     color: #569300;
 
     &:hover {
         color: #6e6e6e;
     }
 }
+
