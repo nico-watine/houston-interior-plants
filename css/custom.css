@@ -160,6 +160,10 @@ a.CustomizeItemLink, .KeepShopping a { color: #569300; }
 
 a.CustomizeItemLink:hover, .KeepShopping a:hover { color: #6e6e6e; }
 
+.CartContents .ProductName a { font-weight: bold; color: #569300; }
+
+.CartContents .ProductName a:hover { color: #6e6e6e; }
+
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
 
 .body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }

@@ -58,3 +58,11 @@ a.CustomizeItemLink,
     }
 }
 
+.CartContents .ProductName a {
+    font-weight: bold;
+    color: #569300;
+
+    &:hover {
+        color: #6e6e6e;
+    }
+}
