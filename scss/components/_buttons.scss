@@ -40,3 +40,11 @@
         color: #000 !important;
     }
 }
+
+a.CartRemoveLink {
+    color: #569300;
+
+    &:hover {
+        color: red;
+    }
+}

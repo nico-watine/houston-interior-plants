@@ -152,6 +152,10 @@ table.borderless td { border: 0; }
 
 .Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type="submit"]:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
 
+a.CartRemoveLink { color: #569300; }
+
+a.CartRemoveLink:hover { color: red; }
+
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
 
 .body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
