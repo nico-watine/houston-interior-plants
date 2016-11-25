@@ -23,3 +23,11 @@
     @extend .button;
     font-size: 14px;
 }
+
+.btn-secondary {
+    background: #569300 !important;
+
+    &:hover {
+        background: #d4d4d4 !important
+    }
+}
