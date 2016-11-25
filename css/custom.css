@@ -150,7 +150,7 @@ table.borderless td { border: 0; }
 
 .btn-secondary { background: #569300 !important; }
 
-.btn-secondary:hover { background: #d4d4d4 !important; }
+.btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
 
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
 
