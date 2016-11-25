@@ -48,3 +48,11 @@ a.CartRemoveLink {
         color: red;
     }
 }
+
+a.CustomizeItemLink {
+    color: #569300;
+
+    &:hover {
+        color: #6e6e6e;
+    }
+}

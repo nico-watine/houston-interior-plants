@@ -156,6 +156,10 @@ a.CartRemoveLink { color: #569300; }
 
 a.CartRemoveLink:hover { color: red; }
 
+a.CustomizeItemLink { color: #569300; }
+
+a.CustomizeItemLink:hover { color: #6e6e6e; }
+
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
 
 .body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
