@@ -148,9 +148,9 @@ table.borderless td { border: 0; }
 
 .small.button { font-size: 14px; }
 
-.btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
+.Submit input, .ProductList li .ProductActionAdd a, .QuickViewBtn, #bottom_payment_button, .ExpressCheckoutContent input[type="submit"], .btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
 
-.btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
+.Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type="submit"]:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
 
 .header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
 
