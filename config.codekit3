@@ -711,6 +711,18 @@
 		"oAP": "\/storefront-content\/returns-exchanges-policy\/returns-exchanges-policy.html",
 		"oF": 0
 		},
+	"\/storefront-content\/shop-for-services\/page-content.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storefront-content\/shop-for-services\/page-content.html",
+		"oF": 0
+		},
+	"\/storefront-content\/shop-for-services\/shop-for-services.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storefront-content\/shop-for-services\/shop-for-services.html",
+		"oF": 0
+		},
 	"\/TO-DO.txt": {
 		"ft": 8192,
 		"oA": 2,
