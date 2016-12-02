@@ -4206,6 +4206,12 @@
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/default.html",
 		"oF": 0
+		},
+	"\/WebDAV\/template\/layout-test.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/WebDAV\/template\/layout-test.html",
+		"oF": 0
 		}
 	},
 "hooks": [
