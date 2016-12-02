@@ -45,7 +45,7 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/img-links.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_ignores\/pinterest-link.html": {
 		"ft": 8192,
@@ -225,16 +225,22 @@
 		"oAP": "\/index\/default.html",
 		"oF": 0
 		},
-	"\/pages\/_original\/page.html": {
+	"\/Layouts\/_original\/page.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pages\/_original\/page.html",
+		"oAP": "\/Layouts\/_original\/page.html",
 		"oF": 0
 		},
-	"\/pages\/page.html": {
+	"\/Layouts\/layout-test.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Layouts\/layout-test.html",
+		"oF": 0
+		},
+	"\/Layouts\/page.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pages\/page.html",
+		"oAP": "\/Layouts\/page.html",
 		"oF": 0
 		},
 	"\/panels\/_original\/CategoryHeading.html": {
