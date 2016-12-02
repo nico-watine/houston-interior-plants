@@ -177,10 +177,10 @@
 		"oAP": "\/Layouts\/index\/default.html",
 		"oF": 0
 		},
-	"\/Layouts\/layout-test.html": {
+	"\/Layouts\/layout-test\/layout-test.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Layouts\/layout-test.html",
+		"oAP": "\/Layouts\/layout-test\/layout-test.html",
 		"oF": 0
 		},
 	"\/Layouts\/page.html": {
