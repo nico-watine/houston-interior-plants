@@ -189,6 +189,18 @@
 		"oAP": "\/Layouts\/page.html",
 		"oF": 0
 		},
+	"\/Layouts\/search\/_original\/search.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/search\/_original\/search.html",
+		"oF": 0
+		},
+	"\/Layouts\/search\/search.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/search\/search.html",
+		"oF": 0
+		},
 	"\/panels\/_original\/CategoryHeading.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -590,18 +602,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/search\/_original\/search.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/search\/_original\/search.html",
-		"oF": 0
-		},
-	"\/search\/search.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/search\/search.html",
-		"oF": 0
 		},
 	"\/Snippets\/_original\/PageMenu.html": {
 		"ft": 8192,
