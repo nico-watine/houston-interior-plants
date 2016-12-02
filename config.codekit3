@@ -53,66 +53,6 @@
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
-	"\/blog\/_original\/blog.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/_original\/blog.html",
-		"oF": 0
-		},
-	"\/blog\/_original\/blog_post.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/_original\/blog_post.html",
-		"oF": 0
-		},
-	"\/blog\/blog.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/blog.html",
-		"oF": 0
-		},
-	"\/blog\/blog_post.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/blog_post.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/how-do-i-choose-a-plant.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/how-do-i-choose-a-plant.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/how-do-i-choose-the-right-pot.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/how-do-i-choose-the-right-pot.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/how-do-i-design-with-plants.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/how-do-i-design-with-plants.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/the-case-for-quality-plants.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/the-case-for-quality-plants.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/top-10-best-indoor-plants.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/top-10-best-indoor-plants.html",
-		"oF": 0
-		},
-	"\/blog\/posts\/top-5-easiest-office-floor-plants.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/blog\/posts\/top-5-easiest-office-floor-plants.html",
-		"oF": 0
-		},
 	"\/css\/custom.css": {
 		"aP": 0,
 		"bl": 0,
@@ -127,6 +67,30 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/_original\/page.html",
+		"oF": 0
+		},
+	"\/Layouts\/blog\/_original\/blog.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/blog\/_original\/blog.html",
+		"oF": 0
+		},
+	"\/Layouts\/blog\/_original\/blog_post.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/blog\/_original\/blog_post.html",
+		"oF": 0
+		},
+	"\/Layouts\/blog\/blog.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/blog\/blog.html",
+		"oF": 0
+		},
+	"\/Layouts\/blog\/blog_post.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/blog\/blog_post.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/_original\/category.html": {
@@ -691,6 +655,42 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/about-us\/original-text.txt",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/how-do-i-choose-a-plant.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/how-do-i-choose-a-plant.html",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/how-do-i-choose-the-right-pot.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/how-do-i-choose-the-right-pot.html",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/how-do-i-design-with-plants.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/how-do-i-design-with-plants.html",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/the-case-for-quality-plants.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/the-case-for-quality-plants.html",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/top-10-best-indoor-plants.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/top-10-best-indoor-plants.html",
+		"oF": 0
+		},
+	"\/storefront-content\/blog-posts\/top-5-easiest-office-floor-plants.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/blog-posts\/top-5-easiest-office-floor-plants.html",
 		"oF": 0
 		},
 	"\/storefront-content\/delivery-policy\/deliver-policy.html": {
