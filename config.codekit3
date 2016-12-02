@@ -201,34 +201,34 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/index\/_original\/default.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index\/_original\/default.html",
-		"oF": 0
-		},
-	"\/index\/blocks\/functional-tri-banner.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index\/blocks\/functional-tri-banner.html",
-		"oF": 0
-		},
-	"\/index\/blocks\/pretty-tri-banner.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index\/blocks\/pretty-tri-banner.html",
-		"oF": 0
-		},
-	"\/index\/default.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index\/default.html",
-		"oF": 0
-		},
 	"\/Layouts\/_original\/page.html": {
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/_original\/page.html",
+		"oF": 0
+		},
+	"\/Layouts\/index\/_original\/default.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/index\/_original\/default.html",
+		"oF": 0
+		},
+	"\/Layouts\/index\/blocks\/functional-tri-banner.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/index\/blocks\/functional-tri-banner.html",
+		"oF": 0
+		},
+	"\/Layouts\/index\/blocks\/pretty-tri-banner.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/index\/blocks\/pretty-tri-banner.html",
+		"oF": 0
+		},
+	"\/Layouts\/index\/default.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Layouts\/index\/default.html",
 		"oF": 0
 		},
 	"\/Layouts\/layout-test.html": {
