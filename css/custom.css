@@ -223,9 +223,3 @@ ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 .ProductList li .ProductActionAdd a:hover, #CategoryContent .ProductActionAdd a:hover { background: #569300 !important; color: #fff !important; }
 
 .ProductPriceWrap { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-.plant-header-contact-banner { background: #fff url("https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-header-contact-banner.jpg") center center/contain no-repeat; width: 100%; height: 120px; }
-
-.plant-header-contact-banner .prose { padding: 12px 22px; background-color: #fff; }
-
-.plant-header-contact-banner .prose h4 { font-size: 14px; text-transform: none; }
