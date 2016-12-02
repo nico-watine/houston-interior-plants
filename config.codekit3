@@ -4195,6 +4195,12 @@
 		"oAP": "\/WebDAV\/redirects-2016-07-11.csv",
 		"oF": 0
 		},
+	"\/WebDAV\/template\/_layout-test.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/WebDAV\/template\/_layout-test.html",
+		"oF": 0
+		},
 	"\/WebDAV\/template\/category.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -4205,12 +4211,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/default.html",
-		"oF": 0
-		},
-	"\/WebDAV\/template\/layout-test.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/WebDAV\/template\/layout-test.html",
 		"oF": 0
 		}
 	},
