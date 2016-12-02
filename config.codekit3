@@ -53,24 +53,6 @@
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
-	"\/about-us\/about-us-text.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/about-us\/about-us-text.txt",
-		"oF": 0
-		},
-	"\/about-us\/about-us.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/about-us\/about-us.html",
-		"oF": 0
-		},
-	"\/about-us\/original-text.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/about-us\/original-text.txt",
-		"oF": 0
-		},
 	"\/blog\/_original\/blog.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -691,6 +673,24 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/ProductTinyImage.html",
+		"oF": 0
+		},
+	"\/storefront-content\/about-us\/about-us-text.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storefront-content\/about-us\/about-us-text.txt",
+		"oF": 0
+		},
+	"\/storefront-content\/about-us\/about-us.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/storefront-content\/about-us\/about-us.html",
+		"oF": 0
+		},
+	"\/storefront-content\/about-us\/original-text.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storefront-content\/about-us\/original-text.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/delivery-policy\/deliver-policy.html": {
