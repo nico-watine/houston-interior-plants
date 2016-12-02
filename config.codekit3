@@ -225,22 +225,22 @@
 		"oAP": "\/index\/default.html",
 		"oF": 0
 		},
-	"\/pages\/_original\/page.html": {
+	"\/Layouts\/_original\/page.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pages\/_original\/page.html",
+		"oAP": "\/Layouts\/_original\/page.html",
 		"oF": 0
 		},
-	"\/pages\/delivery-policy.html": {
+	"\/Layouts\/delivery-policy.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/pages\/delivery-policy.html",
+		"oAP": "\/Layouts\/delivery-policy.html",
 		"oF": 0
 		},
-	"\/pages\/page.html": {
+	"\/Layouts\/page.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/pages\/page.html",
+		"oAP": "\/Layouts\/page.html",
 		"oF": 0
 		},
 	"\/panels\/_original\/CategoryHeading.html": {
