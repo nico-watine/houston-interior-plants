@@ -131,66 +131,6 @@
 		"oAP": "\/blog\/posts\/top-5-easiest-office-floor-plants.html",
 		"oF": 0
 		},
-	"\/category\/_original\/category.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/_original\/category.html",
-		"oF": 0
-		},
-	"\/category\/category.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/category.html",
-		"oF": 0
-		},
-	"\/category\/product\/_original\/product.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/product\/_original\/product.html",
-		"oF": 0
-		},
-	"\/category\/product\/product.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/product\/product.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-plants\/by-light-level.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/shop-for-plants\/by-light-level.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-plants\/by-plant-size.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/shop-for-plants\/by-plant-size.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-plants\/by-plant-type.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/shop-for-plants\/by-plant-type.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-plants\/shop-for-plants.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/category\/shop-for-plants\/shop-for-plants.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-pots\/home-collection.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/shop-for-pots\/home-collection.html",
-		"oF": 0
-		},
-	"\/category\/shop-for-pots\/shop-for-pots.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/category\/shop-for-pots\/shop-for-pots.html",
-		"oF": 0
-		},
 	"\/css\/custom.css": {
 		"aP": 0,
 		"bl": 0,
@@ -205,6 +145,66 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/_original\/page.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/_original\/category.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/_original\/category.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/category.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/category.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/product\/_original\/product.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/product\/_original\/product.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/product\/product.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/product\/product.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-plants\/by-light-level.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/shop-for-plants\/by-light-level.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-plants\/by-plant-size.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/shop-for-plants\/by-plant-size.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-plants\/by-plant-type.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/shop-for-plants\/by-plant-type.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-plants\/shop-for-plants.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Layouts\/category\/shop-for-plants\/shop-for-plants.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-pots\/home-collection.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/shop-for-pots\/home-collection.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-pots\/shop-for-pots.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/Layouts\/category\/shop-for-pots\/shop-for-pots.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/_original\/default.html": {
