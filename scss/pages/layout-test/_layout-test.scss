@@ -1,22 +1,28 @@
 @import "../../_settings.scss";
 
 .plant-header-contact-banner {
-	background: #fff url('https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-header-contact-banner.jpg') center center/contain no-repeat;
+	background: #fff url('https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-header-contact-banner.jpg') center center/100% 100% no-repeat;
 	width: 100%;
 	min-height: 120px;
 	margin-top: 130px;
+	padding-bottom: 15px;
 
 	.prose {
 		padding: 12px 22px;
 		background-color: #fff;
-		margin-top: 15px;
+		margin: 15px 80px 0 0;
 		width: 260px; 
-		margin-right: 80px; 
 		float: right;
 
 		h4 {
-			font-size: 14px;
+			// font-size: 14px;
+			font-size: 16px;
 			text-transform: none;
+		}
+
+		p {
+			font-size: 15px;
+			line-height: 1.5;
 		}
 	}
 }
