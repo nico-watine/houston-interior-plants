@@ -45,7 +45,7 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/img-links.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_ignores\/pinterest-link.html": {
 		"ft": 8192,
@@ -229,6 +229,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/pages\/_original\/page.html",
+		"oF": 0
+		},
+	"\/pages\/delivery-policy.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/delivery-policy.html",
 		"oF": 0
 		},
 	"\/pages\/page.html": {
@@ -709,6 +715,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/returns-exchanges-policy\/returns-exchanges-policy.html",
+		"oF": 0
+		},
+	"\/storefront-content\/shop-for-services\/page-content.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storefront-content\/shop-for-services\/page-content.html",
 		"oF": 0
 		},
 	"\/storefront-content\/shop-for-services\/shop-for-services.html": {
