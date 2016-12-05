@@ -53,6 +53,12 @@
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
+	"\/_ignores\/shop-for-pots-category-urls.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/shop-for-pots-category-urls.txt",
+		"oF": 0
+		},
 	"\/css\/custom.css": {
 		"aP": 0,
 		"bl": 0,
@@ -151,6 +157,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-pots\/shop-for-pots.html",
+		"oF": 0
+		},
+	"\/Layouts\/category\/shop-for-pots\/snippets\/anduze-snippet.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Layouts\/category\/shop-for-pots\/snippets\/anduze-snippet.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/_original\/default.html": {
