@@ -178,7 +178,11 @@ table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0;
 
 table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
 
-.Breadcrumb, .Breadcrumb a { color: #000; }
+.Breadcrumb { color: #000; }
+
+.Breadcrumb a { color: #000; }
+
+.Breadcrumb a:hover { color: #2199E8; }
 
 a.standard { color: #569300; text-decoration: underline; }
 

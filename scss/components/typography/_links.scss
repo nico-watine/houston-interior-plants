@@ -1,9 +1,19 @@
 @import "../../_settings.scss";
 
-.Breadcrumb,
-.Breadcrumb a {
+.Breadcrumb {
 	color: #000;
 }
+
+
+.Breadcrumb a {
+	color: #000;
+
+	&:hover {
+		color: $link-blue;
+	}
+}
+
+
 
 a.standard {
 	color: $primary-green;
@@ -11,6 +21,6 @@ a.standard {
 
 	&:hover {
 		text-decoration: none;
-		color: #2199E8;
+		color: $link-blue;
 	}
 }
