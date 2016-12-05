@@ -14,6 +14,16 @@
 }
 
 
+#ProductDescription a {
+	color: $primary-green;
+	text-decoration: underline;
+
+	&:hover {
+		color: $link-blue;
+		text-decoration: none;
+	}
+}
+
 
 a.standard {
 	color: $primary-green;

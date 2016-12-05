@@ -184,6 +184,10 @@ table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; ma
 
 .Breadcrumb a:hover { color: #2199E8; }
 
+#ProductDescription a { color: #569300; text-decoration: underline; }
+
+#ProductDescription a:hover { color: #2199E8; text-decoration: none; }
+
 a.standard { color: #569300; text-decoration: underline; }
 
 a.standard:hover { text-decoration: none; color: #2199E8; }
