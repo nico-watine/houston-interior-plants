@@ -1,0 +1,13 @@
+# -----------------------------------------------------
+# |            Shop For Pots Category URLs            |
+# -----------------------------------------------------
+
+
+Traditional
+http://houstoninteriorplants.com/shop-for-pots/home-collection/traditional/
+
+Contemporary
+http://houstoninteriorplants.com/shop-for-pots/home-collection/contemporary/
+
+Front Door & Patio
+http://houstoninteriorplants.com/shop-for-pots/home-collection/front-door-patio/
