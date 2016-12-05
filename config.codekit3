@@ -207,94 +207,94 @@
 		"oAP": "\/Layouts\/search\/search.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/CategoryHeading.html": {
+	"\/Panels\/_original\/CategoryHeading.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/CategoryHeading.html",
+		"oAP": "\/Panels\/_original\/CategoryHeading.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/Footer.html": {
+	"\/Panels\/_original\/Footer.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/Footer.html",
+		"oAP": "\/Panels\/_original\/Footer.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/Header.html": {
+	"\/Panels\/_original\/Header.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/Header.html",
+		"oAP": "\/Panels\/_original\/Header.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/PagesMenu.html": {
+	"\/Panels\/_original\/PagesMenu.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/PagesMenu.html",
+		"oAP": "\/Panels\/_original\/PagesMenu.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/ProductDetails.html": {
+	"\/Panels\/_original\/ProductDetails.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/ProductDetails.html",
+		"oAP": "\/Panels\/_original\/ProductDetails.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/SearchPageHeader.html": {
+	"\/Panels\/_original\/SearchPageHeader.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/SearchPageHeader.html",
+		"oAP": "\/Panels\/_original\/SearchPageHeader.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/SideCategoryList.html": {
+	"\/Panels\/_original\/SideCategoryList.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/SideCategoryList.html",
+		"oAP": "\/Panels\/_original\/SideCategoryList.html",
 		"oF": 0
 		},
-	"\/panels\/_original\/TopMenu.html": {
+	"\/Panels\/_original\/TopMenu.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/_original\/TopMenu.html",
+		"oAP": "\/Panels\/_original\/TopMenu.html",
 		"oF": 0
 		},
-	"\/panels\/CategoryHeading.html": {
+	"\/Panels\/CategoryHeading.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/CategoryHeading.html",
+		"oAP": "\/Panels\/CategoryHeading.html",
 		"oF": 0
 		},
-	"\/panels\/Footer.html": {
+	"\/Panels\/Footer.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/Footer.html",
+		"oAP": "\/Panels\/Footer.html",
 		"oF": 0
 		},
-	"\/panels\/Header.html": {
+	"\/Panels\/Header.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/Header.html",
+		"oAP": "\/Panels\/Header.html",
 		"oF": 0
 		},
-	"\/panels\/PagesMenu.html": {
+	"\/Panels\/PagesMenu.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/PagesMenu.html",
+		"oAP": "\/Panels\/PagesMenu.html",
 		"oF": 0
 		},
-	"\/panels\/SearchPageHeader.html": {
+	"\/Panels\/SearchPageHeader.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/SearchPageHeader.html",
+		"oAP": "\/Panels\/SearchPageHeader.html",
 		"oF": 0
 		},
-	"\/panels\/SideCategoryList.html": {
+	"\/Panels\/SideCategoryList.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/SideCategoryList.html",
+		"oAP": "\/Panels\/SideCategoryList.html",
 		"oF": 0
 		},
-	"\/panels\/TopMenu.html": {
+	"\/Panels\/TopMenu.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/panels\/TopMenu.html",
+		"oAP": "\/Panels\/TopMenu.html",
 		"oF": 0
 		},
 	"\/scss\/_settings.scss": {
@@ -747,6 +747,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/returns-exchanges-policy\/returns-exchanges-policy.html",
+		"oF": 0
+		},
+	"\/storefront-content\/shop-for-services\/_notes.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/storefront-content\/shop-for-services\/_notes.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/shop-for-services\/page-content.html": {
