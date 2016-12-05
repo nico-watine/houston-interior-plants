@@ -13,18 +13,18 @@
 				img {
 					// border: 1px solid #fff;
 					width: 100%;
-					border: 1px solid $dark-green;
+					border: 1px solid $primary-green;
 				}
 			}
 
 			&:hover {
 				.ProductImage {
 					background: #f7f7f7;
-					border: 1px solid $dark-green;
+					border: 1px solid $primary-green;
 					// box-shadow: $z-1;
 
 					img {
-						// border: 2px solid $dark-green;
+						// border: 2px solid $primary-green;
 						border: 1px solid #fff;
 						box-shadow: $z-1;
 					}
@@ -37,7 +37,7 @@
 
 .ProductList li .ProductActionAdd a:hover,
 #CategoryContent .ProductActionAdd a:hover {
-	background: $dark-green !important;
+	background: $primary-green !important;
 	color: #fff !important;
 }
 

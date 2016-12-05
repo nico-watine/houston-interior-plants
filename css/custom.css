@@ -164,16 +164,6 @@ a.CustomizeItemLink:hover, .KeepShopping a:hover { color: #6e6e6e; }
 
 .CartContents .ProductName a:hover { color: #6e6e6e; }
 
-.header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
-
-.body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
-
-.Breadcrumb, .Breadcrumb a { color: #000; }
-
-a.standard { color: #569300; text-decoration: underline; }
-
-a.standard:hover { text-decoration: none; color: #2199E8; }
-
 .shadow-1 { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
 .shadow-2 { box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
@@ -187,6 +177,24 @@ a.standard:hover { text-decoration: none; color: #2199E8; }
 table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0; margin: 0; }
 
 table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
+
+.Breadcrumb { color: #000; }
+
+.Breadcrumb a { color: #000; }
+
+.Breadcrumb a:hover { color: #2199E8; }
+
+#ProductDescription a { color: #569300; text-decoration: underline; }
+
+#ProductDescription a:hover { color: #2199E8; text-decoration: none; }
+
+a.standard { color: #569300; text-decoration: underline; }
+
+a.standard:hover { text-decoration: none; color: #2199E8; }
+
+.header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
+
+.body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
 
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
 
