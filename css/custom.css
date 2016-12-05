@@ -178,15 +178,15 @@ table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0;
 
 table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
 
-.header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
-
-.body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
-
 .Breadcrumb, .Breadcrumb a { color: #000; }
 
 a.standard { color: #569300; text-decoration: underline; }
 
 a.standard:hover { text-decoration: none; color: #2199E8; }
+
+.header-font { font-family: "Montserrat", Helvetica, Arial, sans-serif; }
+
+.body-font { font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif; }
 
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
 

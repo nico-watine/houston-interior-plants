@@ -1,25 +1,10 @@
 @import "../../_settings.scss";
+@import "_links.scss";
 
 .header-font {
 	font-family: $header-font;
 }
 
-
 .body-font {
 	font-family: $body-font;
-}
-
-.Breadcrumb,
-.Breadcrumb a {
-	color: #000;
-}
-
-a.standard {
-	color: $dark-green;
-	text-decoration: underline;
-
-	&:hover {
-		text-decoration: none;
-		color: #2199E8;
-	}
 }
