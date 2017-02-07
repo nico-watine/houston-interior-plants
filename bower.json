@@ -1,0 +1,17 @@
+{
+  "name": "houston-interior-plants",
+  "homepage": "https://github.com/nico-watine/houston-interior-plants",
+  "authors": [
+    "Nico Watine <nico@studioncreations.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
