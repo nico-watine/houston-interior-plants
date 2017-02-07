@@ -34,42 +34,6 @@
 
 #Header #HeaderLower { width: 100%; }
 
-.custom-sidebar { width: 215px; float: left; padding-top: 20px; }
-
-.custom-sidebar .panel { background: #F4F4F4; margin-bottom: 15px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px 7px; }
-
-.custom-sidebar .panel .panel-label { color: #569300; font-size: 18px; text-transform: none; letter-spacing: 0; margin-bottom: 14px; }
-
-.custom-sidebar .panel ul { padding: 0; margin: 0; }
-
-.custom-sidebar .panel ul li { margin-bottom: 10px; display: block; }
-
-.custom-sidebar .panel ul li a { color: #569300; font-size: 14px; }
-
-.custom-sidebar .panel ul li a:hover { color: #777; text-decoration: underline; }
-
-.custom-sidebar #bbb-link { text-align: center; padding-top: 10px; margin: 0 auto 15px; }
-
-.custom-sidebar #bbb-link img { width: 120px; height: auto; }
-
-.custom-sidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
-
-.custom-sidebar #usa-grown img { width: 80px; height: auto; }
-
-.custom-sidebar #usa-grown p { font-size: 13px; }
-
-.custom-sidebar .panel#delivery p { color: #000; }
-
-.custom-sidebar .panel#delivery p a { color: #569300; }
-
-.custom-sidebar .panel#delivery p a:hover { color: #777; text-decoration: underline; }
-
-.custom-sidebar .panel#new-store p, .custom-sidebar .panel#new-store a { font-size: 16px; margin-bottom: 10px; }
-
-.custom-sidebar .panel#new-store a { color: #569300; }
-
-.custom-sidebar .panel#new-store a:hover { color: #777; text-decoration: underline; }
-
 .custom-wrapper#Wrapper { float: right; width: 950px; clear: initial; padding-top: 20px; }
 
 .custom-wrapper#Wrapper .Breadcrumb { padding: 20px 0 10px 10px; }
@@ -241,3 +205,53 @@ ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 .plant-contact-banner .prose p, .plant-contact-banner .prose a { font-size: 15px; line-height: 1.5; margin-bottom: 0; }
 
 .plant-contact-banner .prose a.standard { text-decoration: none; }
+
+#Container { width: 1180px; margin: auto; }
+
+#Header { width: 100%; }
+
+#Header #HeaderLower { width: 100%; }
+
+.custom-sidebar { width: 215px; float: left; padding-top: 20px; }
+
+.custom-sidebar .panel { background: #F4F4F4; margin-bottom: 15px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px 7px; }
+
+.custom-sidebar .panel .panel-label { color: #569300; font-size: 18px; text-transform: none; letter-spacing: 0; margin-bottom: 14px; }
+
+.custom-sidebar .panel ul { padding: 0; margin: 0; }
+
+.custom-sidebar .panel ul li { margin-bottom: 10px; display: block; }
+
+.custom-sidebar .panel ul li a { color: #569300; font-size: 14px; }
+
+.custom-sidebar .panel ul li a:hover { color: #777; text-decoration: underline; }
+
+.custom-sidebar #bbb-link { text-align: center; padding-top: 10px; margin: 0 auto 15px; }
+
+.custom-sidebar #bbb-link img { width: 120px; height: auto; }
+
+.custom-sidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
+
+.custom-sidebar #usa-grown img { width: 80px; height: auto; }
+
+.custom-sidebar #usa-grown p { font-size: 13px; }
+
+.custom-sidebar .panel#delivery p { color: #000; }
+
+.custom-sidebar .panel#delivery p a { color: #569300; }
+
+.custom-sidebar .panel#delivery p a:hover { color: #777; text-decoration: underline; }
+
+.custom-sidebar .panel#new-store p, .custom-sidebar .panel#new-store a { font-size: 16px; margin-bottom: 10px; }
+
+.custom-sidebar .panel#new-store a { color: #569300; }
+
+.custom-sidebar .panel#new-store a:hover { color: #777; text-decoration: underline; }
+
+.custom-wrapper#Wrapper { float: right; width: 950px; clear: initial; padding-top: 20px; }
+
+.custom-wrapper#Wrapper .Breadcrumb { padding: 20px 0 10px 10px; }
+
+.custom-wrapper#Wrapper .header-wrapper { border-color: #000; }
+
+.custom-wrapper#Wrapper .Content.Widest { width: 100%; }

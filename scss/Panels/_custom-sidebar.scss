@@ -1,0 +1,102 @@
+@import "../_settings.scss";
+
+
+.custom-sidebar {
+	width: 215px; 
+	float: left; 
+	padding-top: 20px;
+
+	.panel {
+		background: #F4F4F4;
+		margin-bottom: 15px;
+		box-shadow: $z-1;
+		padding: 8px 7px;
+
+		.panel-label {
+			color: #569300;
+			font-size: 18px; 
+			text-transform: none; 
+			letter-spacing: 0;
+			margin-bottom: 14px;
+		}
+
+		ul {
+			padding: 0;
+			margin: 0;
+
+			li {
+				margin-bottom: 10px;
+				display: block;
+
+				a {
+					color: #569300;
+					font-size: 14px;
+
+					&:hover {
+						color: #777;
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+	}
+
+	#bbb-link {
+		text-align: center;
+		padding-top: 10px;
+		margin: 0 auto 15px;
+
+		img {
+			width: 120px;
+			height: auto;
+		}
+	}
+
+	#usa-grown {
+		text-align: center;
+		padding-top: 10px;
+		margin-bottom: 20px;
+
+		img {
+			width: 80px;
+			height: auto;
+		}
+
+		p {
+			font-size: 13px;
+		}
+	}
+
+	.panel#delivery {
+		p {
+			color: #000;
+
+			a {
+				color: #569300;
+
+				&:hover {
+					color: #777;
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+
+	.panel#new-store {
+		p,
+		a {
+			font-size: 16px;
+			margin-bottom: 10px;
+		}
+
+		a {
+			color: #569300;
+
+			&:hover {
+				color: #777;
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
