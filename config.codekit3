@@ -261,6 +261,12 @@
 		"oAP": "\/Panels\/CategoryHeading.html",
 		"oF": 0
 		},
+	"\/Panels\/custom-sidebar.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Panels\/custom-sidebar.html",
+		"oF": 0
+		},
 	"\/Panels\/Footer.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -4255,6 +4261,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/default.html",
+		"oF": 0
+		},
+	"\/WebDAV\/template\/Panels\/custom-sidebar.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/WebDAV\/template\/Panels\/custom-sidebar.html",
 		"oF": 0
 		}
 	},
