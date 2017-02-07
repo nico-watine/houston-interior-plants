@@ -94,7 +94,7 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 
 .PrimaryProductDetails .ProductMain { padding-left: 10px; }
 
-.PostBody p { font-size: rem(16); line-height: 1.4; }
+.PostBody p { font-size: 1rem; line-height: 1.4; }
 
 .PostBody a { color: #569300; text-decoration: underline; }
 
@@ -206,12 +206,6 @@ ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 
 .plant-contact-banner .prose a.standard { text-decoration: none; }
 
-#Container { width: 1180px; margin: auto; }
-
-#Header { width: 100%; }
-
-#Header #HeaderLower { width: 100%; }
-
 .custom-sidebar { width: 215px; float: left; padding-top: 20px; }
 
 .custom-sidebar .panel { background: #F4F4F4; margin-bottom: 15px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px 7px; }
@@ -247,11 +241,3 @@ ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 .custom-sidebar .panel#new-store a { color: #569300; }
 
 .custom-sidebar .panel#new-store a:hover { color: #777; text-decoration: underline; }
-
-.custom-wrapper#Wrapper { float: right; width: 950px; clear: initial; padding-top: 20px; }
-
-.custom-wrapper#Wrapper .Breadcrumb { padding: 20px 0 10px 10px; }
-
-.custom-wrapper#Wrapper .header-wrapper { border-color: #000; }
-
-.custom-wrapper#Wrapper .Content.Widest { width: 100%; }
