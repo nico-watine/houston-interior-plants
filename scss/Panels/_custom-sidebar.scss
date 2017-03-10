@@ -99,16 +99,16 @@
 		margin-bottom: 12px;
 	}
 
-	p {
+	p,
+	address {
 		font-size: 14px;
 		line-height: 1.4;
 		margin-bottom: 16px;
 	}
 
 	address {
-		font-size: 16px;
+		margin-bottom: 0;
 		font-style: normal;
-		line-height: 1.3;
 	}
 
 	a {
