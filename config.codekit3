@@ -7,7 +7,7 @@
 		"uuidString": "30C96730-1E93-45DC-8C80-4DC4411E96B0"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -18,10 +18,12 @@
 	"\/_ignores\/codekit-icon.png": {
 		"ft": 32768,
 		"iS": 22084,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/_ignores\/codekit-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/dns-settings.txt": {
 		"ft": 8192,
@@ -2259,162 +2261,202 @@
 	"\/WebDAV\/mobile_template\/images\/classic\/btn_paypal.png": {
 		"ft": 32768,
 		"iS": 2837,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/btn_paypal.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_cart_black.png": {
 		"ft": 32768,
 		"iS": 366,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_cart_black.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_cart_white.png": {
 		"ft": 32768,
 		"iS": 375,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_cart_white.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkbox.png": {
 		"ft": 32768,
 		"iS": 248,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkbox.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_hide.png": {
 		"ft": 32768,
 		"iS": 213,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_hide.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_show.png": {
 		"ft": 32768,
 		"iS": 217,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_show.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_close.png": {
 		"ft": 32768,
 		"iS": 147,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_close.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_heart.png": {
 		"ft": 32768,
 		"iS": 237,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_heart.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_menu.png": {
 		"ft": 32768,
 		"iS": 170,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_menu.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_nav_arrow.png": {
 		"ft": 32768,
 		"iS": 224,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_nav_arrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_radio.png": {
 		"ft": 32768,
 		"iS": 467,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_radio.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_remove.png": {
 		"ft": 32768,
 		"iS": 170,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_remove.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_search.png": {
 		"ft": 32768,
 		"iS": 316,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_search.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_select.png": {
 		"ft": 32768,
 		"iS": 222,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_select.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_social.png": {
 		"ft": 32768,
 		"iS": 8037,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_social.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_product.png": {
 		"ft": 32768,
 		"iS": 8939,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_product.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_product1.png": {
 		"ft": 32768,
 		"iS": 43071,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_product1.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_slide.png": {
 		"ft": 32768,
 		"iS": 31599,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_slide.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/AddCartButton.png": {
 		"ft": 32768,
 		"iS": 2426,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/AddCartButton.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/Cart.png": {
 		"ft": 32768,
 		"iS": 1018,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/Cart.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/ChatIcon.gif": {
 		"ft": 4194304,
@@ -2427,58 +2469,72 @@
 	"\/WebDAV\/mobile_template\/images\/default\/IconAccount.png": {
 		"ft": 32768,
 		"iS": 734,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconAccount.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconCart.png": {
 		"ft": 32768,
 		"iS": 640,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconCart.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconHome.png": {
 		"ft": 32768,
 		"iS": 656,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconHome.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconSearch.png": {
 		"ft": 32768,
 		"iS": 676,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconSearch.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconWishlist.png": {
 		"ft": 32768,
 		"iS": 624,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconWishlist.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/LeftArrow.png": {
 		"ft": 32768,
 		"iS": 772,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/LeftArrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/RightArrow.png": {
 		"ft": 32768,
 		"iS": 765,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/RightArrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/ErrorMessage.gif": {
 		"ft": 4194304,
@@ -2494,7 +2550,8 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/ExampleGiftCertificate.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/GiftWrappingAvailable.gif": {
 		"ft": 4194304,
@@ -2539,10 +2596,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating0.png": {
 		"ft": 32768,
 		"iS": 97,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating0.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating1.gif": {
 		"ft": 4194304,
@@ -2555,10 +2614,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating1.png": {
 		"ft": 32768,
 		"iS": 581,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating1.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating2.gif": {
 		"ft": 4194304,
@@ -2571,10 +2632,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating2.png": {
 		"ft": 32768,
 		"iS": 585,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating2.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating3.gif": {
 		"ft": 4194304,
@@ -2587,10 +2650,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating3.png": {
 		"ft": 32768,
 		"iS": 586,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating3.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating4.gif": {
 		"ft": 4194304,
@@ -2603,10 +2668,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating4.png": {
 		"ft": 32768,
 		"iS": 611,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating4.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating5.gif": {
 		"ft": 4194304,
@@ -2619,10 +2686,12 @@
 	"\/WebDAV\/mobile_template\/images\/IcoRating5.png": {
 		"ft": 32768,
 		"iS": 384,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating5.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/InfoMessage.gif": {
 		"ft": 4194304,
@@ -2635,10 +2704,12 @@
 	"\/WebDAV\/mobile_template\/images\/LeftArrow.png": {
 		"ft": 32768,
 		"iS": 270,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/LeftArrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/Loading.gif": {
 		"ft": 4194304,
@@ -2657,10 +2728,12 @@
 	"\/WebDAV\/mobile_template\/images\/MagnifyingGlass.png": {
 		"ft": 32768,
 		"iS": 1487,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/MagnifyingGlass.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/NodeJoin.gif": {
 		"ft": 4194304,
@@ -2673,18 +2746,22 @@
 	"\/WebDAV\/mobile_template\/images\/out-of-stock-bg.png": {
 		"ft": 32768,
 		"iS": 196,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/out-of-stock-bg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/paypal_btn_checkout_118x24.png": {
 		"ft": 32768,
 		"iS": 2837,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/paypal_btn_checkout_118x24.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/ProductDefault.50.50.gif": {
 		"ft": 4194304,
@@ -2705,10 +2782,12 @@
 	"\/WebDAV\/mobile_template\/images\/RightArrow.png": {
 		"ft": 32768,
 		"iS": 266,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/RightArrow.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/RSS.gif": {
 		"ft": 4194304,
@@ -2761,18 +2840,22 @@
 	"\/WebDAV\/mobile_template\/images\/VideoOverlay.png": {
 		"ft": 32768,
 		"iS": 1629,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/VideoOverlay.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/VideoOverlayLarge.png": {
 		"ft": 32768,
 		"iS": 1624,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/VideoOverlayLarge.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/common.js": {
 		"ft": 64,
@@ -2875,18 +2958,22 @@
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons.png": {
 		"ft": 32768,
 		"iS": 1355,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons@2x.png": {
 		"ft": 32768,
 		"iS": 2229,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons@2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/lib\/klass.min.js": {
 		"ft": 64,
@@ -3680,7 +3767,8 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/Previews\/default.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/product.html": {
 		"ft": 8192,
@@ -6087,6 +6175,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -6566,6 +6658,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -7166,7 +7262,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -7259,7 +7356,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
