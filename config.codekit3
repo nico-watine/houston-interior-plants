@@ -2009,6 +2009,180 @@
 		"oAP": "\/storefront-content\/shop-for-services\/shop-for-services.html",
 		"oF": 0
 		},
+	"\/webdav-clone\/exports\/redirects-2016-07-11.csv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/exports\/redirects-2016-07-11.csv",
+		"oF": 0
+		},
+	"\/webdav-clone\/mobile_template\/Panels\/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/mobile_template\/Panels\/Footer.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/mobile_template\/Panels\/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/mobile_template\/Panels\/Header.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/mobile_template\/Styles\/default.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/mobile_template\/Styles\/default-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/webdav-clone\/README_WebDav.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/README_WebDav.txt",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/blog.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/blog.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/blog_post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/blog_post.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/category.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/default.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/default.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/page.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/CategoryHeading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/CategoryHeading.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/custom-sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/custom-sidebar.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/Footer.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/Header.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/SearchPageHeader.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/SearchPageHeader.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/SideCategoryList.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/SideCategoryList.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Panels\/TopMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Panels\/TopMenu.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/product.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/README.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/README.txt",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/search.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Snippets\/PageMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Snippets\/PageMenu.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Snippets\/ProductImageZoomer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Snippets\/ProductImageZoomer.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Snippets\/ProductTinyImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Snippets\/ProductTinyImage.html",
+		"oF": 0
+		},
+	"\/webdav-clone\/template\/Styles\/custom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/webdav-clone\/template\/Styles\/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/WebDAV\/mobile_template\/403.html": {
 		"cB": 0,
 		"ft": 8192,
