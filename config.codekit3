@@ -7,9 +7,10 @@
 		"uuidString": "30C96730-1E93-45DC-8C80-4DC4411E96B0"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "26330",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
@@ -21,39 +22,55 @@
 		"oA": 0,
 		"oAP": "\/_ignores\/codekit-icon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_ignores\/current-contact-snippet.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/current-contact-snippet.html",
+		"oF": 0
 		},
 	"\/_ignores\/dns-settings.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/dns-settings.txt",
 		"oF": 0
 		},
 	"\/_ignores\/houston-interior-plants.sublime-project": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/houston-interior-plants.sublime-project",
 		"oF": 0
 		},
 	"\/_ignores\/houston-interior-plants.sublime-workspace": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/houston-interior-plants.sublime-workspace",
 		"oF": 0
 		},
 	"\/_ignores\/img-links.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/img-links.html",
 		"oF": 1
 		},
 	"\/_ignores\/pinterest-link.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
 	"\/_ignores\/shop-for-pots-category-urls.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/shop-for-pots-category-urls.txt",
@@ -1124,6 +1141,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/bourbon\/circle.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/bourbon\/circle.yml",
@@ -1131,6 +1149,7 @@
 		},
 	"\/bower_components\/bourbon\/eyeglass-exports.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/bourbon\/eyeglass-exports.js",
@@ -1140,6 +1159,7 @@
 		},
 	"\/bower_components\/bourbon\/index.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/bourbon\/index.js",
@@ -1148,10 +1168,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/bourbon\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1166,10 +1186,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/bourbon\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1194,244 +1214,283 @@
 		"oS": 0
 		},
 	"\/Layouts\/_original\/page.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/_original\/page.html",
 		"oF": 0
 		},
 	"\/Layouts\/blog\/_original\/blog.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/blog\/_original\/blog.html",
 		"oF": 0
 		},
 	"\/Layouts\/blog\/_original\/blog_post.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/blog\/_original\/blog_post.html",
 		"oF": 0
 		},
 	"\/Layouts\/blog\/blog.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/blog\/blog.html",
 		"oF": 0
 		},
 	"\/Layouts\/blog\/blog_post.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/blog\/blog_post.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/_original\/category.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/_original\/category.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/category.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/category.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/product\/_original\/product.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/product\/_original\/product.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/product\/product.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/product\/product.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-plants\/by-light-level.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-plants\/by-light-level.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-plants\/by-plant-size.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-plants\/by-plant-size.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-plants\/by-plant-type.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-plants\/by-plant-type.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-plants\/shop-for-plants.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Layouts\/category\/shop-for-plants\/shop-for-plants.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-pots\/home-collection.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-pots\/home-collection.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-pots\/shop-for-pots.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/category\/shop-for-pots\/shop-for-pots.html",
 		"oF": 0
 		},
 	"\/Layouts\/category\/shop-for-pots\/snippets\/anduze-snippet.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Layouts\/category\/shop-for-pots\/snippets\/anduze-snippet.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/_original\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/index\/_original\/default.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/blocks\/functional-tri-banner.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/index\/blocks\/functional-tri-banner.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/blocks\/pretty-tri-banner.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/index\/blocks\/pretty-tri-banner.html",
 		"oF": 0
 		},
 	"\/Layouts\/index\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Layouts\/index\/default.html",
 		"oF": 0
 		},
 	"\/Layouts\/page.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/page.html",
 		"oF": 0
 		},
 	"\/Layouts\/search\/_original\/search.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/search\/_original\/search.html",
 		"oF": 0
 		},
 	"\/Layouts\/search\/search.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Layouts\/search\/search.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/CategoryHeading.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/CategoryHeading.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/Footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/Footer.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/Header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/Header.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/PagesMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/PagesMenu.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/ProductDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/ProductDetails.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/SearchPageHeader.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/SearchPageHeader.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/SideCategoryList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/SideCategoryList.html",
 		"oF": 0
 		},
 	"\/Panels\/_original\/TopMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/_original\/TopMenu.html",
 		"oF": 0
 		},
 	"\/Panels\/CategoryHeading.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/CategoryHeading.html",
 		"oF": 0
 		},
 	"\/Panels\/custom-sidebar.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Panels\/custom-sidebar.html",
 		"oF": 0
 		},
 	"\/Panels\/Footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/Footer.html",
 		"oF": 0
 		},
 	"\/Panels\/Header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/Header.html",
 		"oF": 0
 		},
 	"\/Panels\/PagesMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/PagesMenu.html",
 		"oF": 0
 		},
 	"\/Panels\/SearchPageHeader.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/SearchPageHeader.html",
 		"oF": 0
 		},
 	"\/Panels\/SideCategoryList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/SideCategoryList.html",
 		"oF": 0
 		},
 	"\/Panels\/TopMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/TopMenu.html",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1797,396 +1856,462 @@
 		"uL": 1
 		},
 	"\/Snippets\/_original\/PageMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/_original\/PageMenu.html",
 		"oF": 0
 		},
 	"\/Snippets\/_original\/ProductThumbImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/_original\/ProductThumbImage.html",
 		"oF": 0
 		},
 	"\/Snippets\/_original\/ProductTinyImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/_original\/ProductTinyImage.html",
 		"oF": 0
 		},
 	"\/Snippets\/PageMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/PageMenu.html",
 		"oF": 0
 		},
 	"\/Snippets\/ProductThumbImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/ProductThumbImage.html",
 		"oF": 0
 		},
 	"\/Snippets\/ProductTinyImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Snippets\/ProductTinyImage.html",
 		"oF": 0
 		},
 	"\/storefront-content\/about-us\/about-us-text.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/about-us\/about-us-text.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/about-us\/about-us.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/about-us\/about-us.html",
 		"oF": 0
 		},
 	"\/storefront-content\/about-us\/original-text.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/about-us\/original-text.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/how-do-i-choose-a-plant.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/how-do-i-choose-a-plant.html",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/how-do-i-choose-the-right-pot.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/how-do-i-choose-the-right-pot.html",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/how-do-i-design-with-plants.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/how-do-i-design-with-plants.html",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/the-case-for-quality-plants.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/the-case-for-quality-plants.html",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/top-10-best-indoor-plants.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/top-10-best-indoor-plants.html",
 		"oF": 0
 		},
 	"\/storefront-content\/blog-posts\/top-5-easiest-office-floor-plants.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/storefront-content\/blog-posts\/top-5-easiest-office-floor-plants.html",
 		"oF": 0
 		},
 	"\/storefront-content\/delivery-policy\/deliver-policy.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/delivery-policy\/deliver-policy.html",
 		"oF": 0
 		},
 	"\/storefront-content\/delivery-policy\/original-format.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/delivery-policy\/original-format.html",
 		"oF": 0
 		},
 	"\/storefront-content\/returns-exchanges-policy\/content.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/returns-exchanges-policy\/content.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/returns-exchanges-policy\/returns-exchanges-policy.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/returns-exchanges-policy\/returns-exchanges-policy.html",
 		"oF": 0
 		},
 	"\/storefront-content\/shop-for-services\/_notes.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/storefront-content\/shop-for-services\/_notes.txt",
 		"oF": 0
 		},
 	"\/storefront-content\/shop-for-services\/page-content.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/shop-for-services\/page-content.html",
 		"oF": 0
 		},
 	"\/storefront-content\/shop-for-services\/shop-for-services.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storefront-content\/shop-for-services\/shop-for-services.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/403.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/403.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/404.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/404.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_addressbook.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_addressbook.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_downloaditem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_downloaditem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_inbox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_inbox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_new_return.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_new_return.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_order.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_order.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_orders.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_orders.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_orderstatus.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_orderstatus.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_recentitems.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_recentitems.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_returns.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_returns.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/account_saved_return.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/account_saved_return.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/AccountOrder.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/AccountOrder.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/authorizenet.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/authorizenet.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/blog.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/blog.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/blog_post.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/blog_post.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/brands.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/brands.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/brands_with_facets.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/brands_with_facets.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/cart.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/cart.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/category.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/category.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/category_with_facets.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/category_with_facets.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_address.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_address.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_confirm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_confirm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_express-may07.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_express-may07.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_express.ba.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_express.ba.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_express.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_express.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_payment.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_payment.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/checkout_shipper.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/checkout_shipper.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/compare.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/compare.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/createaccount.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/createaccount.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/createaccount_thanks.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/createaccount_thanks.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/default.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/editaccount.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/editaccount.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/error.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/error.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/eselectplusdp.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/eselectplusdp.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/eway.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/eway.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/forgotpassword.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/forgotpassword.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/genericcreditcard.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/genericcreditcard.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/getnewpassword.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/getnewpassword.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/giftcertificates.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/giftcertificates.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/giftcertificates_balance.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/giftcertificates_balance.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/giftcertificates_redeem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/giftcertificates_redeem.html",
@@ -2262,7 +2387,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/btn_paypal.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_cart_black.png": {
 		"ft": 32768,
@@ -2270,7 +2398,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_cart_black.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_cart_white.png": {
 		"ft": 32768,
@@ -2278,7 +2409,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_cart_white.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkbox.png": {
 		"ft": 32768,
@@ -2286,7 +2420,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkbox.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_hide.png": {
 		"ft": 32768,
@@ -2294,7 +2431,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_hide.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_show.png": {
 		"ft": 32768,
@@ -2302,7 +2442,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_checkout_show.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_close.png": {
 		"ft": 32768,
@@ -2310,7 +2453,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_close.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_heart.png": {
 		"ft": 32768,
@@ -2318,7 +2464,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_heart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_menu.png": {
 		"ft": 32768,
@@ -2326,7 +2475,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_menu.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_nav_arrow.png": {
 		"ft": 32768,
@@ -2334,7 +2486,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_nav_arrow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_radio.png": {
 		"ft": 32768,
@@ -2342,7 +2497,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_radio.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_remove.png": {
 		"ft": 32768,
@@ -2350,7 +2508,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_remove.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_search.png": {
 		"ft": 32768,
@@ -2358,7 +2519,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_search.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_select.png": {
 		"ft": 32768,
@@ -2366,7 +2530,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_select.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/icon_social.png": {
 		"ft": 32768,
@@ -2374,7 +2541,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/icon_social.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_product.png": {
 		"ft": 32768,
@@ -2382,7 +2552,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_product.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_product1.png": {
 		"ft": 32768,
@@ -2390,7 +2563,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_product1.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/classic\/img_slide.png": {
 		"ft": 32768,
@@ -2398,7 +2574,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/classic\/img_slide.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/AddCartButton.png": {
 		"ft": 32768,
@@ -2406,7 +2585,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/AddCartButton.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/Cart.png": {
 		"ft": 32768,
@@ -2414,7 +2596,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/Cart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/ChatIcon.gif": {
 		"ft": 4194304,
@@ -2430,7 +2615,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconAccount.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconCart.png": {
 		"ft": 32768,
@@ -2438,7 +2626,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconCart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconHome.png": {
 		"ft": 32768,
@@ -2446,7 +2637,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconHome.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconSearch.png": {
 		"ft": 32768,
@@ -2454,7 +2648,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconSearch.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/IconWishlist.png": {
 		"ft": 32768,
@@ -2462,7 +2659,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/IconWishlist.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/LeftArrow.png": {
 		"ft": 32768,
@@ -2470,7 +2670,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/LeftArrow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/default\/RightArrow.png": {
 		"ft": 32768,
@@ -2478,7 +2681,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/default\/RightArrow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/ErrorMessage.gif": {
 		"ft": 4194304,
@@ -2494,7 +2700,9 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/ExampleGiftCertificate.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/GiftWrappingAvailable.gif": {
 		"ft": 4194304,
@@ -2542,7 +2750,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating0.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating1.gif": {
 		"ft": 4194304,
@@ -2558,7 +2769,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating1.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating2.gif": {
 		"ft": 4194304,
@@ -2574,7 +2788,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating2.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating3.gif": {
 		"ft": 4194304,
@@ -2590,7 +2807,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating3.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating4.gif": {
 		"ft": 4194304,
@@ -2606,7 +2826,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating4.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/IcoRating5.gif": {
 		"ft": 4194304,
@@ -2622,7 +2845,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/IcoRating5.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/InfoMessage.gif": {
 		"ft": 4194304,
@@ -2638,7 +2864,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/LeftArrow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/Loading.gif": {
 		"ft": 4194304,
@@ -2649,6 +2878,7 @@
 		"opt": 0
 		},
 	"\/WebDAV\/mobile_template\/images\/MagnifyingGlass.cur": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/images\/MagnifyingGlass.cur",
@@ -2660,7 +2890,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/MagnifyingGlass.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/NodeJoin.gif": {
 		"ft": 4194304,
@@ -2676,7 +2909,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/out-of-stock-bg.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/paypal_btn_checkout_118x24.png": {
 		"ft": 32768,
@@ -2684,7 +2920,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/paypal_btn_checkout_118x24.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/ProductDefault.50.50.gif": {
 		"ft": 4194304,
@@ -2708,7 +2947,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/RightArrow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/RSS.gif": {
 		"ft": 4194304,
@@ -2764,7 +3006,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/VideoOverlay.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/images\/VideoOverlayLarge.png": {
 		"ft": 32768,
@@ -2772,10 +3017,14 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/images\/VideoOverlayLarge.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/common.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/common-min.js",
@@ -2785,6 +3034,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/express.checkout.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/express.checkout-min.js",
@@ -2794,6 +3044,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/formfield.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/formfield-min.js",
@@ -2803,6 +3054,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/jquery.autobox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/jquery.autobox-min.js",
@@ -2812,6 +3064,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/jquery.easing.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/jquery.easing.min-min.js",
@@ -2821,6 +3074,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/jquery.flexslider.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/jquery.flexslider-min.js",
@@ -2830,6 +3084,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/jquery.uniform.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/jquery.uniform.min-min.js",
@@ -2839,6 +3094,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/mobile.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/mobile-min.js",
@@ -2848,6 +3104,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/modernizr.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/modernizr-min.js",
@@ -2857,6 +3114,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/code.photoswipe.jquery-3.0.5.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/min\/code.photoswipe.jquery-3.0.5.min-min.js",
@@ -2878,7 +3136,10 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons@2x.png": {
 		"ft": 32768,
@@ -2886,10 +3147,14 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/icons@2x.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/lib\/klass.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/lib\/min\/klass.min-min.js",
@@ -2907,6 +3172,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/code.photoswipe.noutil-3.0.5.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/min\/code.photoswipe.noutil-3.0.5-min.js",
@@ -2916,6 +3182,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/code.photoswipe.noutil-3.0.5.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/min\/code.photoswipe.noutil-3.0.5.min-min.js",
@@ -2925,6 +3192,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/code.photoswipe.noutil.jquery-3.0.5.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/min\/code.photoswipe.noutil.jquery-3.0.5-min.js",
@@ -2934,6 +3202,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/code.photoswipe.noutil.jquery-3.0.5.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/photoswipe-3.0.5\/noutil\/min\/code.photoswipe.noutil.jquery-3.0.5.min-min.js",
@@ -2963,6 +3232,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/quicksearch.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/quicksearch-min.js",
@@ -2972,6 +3242,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/script.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/script-min.js",
@@ -2981,6 +3252,7 @@
 		},
 	"\/WebDAV\/mobile_template\/js\/script.src.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/js\/min\/script.src-min.js",
@@ -2989,666 +3261,777 @@
 		"tS": 0
 		},
 	"\/WebDAV\/mobile_template\/login.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/login.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/message.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/message.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/news.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/news.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/newsletter_subscribe.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/newsletter_subscribe.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/order.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/order.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/page.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/page.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/page_contact_form.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/page_contact_form.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/_originals\/Footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/_originals\/Footer.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/_originals\/Header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/_originals\/Header.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountInbox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountInbox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountNewReturnInfo.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountNewReturnInfo.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountNewReturnProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountNewReturnProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountOrder.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountOrder.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountOrderLinks.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountOrderLinks.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountOrders.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountOrders.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountOrderStatus.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountOrderStatus.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountRecentItems.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountRecentItems.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AccountReturns.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AccountReturns.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/AddShippingAddressJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/AddShippingAddressJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/BlogRecentPosts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/BlogRecentPosts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/BrandContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/BrandContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CartContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CartContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CartHeader.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CartHeader.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CategoryBreadcrumb.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CategoryBreadcrumb.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CategoryContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CategoryContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CategoryHeading.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CategoryHeading.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CheckGiftCertificateBalance.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CheckGiftCertificateBalance.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/checkout_express.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/checkout_express.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CheckoutNewAddressForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CheckoutNewAddressForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ChooseBillingAddress.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ChooseBillingAddress.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ChooseCheckoutProviderJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ChooseCheckoutProviderJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ChooseShippingAddress.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ChooseShippingAddress.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ChooseShippingProvider.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ChooseShippingProvider.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ConfirmOrder.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ConfirmOrder.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CreateAccountForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CreateAccountForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/CreateAccountJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/CreateAccountJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/EditAccountForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/EditAccountForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/EditAccountJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/EditAccountJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearch.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearch.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchFacetValueList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchFacetValueList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchProductGrid.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchProductGrid.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchProductList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchProductList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateCategory.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateCategory.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateMultichoice.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateMultichoice.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateRange.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateRange.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateRating.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateRating.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateShowing.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateShowing.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateSingle.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/FacetedSearchTemplateSingle.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/Footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/Footer.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ForgotPasswordForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ForgotPasswordForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/Header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/Header.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/HeaderSearch.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/HeaderSearch.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/HomeFeaturedProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/HomeFeaturedProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/HomeNewProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/HomeNewProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/HomeRecentBlogs.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/HomeRecentBlogs.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/HTMLHead.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/HTMLHead.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/IphoneIconMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/IphoneIconMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/IphoneTopMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/IphoneTopMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/LoginForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/LoginForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/NewsBreadcrumb.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/NewsBreadcrumb.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/NewsletterContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/NewsletterContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/NewsletterJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/NewsletterJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/PageContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/PageContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/PagesMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/PagesMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/Pagination.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/Pagination.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/PostComments.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/PostComments.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/PostContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/PostContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductByCategory.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductByCategory.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductDescription.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductDescription.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductImagePopup.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductImagePopup.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductMiscDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductMiscDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductOtherDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductOtherDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductReviews.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductReviews.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductTabs.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductTabs.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductVendorsOtherProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductVendorsOtherProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductVideos.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductVideos.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ProductWarranty.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ProductWarranty.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/PurchaseGiftCertificate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/PurchaseGiftCertificate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SearchJavaScript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SearchJavaScript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SearchPage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SearchPage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SearchPageHeader.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SearchPageHeader.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SearchTabProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SearchTabProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/ShippingAddressForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/ShippingAddressForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideAccountStoreCredit.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideAccountStoreCredit.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideCartContents.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideCartContents.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideCartMiniCart.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideCartMiniCart.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideCategoryList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideCategoryList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideCouponCodeBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideCouponCodeBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideCurrencySelector.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideCurrencySelector.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideGiftCertificateCodeBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideGiftCertificateCodeBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideNewProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideNewProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideNewsletterBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideNewsletterBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SidePopularProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SidePopularProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideProductAddToWishList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideProductAddToWishList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideProductRecentlyViewed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideProductRecentlyViewed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideShopByBrand.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideShopByBrand.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SideTopSellers.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SideTopSellers.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SimilarMultiProductsByCustomerViews.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SimilarMultiProductsByCustomerViews.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SitemapContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SitemapContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SocialLinks.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SocialLinks.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/SuggestiveCartContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/SuggestiveCartContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/Syndicate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/Syndicate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/TopMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/TopMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/VendorProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/VendorProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/WishListAddForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/WishListAddForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/WishListItems.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/WishListItems.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Panels\/WishLists.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Panels\/WishLists.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/payflowpro.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/payflowpro.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/phone\/Panels\/Footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/phone\/Panels\/Footer.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/phone\/Panels\/ProductTabs.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/phone\/Panels\/ProductTabs.html",
@@ -3680,1497 +4063,1748 @@
 		"oA": 0,
 		"oAP": "\/WebDAV\/mobile_template\/Previews\/default.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/WebDAV\/mobile_template\/product.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/product.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/product_comments.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/product_comments.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/productimage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/productimage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/ProductVideos.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/ProductVideos.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/REVISION": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/REVISION",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/search.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/search.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/search_tips.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/search_tips.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/search_with_facets.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/search_with_facets.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/shippingaddressform.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/shippingaddressform.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/sitemap.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/sitemap.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountDownloadItemList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountDownloadItemList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountDownloadOrderItemLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountDownloadOrderItemLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountInboxMessage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountInboxMessage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountInboxOrderItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountInboxOrderItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountNewReturnItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountNewReturnItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemDownloadLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemDownloadLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemShippingRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderItemShippingRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderShipmentRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderShipmentRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderStatusItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderStatusItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountOrderTotalRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountOrderTotalRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountRecentlyViewedProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountRecentlyViewedProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AccountReturnItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AccountReturnItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AddressLabel.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AddressLabel.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/AddThisLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/AddThisLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BlogRecentPostsContentItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BlogRecentPostsContentItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BrandCloudItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BrandCloudItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BrandMainPageMessage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BrandMainPageMessage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BrandProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BrandProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BreadcrumbItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BreadcrumbItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/BreadcrumbItemCurrent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/BreadcrumbItemCurrent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartCoupon.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartCoupon.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartEditProductFieldsForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartEditProductFieldsForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartGiftCertificate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartGiftCertificate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartItemGiftCertificate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartItemGiftCertificate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartItemQtySelect.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartItemQtySelect.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartItemQtyText.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartItemQtyText.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductAttribute.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductAttribute.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductAttributesList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductAttributesList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFieldCheckbox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFieldCheckbox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFieldFile.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFieldFile.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFieldInput.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFieldInput.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFields.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFields.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFieldSelect.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFieldSelect.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartProductFieldTextarea.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartProductFieldTextarea.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartShippingDeliveryDisclaimer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartShippingDeliveryDisclaimer.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartShippingQuoteRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartShippingQuoteRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartShippingTransitTime.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartShippingTransitTime.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CartTotalTaxRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CartTotalTaxRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryNoProductsMessage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryNoProductsMessage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryPaging.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryPaging.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryPagingItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryPagingItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryPagingItemCurrent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryPagingItemCurrent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryPagingNext.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryPagingNext.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryPagingPrevious.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryPagingPrevious.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategoryProductsItemList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategoryProductsItemList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CategorySortBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CategorySortBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutBillingAddressFields.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutBillingAddressFields.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutCartItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutCartItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutCartItemGiftCertificate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutCartItemGiftCertificate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutCartTotal.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutCartTotal.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutMailFormatPreference.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutMailFormatPreference.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutProviderOption.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutProviderOption.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutShippingAddressItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutShippingAddressItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CheckoutTaxLine.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CheckoutTaxLine.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareButton.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareButton.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareButtonList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareButtonList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductCustomField.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductCustomField.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD1.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD1.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD2.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD2.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD3.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD3.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD4.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD4.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD5.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD5.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD6.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD6.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD7.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD7.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD8.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD8.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTD9.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTD9.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR1.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR1.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR2.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR2.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR3.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR3.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR4.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR4.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR5.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR5.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR6.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR6.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR7.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR7.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR8.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR8.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CompareProductTR9.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CompareProductTR9.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ConfirmOrderCoupon.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ConfirmOrderCoupon.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ConfirmOrderGiftCertificate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ConfirmOrderGiftCertificate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CookieNotification.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CookieNotification.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/CustomizeItemJavascript.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/CustomizeItemJavascript.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/DefaultNewsletterSubscriptionForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/DefaultNewsletterSubscriptionForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/DesignModeFooter.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/DesignModeFooter.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/eSelectPlusConfirmationDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/eSelectPlusConfirmationDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/eSelectPlusDPConfirmationDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/eSelectPlusDPConfirmationDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/eSelectPlusUsConfirmationDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/eSelectPlusUsConfirmationDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuote.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuote.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuoteList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuoteList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuoteProduct.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/EstimatedShippingQuoteProduct.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/EventDate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/EventDate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutAddress.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutAddress.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutChooseAddress.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutChooseAddress.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutChooseShipper.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutChooseShipper.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutConfirmation.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutConfirmation.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutCreateAccount.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutCreateAccount.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutShippingMethod.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ExpressCheckoutShippingMethod.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/FacebookLikeButton.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/FacebookLikeButton.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/FastCartThickBoxContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/FastCartThickBoxContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/FastCartThickBoxJs.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/FastCartThickBoxJs.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/FlyoutNode.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/FlyoutNode.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/FlyoutTree.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/FlyoutTree.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/GiftWrappingWrapOptions.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/GiftWrappingWrapOptions.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeCurrencyFlags.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeCurrencyFlags.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeFeaturedProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeFeaturedProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeFeaturedProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeFeaturedProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeNewProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeNewProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeNewProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeNewProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeRecentBlogsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeRecentBlogsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/HomeSaleProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/HomeSaleProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/InvoiceCartItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/InvoiceCartItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/InvoiceCustomerDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/InvoiceCustomerDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/InvoicePendingPaymentDetails.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/InvoicePendingPaymentDetails.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/InvoicePendingPaymentNotice.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/InvoicePendingPaymentNotice.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ListCheckForm.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ListCheckForm.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/LogoImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/LogoImage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/LogoText.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/LogoText.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/MaintenanceNotice.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/MaintenanceNotice.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/MessageBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/MessageBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/MobileSiteLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/MobileSiteLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/MultiShippingItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/MultiShippingItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/OfflinePaymentMessage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/OfflinePaymentMessage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PageMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PageMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PageMenuDropDown.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PageMenuDropDown.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PageRSSItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PageRSSItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PageSubMenu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PageSubMenu.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PinterestButton.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PinterestButton.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PopularVendorsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PopularVendorsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PrintableInvoice.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PrintableInvoice.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceItemConfigurableField.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceItemConfigurableField.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceTotalRow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PrintableInvoiceTotalRow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/PrintablePackingSlipItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/PrintablePackingSlipItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductAddToCart.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductAddToCart.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductAddToCartBelow.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductAddToCartBelow.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductAddToCartRight.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductAddToCartRight.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductBreadCrumb.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductBreadCrumb.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductBulkDiscountThickBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductBulkDiscountThickBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductCustomFieldItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductCustomFieldItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductExpectedReleaseDate.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductExpectedReleaseDate.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFieldCheckbox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFieldCheckbox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFieldInput.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFieldInput.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFieldSelect.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFieldSelect.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFieldTextarea.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFieldTextarea.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFindByCategory.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFindByCategory.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductFindByCategoryItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductFindByCategoryItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductImagesLightBox.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductImagesLightBox.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductImageZoomer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductImageZoomer.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductNotOrderableOnMobiles.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductNotOrderableOnMobiles.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductOptionList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductOptionList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductOptionListItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductOptionListItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewBadCaptcha.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewBadCaptcha.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewNextLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewNextLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewPaging.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewPaging.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductReviewPreviousLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductReviewPreviousLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductTagCloudItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductTagCloudItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductThumbImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductThumbImage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductThumbImagePlaceholder.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductThumbImagePlaceholder.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductTinyImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductTinyImage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductUpdatesRadio.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductUpdatesRadio.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVariationListMultiple.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVariationListMultiple.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVariationListMultipleItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVariationListMultipleItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVariationListSingle.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVariationListSingle.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVariationListSingleItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVariationListSingleItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVariationMultiple.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVariationMultiple.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ProductVendorsOtherProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ProductVendorsOtherProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/QuickSearchJS.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/QuickSearchJS.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/QuickViewJs.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/QuickViewJs.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/RecentBlog.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/RecentBlog.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/RelatedSearchItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/RelatedSearchItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXNews.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXNews.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXPage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXPage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXProduct.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultAJAXProduct.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultGrid.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultGrid.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultNews.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultNews.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultPage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultPage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultProductGrid.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultProductGrid.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultProductList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultProductList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultSectionContent.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultSectionContent.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultSectionProduct.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultSectionProduct.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SearchResultsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SearchResultsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SelectGiftWrapping.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SelectGiftWrapping.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShippingProviderItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShippingProviderItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShippingQuote.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShippingQuote.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShippingQuoteProduct.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShippingQuoteProduct.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShopByBrandAllItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShopByBrandAllItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShopByBrandItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShopByBrandItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/ShopByPriceItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/ShopByPriceItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideAddItemSoldOut.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideAddItemSoldOut.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCartContentsCheckoutLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCartContentsCheckoutLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCartItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCartItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryNewProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryNewProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryNewProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryNewProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryPopularProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryPopularProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryPopularProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryPopularProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCategoryTopSellers.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCategoryTopSellers.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCurrencySelectorCurrency.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCurrencySelectorCurrency.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideCustomCategoryList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideCustomCategoryList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideNewProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideNewProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideNewProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideNewProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SidePageLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SidePageLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SidePopularProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SidePopularProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SidePopularProductsFeed.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SidePopularProductsFeed.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideProductAlsoBoughtItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideProductAlsoBoughtItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideRecentlyViewedProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideRecentlyViewedProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideRelatedProducts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideRelatedProducts.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideTopSellers.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideTopSellers.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SideTopSellersFirst.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SideTopSellersFirst.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SimilarProductsByCustomerViewsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SimilarProductsByCustomerViewsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SimilarProductsByTagTag.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SimilarProductsByTagTag.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SitemapLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SitemapLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SitemapSection.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SitemapSection.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SlideList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SlideList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SocialLink.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SocialLink.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SocialSharingTabsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SocialSharingTabsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubBrandDivider.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubBrandDivider.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubBrandItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubBrandItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubBrandItemImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubBrandItemImage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubBrands.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubBrands.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubBrandsGrid.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubBrandsGrid.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubCategories.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubCategories.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubCategoriesGrid.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubCategoriesGrid.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubCatItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubCatItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/SubCatItemImage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/SubCatItemImage.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/TagProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/TagProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/TopMenuGiftCertificates.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/TopMenuGiftCertificates.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/UnformattedAddressLabel.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/UnformattedAddressLabel.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/VendorFeaturedItemsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/VendorFeaturedItemsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/VendorListItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/VendorListItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/VendorProductsItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/VendorProductsItem.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/VideoList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/VideoList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/VideoListSide.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/VideoListSide.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/WishList.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/WishList.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Snippets\/WishListItem.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Snippets\/WishListItem.html",
@@ -5207,6 +5841,7 @@
 		"oS": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.eot",
@@ -5223,30 +5858,35 @@
 		"prP": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/fontawesome-webfont.woff2",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/FontAwesome.otf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.eot",
@@ -5263,12 +5903,14 @@
 		"prP": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.ttf",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/Styles\/fonts\/ss-social-circle.woff",
@@ -5335,72 +5977,84 @@
 		"oS": 0
 		},
 	"\/WebDAV\/mobile_template\/tags.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/tags.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/valuteccard.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/valuteccard.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/vendor_page.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/vendor_page.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/vendor_products.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/vendor_products.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/vendor_profile.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/vendor_profile.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/vendors.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/vendors.html",
 		"oF": 0
 		},
 	"\/WebDAV\/mobile_template\/wishlist.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/mobile_template\/wishlist.html",
 		"oF": 0
 		},
 	"\/WebDAV\/README_WebDav.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/README_WebDav.txt",
 		"oF": 0
 		},
 	"\/WebDAV\/redirects-2016-07-11.csv": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/redirects-2016-07-11.csv",
 		"oF": 0
 		},
 	"\/WebDAV\/template\/category.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/category.html",
 		"oF": 0
 		},
 	"\/WebDAV\/template\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/default.html",
 		"oF": 0
 		},
 	"\/WebDAV\/template\/Panels\/custom-sidebar.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/WebDAV\/template\/Panels\/custom-sidebar.html",
@@ -5423,6 +6077,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -5819,6 +6474,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -5826,6 +6485,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -5923,6 +6586,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -5939,9 +6606,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -5966,6 +6641,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -5999,9 +6678,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -6031,6 +6710,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -6040,14 +6723,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -6071,6 +6746,10 @@
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-caller": {
 			"active": 0,
 			"optionString": ""
@@ -6085,6 +6764,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -6371,6 +7054,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -6567,6 +7254,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -6602,6 +7293,10 @@
 		"padded-blocks": {
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
 			},
 		"prefer-arrow-callback": {
 			"active": 0,
@@ -6671,6 +7366,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -6710,6 +7409,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -7123,7 +7826,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -7156,6 +7860,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -7166,7 +7871,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -7190,21 +7896,14 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -7236,13 +7935,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -7251,7 +7950,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -7259,7 +7959,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -7269,7 +7971,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -7297,7 +8000,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -7344,9 +8048,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
