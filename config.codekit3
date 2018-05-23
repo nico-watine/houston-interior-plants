@@ -69,6 +69,13 @@
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
+	"\/_ignores\/product-description-basics.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/product-description-basics.html",
+		"oF": 0
+		},
 	"\/_ignores\/shop-for-pots-category-urls.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -365,6 +372,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/Panels\/TopMenu.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/bird-of-paradise-large.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/bird-of-paradise-large.html",
 		"oF": 0
 		},
 	"\/product-descriptions\/fiddle-leaf-fig-tree.html": {
