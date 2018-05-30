@@ -76,6 +76,13 @@
 		"oAP": "\/_ignores\/product-description-basics.html",
 		"oF": 0
 		},
+	"\/_ignores\/product-description-blocks.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/product-description-blocks.html",
+		"oF": 0
+		},
 	"\/_ignores\/shop-for-pots-category-urls.txt": {
 		"cB": 0,
 		"ft": 8192,
