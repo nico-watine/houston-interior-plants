@@ -162,19 +162,21 @@ a.standard:hover { text-decoration: none; color: #2199e8; }
 
 .body-font { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-p, .p { font-size: rem-calc(16); }
+p, .p { font-size: 16px; }
 
-h1, .h1 { font-size: rem-calc(60); }
+p.lead, .p.lead { font-size: 20px; }
 
-h2, .h2 { font-size: rem-calc(42); }
+h1, .h1 { font-size: 60px; }
 
-h3, .h3 { font-size: rem-calc(29); }
+h2, .h2 { font-size: 42px; }
 
-h4, .h4 { font-size: rem-calc(23); }
+h3, .h3 { font-size: 29px; }
 
-h5, .h5 { font-size: rem-calc(16); }
+h4, .h4 { font-size: 23px; }
 
-h6, .h6 { font-size: rem-calc(14); }
+h5, .h5 { font-size: 16px; }
+
+h6, .h6 { font-size: 14px; }
 
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
 
