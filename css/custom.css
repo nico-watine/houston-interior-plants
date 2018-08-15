@@ -166,6 +166,8 @@ p, .p { font-size: 16px; line-height: 1.6; margin: 0 0 16px; }
 
 p.lead, .p.lead { font-size: 20px; }
 
+.green { color: #569300; }
+
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
 
 table.shop-for-plants tbody tr td a, table.shop-for-pots tbody tr td a { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); font-size: 15px; background: #f4f4f4; padding: 10px; display: inline-block; line-height: 1.5; border: 1px solid #f4f4f4; }
