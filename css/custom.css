@@ -166,18 +166,6 @@ p, .p { font-size: 16px; line-height: 1.6; margin: 0 0 16px; }
 
 p.lead, .p.lead { font-size: 20px; }
 
-h1, .h1 { font-size: 60px; }
-
-h2, .h2 { font-size: 42px; }
-
-h3, .h3 { font-size: 29px; }
-
-h4, .h4 { font-size: 23px; }
-
-h5, .h5 { font-size: 16px; }
-
-h6, .h6 { font-size: 14px; }
-
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
 
 table.shop-for-plants tbody tr td a, table.shop-for-pots tbody tr td a { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); font-size: 15px; background: #f4f4f4; padding: 10px; display: inline-block; line-height: 1.5; border: 1px solid #f4f4f4; }
