@@ -94,6 +94,8 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 
 .PrimaryProductDetails .ProductMain { padding-left: 10px; }
 
+.ProductDescription h3 { margin: 0; text-transform: none; font-weight: bold; letter-spacing: normal; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 .PostBody p { font-size: 16px; line-height: 1.4; }
 
 .PostBody a { color: #569300; text-decoration: underline; }
