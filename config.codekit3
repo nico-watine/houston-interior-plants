@@ -90,6 +90,13 @@
 		"oAP": "\/_ignores\/img-links.html",
 		"oF": 1
 		},
+	"\/_ignores\/notes.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/notes.txt",
+		"oF": 0
+		},
 	"\/_ignores\/pinterest-link.html": {
 		"cB": 0,
 		"ft": 8192,
