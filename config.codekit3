@@ -111,6 +111,13 @@
 		"oAP": "\/_ignores\/product-description-basics.html",
 		"oF": 0
 		},
+	"\/_ignores\/product-description-block-order.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/product-description-block-order.html",
+		"oF": 0
+		},
 	"\/_ignores\/product-description-blocks.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -421,6 +428,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/product-descriptions\/plants\/8-ficus-lyrata-fiddle-leaf-fig.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/plants\/areca-palm.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/plants\/areca-palm.html",
 		"oF": 0
 		},
 	"\/product-descriptions\/plants\/bird-of-paradise-large.html": {
