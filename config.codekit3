@@ -111,6 +111,13 @@
 		"oAP": "\/_ignores\/product-description-basics.html",
 		"oF": 0
 		},
+	"\/_ignores\/product-description-block-order.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/product-description-block-order.html",
+		"oF": 0
+		},
 	"\/_ignores\/product-description-blocks.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -416,39 +423,53 @@
 		"oAP": "\/Panels\/TopMenu.html",
 		"oF": 0
 		},
-	"\/product-descriptions\/ag.txt": {
+	"\/product-descriptions\/plants\/8-ficus-lyrata-fiddle-leaf-fig.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/product-descriptions\/ag.txt",
+		"oAP": "\/product-descriptions\/plants\/8-ficus-lyrata-fiddle-leaf-fig.html",
 		"oF": 0
 		},
-	"\/product-descriptions\/bird-of-paradise-large.html": {
+	"\/product-descriptions\/plants\/areca-palm.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/product-descriptions\/bird-of-paradise-large.html",
+		"oAP": "\/product-descriptions\/plants\/areca-palm.html",
 		"oF": 0
 		},
-	"\/product-descriptions\/chinese-evergreen-large.html": {
+	"\/product-descriptions\/plants\/bird-of-paradise-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/product-descriptions\/chinese-evergreen-large.html",
+		"oAP": "\/product-descriptions\/plants\/bird-of-paradise-large.html",
 		"oF": 0
 		},
-	"\/product-descriptions\/fiddle-leaf-fig-tree.html": {
+	"\/product-descriptions\/plants\/chinese-evergreen-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/product-descriptions\/fiddle-leaf-fig-tree.html",
+		"oAP": "\/product-descriptions\/plants\/chinese-evergreen-large.html",
 		"oF": 0
 		},
-	"\/product-descriptions\/lady-palm-rhapis-palm.html": {
+	"\/product-descriptions\/plants\/fiddle-leaf-fig-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/product-descriptions\/lady-palm-rhapis-palm.html",
+		"oAP": "\/product-descriptions\/plants\/fiddle-leaf-fig-tree.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/plants\/lady-palm-rhapis-palm.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/plants\/lady-palm-rhapis-palm.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/pots\/barcelona.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/pots\/barcelona.html",
 		"oF": 0
 		},
 	"\/README.md": {
