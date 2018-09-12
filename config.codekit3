@@ -104,25 +104,11 @@
 		"oAP": "\/_ignores\/pinterest-link.html",
 		"oF": 0
 		},
-	"\/_ignores\/product-description-basics.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/product-description-basics.html",
-		"oF": 0
-		},
 	"\/_ignores\/product-description-block-order.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/product-description-block-order.html",
-		"oF": 0
-		},
-	"\/_ignores\/product-description-blocks.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/product-description-blocks.html",
 		"oF": 0
 		},
 	"\/_ignores\/shop-for-pots-category-urls.txt": {
@@ -435,6 +421,27 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/product-descriptions\/plants\/areca-palm.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/plants\/bamboo-palm-large.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/plants\/bamboo-palm-large.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/plants\/bamboo-palm-medium.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/plants\/bamboo-palm-medium.html",
+		"oF": 0
+		},
+	"\/product-descriptions\/plants\/bambusa-vulgaris-indoor-bamboo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/product-descriptions\/plants\/bambusa-vulgaris-indoor-bamboo.html",
 		"oF": 0
 		},
 	"\/product-descriptions\/plants\/bird-of-paradise-large.html": {
