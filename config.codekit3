@@ -132,14 +132,6 @@
 		"oAP": "/_ignores/shop-for-pots-category-urls.txt",
 		"oF": 0
 		},
-	"/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/css/custom.css": {
 		"aP": 0,
 		"bl": 0,
