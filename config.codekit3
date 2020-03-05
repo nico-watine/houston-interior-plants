@@ -822,6 +822,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/blocks/_blocks.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_blocks.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/blocks/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -874,7 +887,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/blocks/header/_plant-contact-banner.scss": {
+	"/scss/blocks/_plant-contact-banner.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -882,7 +895,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/blocks/css/_plant-contact-banner.css",
+		"oAP": "/scss/css/_plant-contact-banner.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

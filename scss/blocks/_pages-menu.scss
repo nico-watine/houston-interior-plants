@@ -1,7 +1,5 @@
-@import "../_settings.scss";
-
 #HeaderLower {
-	// #SideCategoryList li ul, 
+	// #SideCategoryList li ul,
 	#SideCategoryList .sf-menu li ul {
 		background-color: #fff;
 		box-shadow: $z-2;
@@ -40,7 +38,7 @@
 				border-top-width: 1px;
 				border-top-color: #fff;
 				border-top-style: solid;
-				
+
 				li {
 					a {
 						color: #000 !important;
@@ -106,6 +104,6 @@
 	ul.MenuList {
 		display: none !important;
 		visibility: hidden !important;
-	}	
+	}
 }
 

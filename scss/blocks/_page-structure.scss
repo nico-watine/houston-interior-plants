@@ -1,5 +1,3 @@
-@import "../_settings.scss";
-
 #Container {
 	width: 1180px;
 	margin: auto;
@@ -14,17 +12,17 @@
 }
 
 .custom-wrapper#Wrapper {
-	float: right; 
+	float: right;
 	width: 950px;
-	clear: initial; 
-	padding-top: 20px;	
+	clear: initial;
+	padding-top: 20px;
 
 	.Breadcrumb {
 		padding: 20px 0 10px 10px;
 	}
 
 	.header-wrapper {
-		border-color: #000; 
+		border-color: #000;
 	}
 }
 
