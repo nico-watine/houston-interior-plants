@@ -991,6 +991,19 @@
 		"oS": 2,
 		"uL": 1
 		},
+	"/scss/pages/_pages.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_pages.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/pages/blog/_article.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1039,6 +1052,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/blog/css/_top-5-easiest-floor-plants.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/category/_category.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_category.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
