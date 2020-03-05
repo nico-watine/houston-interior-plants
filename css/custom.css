@@ -6,7 +6,7 @@
 
 #Logo #LogoContainer h1 a { color: #569300 !important; font-size: 50px; letter-spacing: 0; }
 
-#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: 0.5px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; }
+#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: .5px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; }
 
 #Header #HeaderLower { border-bottom: 4px solid #569300; border-top: 4px solid #569300; }
 
@@ -94,7 +94,7 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 
 #index-summary ul li { font-size: 18px; line-height: 1.4; }
 
-#plant-service-banner { margin-bottom: 30px; background: #E8E8E8; padding: 12px; display: inline-block; border-radius: 6px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+#plant-service-banner { margin-bottom: 30px; background: #e8e8e8; padding: 12px; display: inline-block; border-radius: 6px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
 #plant-service-banner h3 { color: #569300; text-transform: none; margin-bottom: 8px; font-size: 20px; letter-spacing: 0; }
 
@@ -110,7 +110,7 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 
 .PostBody a { color: #569300; text-decoration: underline; }
 
-.PostBody a:hover { text-decoration: none; color: #2199E8; }
+.PostBody a:hover { text-decoration: none; color: #2199e8; }
 
 table#top-5-easiest-office-floor-plants img { max-width: 220px; }
 
@@ -124,9 +124,9 @@ table.borderless td { border: 0; }
 
 .small.button { font-size: 14px; }
 
-.Submit input, .ProductList li .ProductActionAdd a, .QuickViewBtn, #bottom_payment_button, .ExpressCheckoutContent input[type="submit"], .btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
+.Submit input, .ProductList li .ProductActionAdd a, .QuickViewBtn, #bottom_payment_button, .ExpressCheckoutContent input[type='submit'], .btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
 
-.Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type="submit"]:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
+.Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type='submit']:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
 
 a.CartRemoveLink { color: #569300; }
 
@@ -232,7 +232,7 @@ ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 
 .customSidebar { width: 215px; float: left; padding-top: 20px; }
 
-.customSidebar-panel { background: #F4F4F4; margin-bottom: 16px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
+.customSidebar-panel { background: #f4f4f4; margin-bottom: 16px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
 
 .customSidebar-panel .label { color: #569300; font-size: 20px; line-height: 1.4; margin-bottom: 12px; }
 

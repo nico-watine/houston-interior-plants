@@ -1,8 +1,6 @@
-@import "../../_settings.scss";
-
-@import "_featured-products-banner.scss";
-@import "_slide-show.scss";
-@import "_stretch-banner.scss";
+@import '_featured-products-banner.scss';
+@import '_slide-show.scss';
+@import '_stretch-banner.scss';
 
 body#index {
 	#Wrapper {
@@ -16,11 +14,11 @@ body#index {
 
 		table.plant-pot-blog-banner#text {
 			img {
-				border: 1px solid #000; 
-				display: block; 
+				border: 1px solid #000;
+				display: block;
 				margin: 0 auto;
 			}
-			
+
 			h3 {
 				position: absolute;
 				color: #fff;
@@ -34,11 +32,11 @@ body#index {
 
 			td#services {
 				span {
-					position: absolute; 
-					padding-top: 260px; 
-					color: #fff; 
-					text-shadow: 2px 4px 4px #000; 
-					font-size: 35px; 
+					position: absolute;
+					padding-top: 260px;
+					color: #fff;
+					text-shadow: 2px 4px 4px #000;
+					font-size: 35px;
 					padding-left: 14px;
 				}
 			}
@@ -48,7 +46,7 @@ body#index {
 			text-align: center;
 			padding: 10px 0;
 			margin-bottom: 16px;
-			
+
 			h3 {
 				text-transform: none;
 				font-size: 23px;
@@ -73,23 +71,22 @@ body#index {
 
 #plant-service-banner {
 	margin-bottom: 30px;
-	background: #E8E8E8;
+	background: #e8e8e8;
 	padding: 12px;
 	display: inline-block;
 	border-radius: 6px;
 	box-shadow: $z-1;
 
 	h3 {
-		color: #569300; 
-		text-transform: none; 
-		margin-bottom: 8px; 
-		font-size: 20px; 
+		color: #569300;
+		text-transform: none;
+		margin-bottom: 8px;
+		font-size: 20px;
 		letter-spacing: 0;
 	}
 
 	p {
-		margin-bottom: 6px; 
+		margin-bottom: 6px;
 		font-size: 16px;
 	}
 }
-
