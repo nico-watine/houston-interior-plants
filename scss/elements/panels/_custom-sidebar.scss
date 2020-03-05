@@ -1,8 +1,4 @@
-@import "../_settings.scss";
-
-
 .customSidebar {
-
 	.customSidebar-panel {
 		ul {
 			padding: 0;
@@ -49,13 +45,13 @@
 }
 
 .customSidebar {
-	width: 215px; 
-	float: left; 
+	width: 215px;
+	float: left;
 	padding-top: 20px;
 }
 
 .customSidebar-panel {
-	background: #F4F4F4;
+	background: #f4f4f4;
 	margin-bottom: 16px;
 	box-shadow: $z-1;
 	padding: 8px;

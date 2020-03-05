@@ -1,4 +1,92 @@
-#HeaderLower #SideCategoryList .sf-menu li ul { background-color: #fff; -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+table.borderless td { border: 0; }
+
+.button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
+
+.button:hover { background: #fff; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); color: #000 !important; }
+
+.small.button { font-size: 14px; }
+
+.Submit input, .ProductList li .ProductActionAdd a, .QuickViewBtn, #bottom_payment_button, .ExpressCheckoutContent input[type='submit'], .btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
+
+.Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type='submit']:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
+
+a.CartRemoveLink { color: #569300; }
+
+a.CartRemoveLink:hover { color: red; }
+
+a.CustomizeItemLink, .KeepShopping a { color: #569300; }
+
+a.CustomizeItemLink:hover, .KeepShopping a:hover { color: #6e6e6e; }
+
+.CartContents .ProductName a { font-weight: bold; color: #569300; }
+
+.CartContents .ProductName a:hover { color: #6e6e6e; }
+
+.shadow-1 { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+
+.shadow-2 { box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-3 { box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-4 { box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3); }
+
+.shadow-5 { box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
+
+table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0; margin: 0; }
+
+table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
+
+.Breadcrumb { color: #000; }
+
+.Breadcrumb a { color: #000; }
+
+.Breadcrumb a:hover { color: #2199e8; }
+
+#ProductDescription a { color: #569300; text-decoration: underline; }
+
+#ProductDescription a:hover { color: #2199e8; text-decoration: none; }
+
+a.standard { color: #569300; text-decoration: underline; }
+
+a.standard:hover { text-decoration: none; color: #2199e8; }
+
+.header-font { font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.body-font { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+p, .p { font-size: 16px; line-height: 1.6; margin: 0 0 16px; }
+
+p.lead, .p.lead { font-size: 20px; }
+
+.green { color: #569300; }
+
+#Logo #LogoContainer a { display: inline-block; }
+
+#Logo #LogoContainer a img { margin-right: 10px; }
+
+#Logo #LogoContainer h1 { display: inline-block; margin: 60px 0 20px; }
+
+#Logo #LogoContainer h1 a { color: #569300 !important; font-size: 50px; letter-spacing: 0; }
+
+#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: .5px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; }
+
+#Header #HeaderLower { border-bottom: 4px solid #569300; border-top: 4px solid #569300; }
+
+#Container { width: 1180px; margin: auto; }
+
+#Header { width: 100%; }
+
+#Header #HeaderLower { width: 100%; }
+
+.custom-wrapper#Wrapper { float: right; width: 950px; clear: initial; padding-top: 20px; }
+
+.custom-wrapper#Wrapper .Breadcrumb { padding: 20px 0 10px 10px; }
+
+.custom-wrapper#Wrapper .header-wrapper { border-color: #000; }
+
+.custom-wrapper#Wrapper .Content.Widest { width: 100%; }
+
+#HeaderLower #SideCategoryList .sf-menu li ul { background-color: #fff; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
 
 #HeaderLower #SideCategoryList li#index-link:hover { background: #569300; }
 
@@ -28,31 +116,91 @@
 
 .topNav.on-screen ul.MenuList { display: none !important; visibility: hidden !important; }
 
-#Container { width: 1180px; margin: auto; }
+.plant-contact-banner { background: #fff url("https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-banner-asset-145.jpg") center center/contain no-repeat; width: 100%; border-radius: 0 0 4px 4px; height: 130px; margin-top: 130px; padding-bottom: 15px; }
 
-#Header { width: 100%; }
+.plant-contact-banner .prose { padding: 12px 22px; background-color: #fff; margin: 15px 80px 0 0; width: 260px; float: right; border-radius: 4px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
-#Header #HeaderLower { width: 100%; }
+.plant-contact-banner .prose h4 { font-size: 16px; text-transform: none; }
 
-.custom-wrapper#Wrapper { float: right; width: 950px; clear: initial; padding-top: 20px; }
+.plant-contact-banner .prose p, .plant-contact-banner .prose a { font-size: 15px; line-height: 1.5; margin-bottom: 0; }
 
-.custom-wrapper#Wrapper .Breadcrumb { padding: 20px 0 10px 10px; }
+.plant-contact-banner .prose a.standard { text-decoration: none; }
 
-.custom-wrapper#Wrapper .header-wrapper { border-color: #000; }
+.customSidebar .customSidebar-panel ul { padding: 0; margin: 0; }
 
-.custom-wrapper#Wrapper .Content.Widest { width: 100%; }
+.customSidebar .customSidebar-panel ul li { margin-bottom: 10px; display: block; }
 
-#Logo #LogoContainer a { display: inline-block; }
+.customSidebar .customSidebar-panel ul li a { color: #569300; font-size: 14px; }
 
-#Logo #LogoContainer a img { margin-right: 10px; }
+.customSidebar .customSidebar-panel ul li a:hover { color: #777; text-decoration: underline; }
 
-#Logo #LogoContainer h1 { display: inline-block; margin: 60px 0 20px; }
+.customSidebar #bbb-link { text-align: center; padding-top: 10px; margin: 0 auto 15px; }
 
-#Logo #LogoContainer h1 a { color: #569300 !important; font-size: 50px; letter-spacing: 0; }
+.customSidebar #bbb-link img { width: 120px; height: auto; }
 
-#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: 0.5px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; }
+.customSidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
 
-#Header #HeaderLower { border-bottom: 4px solid #569300; border-top: 4px solid #569300; }
+.customSidebar #usa-grown img { width: 80px; height: auto; }
+
+.customSidebar { width: 215px; float: left; padding-top: 20px; }
+
+.customSidebar-panel { background: #f4f4f4; margin-bottom: 16px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
+
+.customSidebar-panel .label { color: #569300; font-size: 20px; line-height: 1.4; margin-bottom: 12px; }
+
+.customSidebar-panel p, .customSidebar-panel address { font-size: 14px; line-height: 1.4; margin-bottom: 12px; }
+
+.customSidebar-panel address { margin-bottom: 0; font-style: normal; }
+
+.customSidebar-panel a { color: #569300; }
+
+.customSidebar-panel a:hover { color: #777; text-decoration: underline; }
+
+.PostBody p { font-size: 16px; line-height: 1.4; }
+
+.PostBody a { color: #569300; text-decoration: underline; }
+
+.PostBody a:hover { text-decoration: none; color: #2199e8; }
+
+table#top-5-easiest-office-floor-plants img { max-width: 220px; }
+
+table#case-for-quality-plants img { max-width: 300px; }
+
+.Content .ProductList li { margin-left: 15px !important; }
+
+.Content .ProductList li .ProductImage { padding: 6px 6px 10px; }
+
+.Content .ProductList li .ProductImage img { width: 100%; border: 1px solid #569300; }
+
+.Content .ProductList li:hover .ProductImage { background: #f7f7f7; border: 1px solid #569300; }
+
+.Content .ProductList li:hover .ProductImage img { border: 1px solid #fff; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+
+.ProductList li .ProductActionAdd a:hover, #CategoryContent .ProductActionAdd a:hover { background: #569300 !important; color: #fff !important; }
+
+.ProductPriceWrap { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+
+ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
+
+table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
+
+table.shop-for-plants tbody tr td a, table.shop-for-pots tbody tr td a { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); font-size: 15px; background: #f4f4f4; padding: 10px; display: inline-block; line-height: 1.5; border: 1px solid #f4f4f4; }
+
+table.shop-for-plants tbody tr td a span, table.shop-for-pots tbody tr td a span { display: block; font-size: 18px; }
+
+table.shop-for-plants tbody tr td a img, table.shop-for-pots tbody tr td a img { border: 1px solid #569300; display: block; margin: 0 auto 10px; }
+
+table.shop-for-plants tbody tr td a:hover, table.shop-for-pots tbody tr td a:hover { background: #fff; color: #000; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); border: 1px solid #569300; }
+
+table.shop-for-plants tbody tr td a:hover span, table.shop-for-pots tbody tr td a:hover span { text-decoration: underline; }
+
+table.shop-for-plants#shop-for-plants tbody tr td, table.shop-for-plants#by-plant-size tbody tr td, table.shop-for-plants#by-light-level tbody tr td, table.shop-for-pots#shop-for-pots tbody tr td { width: 320px; }
+
+table.shop-for-plants#shop-for-plants tbody tr td a, table.shop-for-plants#by-plant-size tbody tr td a, table.shop-for-plants#by-light-level tbody tr td a, table.shop-for-pots#shop-for-pots tbody tr td a { width: 245px; }
+
+table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
+
+table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
@@ -84,7 +232,7 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 
 #index-summary ul li { font-size: 18px; line-height: 1.4; }
 
-#plant-service-banner { margin-bottom: 30px; background: #E8E8E8; padding: 12px; display: inline-block; border-radius: 6px; -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+#plant-service-banner { margin-bottom: 30px; background: #e8e8e8; padding: 12px; display: inline-block; border-radius: 6px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
 #plant-service-banner h3 { color: #569300; text-transform: none; margin-bottom: 8px; font-size: 20px; letter-spacing: 0; }
 
@@ -95,151 +243,3 @@ body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-
 .PrimaryProductDetails .ProductMain { padding-left: 10px; }
 
 .ProductDescription h3 { margin: 0; text-transform: none; font-weight: bold; letter-spacing: normal; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; }
-
-.PostBody p { font-size: 16px; line-height: 1.4; }
-
-.PostBody a { color: #569300; text-decoration: underline; }
-
-.PostBody a:hover { text-decoration: none; color: #2199E8; }
-
-table#top-5-easiest-office-floor-plants img { max-width: 220px; }
-
-table#case-for-quality-plants img { max-width: 300px; }
-
-table.borderless td { border: 0; }
-
-.button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
-
-.button:hover { background: #fff; -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); color: #000 !important; }
-
-.small.button { font-size: 14px; }
-
-.Submit input, .ProductList li .ProductActionAdd a, .QuickViewBtn, #bottom_payment_button, .ExpressCheckoutContent input[type="submit"], .btn, .btn-secondary { background: #569300 !important; color: #fff !important; }
-
-.Submit input:hover, .ProductList li .ProductActionAdd a:hover, .QuickViewBtn:hover, #bottom_payment_button:hover, .ExpressCheckoutContent input[type="submit"]:hover, .btn:hover, .btn-secondary:hover { background: #d4d4d4 !important; color: #000 !important; }
-
-a.CartRemoveLink { color: #569300; }
-
-a.CartRemoveLink:hover { color: red; }
-
-a.CustomizeItemLink, .KeepShopping a { color: #569300; }
-
-a.CustomizeItemLink:hover, .KeepShopping a:hover { color: #6e6e6e; }
-
-.CartContents .ProductName a { font-weight: bold; color: #569300; }
-
-.CartContents .ProductName a:hover { color: #6e6e6e; }
-
-.shadow-1 { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-.shadow-2 { -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
-
-.shadow-3 { -webkit-box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3); }
-
-.shadow-4 { -webkit-box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3); }
-
-.shadow-5 { -webkit-box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
-
-table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0; margin: 0; }
-
-table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
-
-.Breadcrumb { color: #000; }
-
-.Breadcrumb a { color: #000; }
-
-.Breadcrumb a:hover { color: #2199e8; }
-
-#ProductDescription a { color: #569300; text-decoration: underline; }
-
-#ProductDescription a:hover { color: #2199e8; text-decoration: none; }
-
-a.standard { color: #569300; text-decoration: underline; }
-
-a.standard:hover { text-decoration: none; color: #2199e8; }
-
-.header-font { font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-.body-font { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
-
-p, .p { font-size: 16px; line-height: 1.6; margin: 0 0 16px; }
-
-p.lead, .p.lead { font-size: 20px; }
-
-.green { color: #569300; }
-
-table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
-
-table.shop-for-plants tbody tr td a, table.shop-for-pots tbody tr td a { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); font-size: 15px; background: #f4f4f4; padding: 10px; display: inline-block; line-height: 1.5; border: 1px solid #f4f4f4; }
-
-table.shop-for-plants tbody tr td a span, table.shop-for-pots tbody tr td a span { display: block; font-size: 18px; }
-
-table.shop-for-plants tbody tr td a img, table.shop-for-pots tbody tr td a img { border: 1px solid #569300; display: block; margin: 0 auto 10px; }
-
-table.shop-for-plants tbody tr td a:hover, table.shop-for-pots tbody tr td a:hover { background: #fff; color: #000; -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); border: 1px solid #569300; }
-
-table.shop-for-plants tbody tr td a:hover span, table.shop-for-pots tbody tr td a:hover span { text-decoration: underline; }
-
-table.shop-for-plants#shop-for-plants tbody tr td, table.shop-for-plants#by-plant-size tbody tr td, table.shop-for-plants#by-light-level tbody tr td, table.shop-for-pots#shop-for-pots tbody tr td { width: 320px; }
-
-table.shop-for-plants#shop-for-plants tbody tr td a, table.shop-for-plants#by-plant-size tbody tr td a, table.shop-for-plants#by-light-level tbody tr td a, table.shop-for-pots#shop-for-pots tbody tr td a { width: 245px; }
-
-table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
-
-table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
-
-ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
-
-.Content .ProductList li { margin-left: 15px !important; }
-
-.Content .ProductList li .ProductImage { padding: 6px 6px 10px; }
-
-.Content .ProductList li .ProductImage img { width: 100%; border: 1px solid #569300; }
-
-.Content .ProductList li:hover .ProductImage { background: #f7f7f7; border: 1px solid #569300; }
-
-.Content .ProductList li:hover .ProductImage img { border: 1px solid #fff; -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-.ProductList li .ProductActionAdd a:hover, #CategoryContent .ProductActionAdd a:hover { background: #569300 !important; color: #fff !important; }
-
-.ProductPriceWrap { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-.plant-contact-banner { background: #fff url("https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-banner-asset-145.jpg") center center/contain no-repeat; width: 100%; border-radius: 0 0 4px 4px; height: 130px; margin-top: 130px; padding-bottom: 15px; }
-
-.plant-contact-banner .prose { padding: 12px 22px; background-color: #fff; margin: 15px 80px 0 0; width: 260px; float: right; border-radius: 4px; -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-.plant-contact-banner .prose h4 { font-size: 16px; text-transform: none; }
-
-.plant-contact-banner .prose p, .plant-contact-banner .prose a { font-size: 15px; line-height: 1.5; margin-bottom: 0; }
-
-.plant-contact-banner .prose a.standard { text-decoration: none; }
-
-.customSidebar .customSidebar-panel ul { padding: 0; margin: 0; }
-
-.customSidebar .customSidebar-panel ul li { margin-bottom: 10px; display: block; }
-
-.customSidebar .customSidebar-panel ul li a { color: #569300; font-size: 14px; }
-
-.customSidebar .customSidebar-panel ul li a:hover { color: #777; text-decoration: underline; }
-
-.customSidebar #bbb-link { text-align: center; padding-top: 10px; margin: 0 auto 15px; }
-
-.customSidebar #bbb-link img { width: 120px; height: auto; }
-
-.customSidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
-
-.customSidebar #usa-grown img { width: 80px; height: auto; }
-
-.customSidebar { width: 215px; float: left; padding-top: 20px; }
-
-.customSidebar-panel { background: #F4F4F4; margin-bottom: 16px; -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
-
-.customSidebar-panel .label { color: #569300; font-size: 20px; line-height: 1.4; margin-bottom: 12px; }
-
-.customSidebar-panel p, .customSidebar-panel address { font-size: 14px; line-height: 1.4; margin-bottom: 12px; }
-
-.customSidebar-panel address { margin-bottom: 0; font-style: normal; }
-
-.customSidebar-panel a { color: #569300; }
-
-.customSidebar-panel a:hover { color: #777; text-decoration: underline; }
