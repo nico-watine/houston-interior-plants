@@ -52,6 +52,14 @@
 		"oAP": "/_ignores/current-contact-snippet.html",
 		"oF": 0
 		},
+	"/_ignores/delivery-policy-prose.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/delivery-policy-prose.txt",
+		"oF": 0
+		},
 	"/_ignores/descriptions/product-specs-2.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -130,6 +138,34 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_ignores/shop-for-pots-category-urls.txt",
+		"oF": 0
+		},
+	"/_ignores/styles-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_ignores/styles.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_ignores/styles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles.html",
 		"oF": 0
 		},
 	"/css/custom.css": {
@@ -913,7 +949,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_custom-sidebar.scss": {
+	"/scss/elements/panels/_custom-sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -926,7 +962,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_Panels.scss": {
+	"/scss/elements/panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -934,7 +970,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/elements/css/_Panels.css",
+		"oAP": "/scss/elements/css/_panels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
