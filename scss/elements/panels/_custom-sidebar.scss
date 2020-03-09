@@ -1,24 +1,24 @@
 .customSidebar {
 	.customSidebar-panel {
-		ul {
-			padding: 0;
-			margin: 0;
+		// ul {
+		// 	padding: 0;
+		// 	margin: 0;
 
-			li {
-				margin-bottom: 10px;
-				display: block;
+		// 	li {
+		// 		margin-bottom: 10px;
+		// 		display: block;
 
-				a {
-					color: $link-blue;
-					font-size: 14px;
+		// 		a {
+		// 			color: $link-blue;
+		// 			font-size: 14px;
 
-					&:hover {
-						color: $link-blue-hover;
-						text-decoration: underline;
-					}
-				}
-			}
-		}
+		// 			&:hover {
+		// 				color: $link-blue-hover;
+		// 				text-decoration: underline;
+		// 			}
+		// 		}
+		// 	}
+		// }
 	}
 
 	#usa-grown {
@@ -53,18 +53,21 @@
 		font-weight: bold;
 	}
 
-	p {
-		font-size: 14px;
-		line-height: 1.4;
-		margin-bottom: 12px;
-	}
-
 	a {
+		font-size: 14px;
 		color: $link-blue;
+		margin-bottom: 10px;
+		display: block;
 
 		&:hover {
 			color: $link-blue-hover;
 			text-decoration: underline;
 		}
+	}
+
+	p {
+		font-size: 14px;
+		line-height: 1.4;
+		margin-bottom: 12px;
 	}
 }
