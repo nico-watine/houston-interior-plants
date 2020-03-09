@@ -358,10 +358,6 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar .customSidebar-panel ul li a:hover { color: #777; text-decoration: underline; }
 
-.customSidebar #bbb-link { text-align: center; padding-top: 10px; margin: 0 auto 15px; }
-
-.customSidebar #bbb-link img { width: 120px; height: auto; }
-
 .customSidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
 
 .customSidebar #usa-grown img { width: 80px; height: auto; }
