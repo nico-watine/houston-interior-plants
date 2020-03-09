@@ -50,6 +50,8 @@ a.standard { color: #569300; text-decoration: underline; }
 
 a.standard:hover { text-decoration: none; color: #2199e8; }
 
+.text-green { color: #569300; }
+
 .header-font { font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .body-font { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
