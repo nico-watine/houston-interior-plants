@@ -1450,6 +1450,14 @@
 		"oAP": "/web-pages/delivery-policy/delivery-policy-1.html",
 		"oF": 0
 		},
+	"/web-pages/delivery-policy/delivery-policy-2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/web-pages/delivery-policy/delivery-policy-2.html",
+		"oF": 0
+		},
 	"/web-pages/delivery-policy/DELIVERY-POLICY.MD": {
 		"cB": 0,
 		"cS": 0,
