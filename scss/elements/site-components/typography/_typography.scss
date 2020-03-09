@@ -24,6 +24,11 @@ p.lead,
 	font-size: $p * 1.25;
 }
 
+p.small-lead,
+.p.small-lead {
+	font-size: $p * 1.125;
+}
+
 // h1,
 // .h1 {
 // 	font-size: $h1;

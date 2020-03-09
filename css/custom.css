@@ -58,6 +58,8 @@ p, .p { font-size: 16px; line-height: 1.6; margin: 0 0 16px; }
 
 p.lead, .p.lead { font-size: 20px; }
 
+p.small-lead, .p.small-lead { font-size: 18px; }
+
 .green { color: #569300; }
 
 #Logo #LogoContainer a { display: inline-block; }
