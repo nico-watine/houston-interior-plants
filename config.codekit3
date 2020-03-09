@@ -941,7 +941,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_custom-sidebar.scss": {
+	"/scss/elements/panels/_custom-sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -954,7 +954,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_Panels.scss": {
+	"/scss/elements/panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1006,6 +1006,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/elements/site-components/typography/_letter-spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_letter-spacing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/elements/site-components/typography/_links.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1032,6 +1045,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/elements/site-components/typography/_text-transform.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_text-transform.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/elements/site-components/typography/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1041,6 +1067,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/site-components/css/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/utility-classes/_margin.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_margin.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/utility-classes/_padding.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_padding.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
