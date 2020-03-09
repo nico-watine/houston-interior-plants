@@ -422,6 +422,48 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar-panel a:hover { color: #777; text-decoration: underline; }
 
+#Logo #LogoContainer a { display: inline-block; }
+
+#Logo #LogoContainer a img { margin-right: 10px; }
+
+#Logo #LogoContainer h1 { display: inline-block; margin: 60px 0 20px; }
+
+#Logo #LogoContainer h1 a { color: #569300 !important; font-size: 50px; letter-spacing: 0; }
+
+#Logo #LogoContainer h1 a span#slogan { color: #797979; display: block; letter-spacing: .5px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; }
+
+#Header #HeaderLower { border-bottom: 4px solid #569300; border-top: 4px solid #569300; }
+
+#HeaderLower #SideCategoryList .sf-menu li ul { background-color: #fff; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+
+#HeaderLower #SideCategoryList li#index-link:hover { background: #569300; }
+
+#HeaderLower #SideCategoryList li#index-link:hover a { color: #fff; text-decoration: none; }
+
+#HeaderLower #SideCategoryList .sf-menu li { padding: 0 10px 0 10px; margin: 0; color: #000; }
+
+#HeaderLower #SideCategoryList .sf-menu li:hover { background: #569300; }
+
+#HeaderLower #SideCategoryList .sf-menu li:hover a { color: #fff; text-decoration: none; }
+
+#HeaderLower #SideCategoryList .sf-menu li:hover ul { border-top-width: 1px; border-top-color: #fff; border-top-style: solid; }
+
+#HeaderLower #SideCategoryList .sf-menu li:hover ul li a { color: #000 !important; }
+
+#HeaderLower #SideCategoryList li ul li, #HeaderLower #SideCategoryList .sf-menu li ul li { padding: 0 10px 0 10px; margin: 0; color: #000; }
+
+#HeaderLower #SideCategoryList li ul li:hover, #HeaderLower #SideCategoryList .sf-menu li ul li:hover { background: #569300; }
+
+#HeaderLower #SideCategoryList li ul li:hover a, #HeaderLower #SideCategoryList .sf-menu li ul li:hover a { color: #fff !important; text-decoration: none; }
+
+#HeaderLower #SideCategoryList li ul li:hover ul li a, #HeaderLower #SideCategoryList .sf-menu li ul li:hover ul li a { color: #000 !important; }
+
+#HeaderLower #SideCategoryList li ul li ul li a, #HeaderLower #SideCategoryList .sf-menu li ul li ul li a { color: #000 !important; }
+
+#HeaderLower #SideCategoryList li ul li ul li:hover a, #HeaderLower #SideCategoryList .sf-menu li ul li ul li:hover a { color: #fff !important; }
+
+.topNav.on-screen ul.MenuList { display: none !important; visibility: hidden !important; }
+
 .PostBody p { font-size: 16px; line-height: 1.4; }
 
 .PostBody a { color: #569300; text-decoration: underline; }
