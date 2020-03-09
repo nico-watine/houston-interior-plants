@@ -863,32 +863,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/page-blocks/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/elements/css/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/elements/page-blocks/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/elements/css/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/elements/page-blocks/_page-blocks.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -911,19 +885,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/css/_page-structure.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/elements/page-blocks/_pages-menu.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/elements/css/_pages-menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
