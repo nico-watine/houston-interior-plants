@@ -132,6 +132,34 @@
 		"oAP": "/_ignores/shop-for-pots-category-urls.txt",
 		"oF": 0
 		},
+	"/_ignores/styles-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_ignores/styles.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_ignores/styles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/styles.html",
+		"oF": 0
+		},
 	"/css/custom.css": {
 		"aP": 0,
 		"bl": 0,
@@ -934,7 +962,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/elements/css/_Panels.css",
+		"oAP": "/scss/elements/css/_panels.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -978,6 +1006,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/elements/site-components/typography/_letter-spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_letter-spacing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/elements/site-components/typography/_links.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -991,6 +1032,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/elements/site-components/typography/_text-color.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_text-color.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/typography/_text-transform.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_text-transform.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/elements/site-components/typography/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1000,6 +1067,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/site-components/css/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/utility-classes/_margin.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_margin.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/utility-classes/_padding.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_padding.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1400,6 +1493,41 @@
 		"oA": 2,
 		"oAP": "/storefront-content/shop-for-services/shop-for-services.html",
 		"oF": 0
+		},
+	"/web-pages/delivery-policy/delivery-policy-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/web-pages/delivery-policy/delivery-policy-1.html",
+		"oF": 0
+		},
+	"/web-pages/delivery-policy/delivery-policy-2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/web-pages/delivery-policy/delivery-policy-2.html",
+		"oF": 0
+		},
+	"/web-pages/delivery-policy/DELIVERY-POLICY.MD": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/web-pages/delivery-policy/DELIVERY-POLICY.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/WebDAV/README_WebDav.txt": {
 		"cB": 0,
