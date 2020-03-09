@@ -23,12 +23,14 @@ p,
 }
 
 p.lead,
-.p.lead {
+.p.lead,
+.lead {
 	font-size: $p * 1.25;
 }
 
 p.small-lead,
-.p.small-lead {
+.p.small-lead,
+.small-lead {
 	font-size: $p * 1.125;
 }
 
