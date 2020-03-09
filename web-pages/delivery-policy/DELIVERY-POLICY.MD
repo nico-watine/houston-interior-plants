@@ -1,17 +1,9 @@
-# -----------------------------------------
-# |            Delivery Policy            |
-# -----------------------------------------
+# Delivery Policy
 
 Most plants and containers are delivered in 1 to 10 days
 We will contact you within 24 hours of your purchase to set a delivery day and time
 
---------
 Lissette and I think this isn't good bc we can't accurately set that time based on our inventory, if we ordered that week, etc
----------
-
-
-
-# -----------------------------------------# -----------------------------------------# -----------------------------------------#
 
 
 
@@ -19,7 +11,8 @@ Lissette and I think this isn't good bc we can't accurately set that time based 
 
 
 
-ESTIMATED DELIVERY TIMES
+
+## ESTIMATED DELIVERY TIMES
 
 The estimated delivery time of your purchase depends on our current inventory. We typically receive fresh plant shipments from nursuries in Florida and California every week. Once we have received your items, most plants and containers are delivered within 14 days.
 

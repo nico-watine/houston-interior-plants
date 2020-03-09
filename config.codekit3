@@ -52,14 +52,6 @@
 		"oAP": "/_ignores/current-contact-snippet.html",
 		"oF": 0
 		},
-	"/_ignores/delivery-policy-prose.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/delivery-policy-prose.txt",
-		"oF": 0
-		},
 	"/_ignores/descriptions/product-specs-2.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1436,6 +1428,33 @@
 		"oA": 2,
 		"oAP": "/storefront-content/shop-for-services/shop-for-services.html",
 		"oF": 0
+		},
+	"/web-pages/delivery-policy/delivery-policy-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/web-pages/delivery-policy/delivery-policy-1.html",
+		"oF": 0
+		},
+	"/web-pages/delivery-policy/DELIVERY-POLICY.MD": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/web-pages/delivery-policy/DELIVERY-POLICY.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/WebDAV/README_WebDav.txt": {
 		"cB": 0,
