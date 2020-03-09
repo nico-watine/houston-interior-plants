@@ -9,11 +9,11 @@
 				display: block;
 
 				a {
-					color: #569300;
+					color: $link-blue;
 					font-size: 14px;
 
 					&:hover {
-						color: #777;
+						color: $link-blue-hover;
 						text-decoration: underline;
 					}
 				}
@@ -40,16 +40,18 @@
 }
 
 .customSidebar-panel {
-	background: #f4f4f4;
-	margin-bottom: 16px;
+	background: #f9f9f9;
+	border-radius: 3px;
+	margin-bottom: 20px;
 	box-shadow: $z-1;
 	padding: 8px;
 
 	.label {
-		color: $primary-green;
+		// color: $green;
 		font-size: 20px;
 		line-height: 1.4;
 		margin-bottom: 12px;
+		font-weight: bold;
 	}
 
 	p,
@@ -65,10 +67,10 @@
 	}
 
 	a {
-		color: $primary-green;
+		color: $link-blue;
 
 		&:hover {
-			color: #777;
+			color: $link-blue-hover;
 			text-decoration: underline;
 		}
 	}

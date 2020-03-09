@@ -294,15 +294,15 @@ table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; ma
 
 .Breadcrumb a { color: #000; }
 
-.Breadcrumb a:hover { color: #2199e8; }
+.Breadcrumb a:hover { color: #1779BA; }
 
 #ProductDescription a { color: #569300; text-decoration: underline; }
 
-#ProductDescription a:hover { color: #2199e8; text-decoration: none; }
+#ProductDescription a:hover { color: #1779BA; text-decoration: none; }
 
 a.standard { color: #569300; text-decoration: underline; }
 
-a.standard:hover { text-decoration: none; color: #2199e8; }
+a.standard:hover { text-decoration: none; color: #1779BA; }
 
 .text-green { color: #569300; }
 
@@ -354,9 +354,9 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar .customSidebar-panel ul li { margin-bottom: 10px; display: block; }
 
-.customSidebar .customSidebar-panel ul li a { color: #569300; font-size: 14px; }
+.customSidebar .customSidebar-panel ul li a { color: #1779BA; font-size: 14px; }
 
-.customSidebar .customSidebar-panel ul li a:hover { color: #777; text-decoration: underline; }
+.customSidebar .customSidebar-panel ul li a:hover { color: #1468A0; text-decoration: underline; }
 
 .customSidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
 
@@ -364,17 +364,17 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar { width: 215px; float: left; padding-top: 20px; }
 
-.customSidebar-panel { background: #f4f4f4; margin-bottom: 16px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
+.customSidebar-panel { background: #f9f9f9; border-radius: 3px; margin-bottom: 20px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); padding: 8px; }
 
-.customSidebar-panel .label { color: #569300; font-size: 20px; line-height: 1.4; margin-bottom: 12px; }
+.customSidebar-panel .label { font-size: 20px; line-height: 1.4; margin-bottom: 12px; font-weight: bold; }
 
 .customSidebar-panel p, .customSidebar-panel address { font-size: 14px; line-height: 1.4; margin-bottom: 12px; }
 
 .customSidebar-panel address { margin-bottom: 0; font-style: normal; }
 
-.customSidebar-panel a { color: #569300; }
+.customSidebar-panel a { color: #1779BA; }
 
-.customSidebar-panel a:hover { color: #777; text-decoration: underline; }
+.customSidebar-panel a:hover { color: #1468A0; text-decoration: underline; }
 
 #Logo #LogoContainer a { display: inline-block; }
 
