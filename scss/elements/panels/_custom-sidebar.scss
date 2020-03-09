@@ -47,23 +47,16 @@
 	padding: 8px;
 
 	.label {
-		// color: $green;
 		font-size: 20px;
 		line-height: 1.4;
 		margin-bottom: 12px;
 		font-weight: bold;
 	}
 
-	p,
-	address {
+	p {
 		font-size: 14px;
 		line-height: 1.4;
 		margin-bottom: 12px;
-	}
-
-	address {
-		margin-bottom: 0;
-		font-style: normal;
 	}
 
 	a {

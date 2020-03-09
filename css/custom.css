@@ -368,9 +368,7 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar-panel .label { font-size: 20px; line-height: 1.4; margin-bottom: 12px; font-weight: bold; }
 
-.customSidebar-panel p, .customSidebar-panel address { font-size: 14px; line-height: 1.4; margin-bottom: 12px; }
-
-.customSidebar-panel address { margin-bottom: 0; font-style: normal; }
+.customSidebar-panel p { font-size: 14px; line-height: 1.4; margin-bottom: 12px; }
 
 .customSidebar-panel a { color: #1779BA; }
 
