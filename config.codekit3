@@ -902,7 +902,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/panels/_custom-sidebar.scss": {
+	"/scss/elements/Panels/_custom-sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -915,7 +915,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_Header.scss": {
+	"/scss/elements/Panels/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -941,7 +941,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_panels.scss": {
+	"/scss/elements/panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,

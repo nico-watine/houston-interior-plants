@@ -360,7 +360,7 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .customSidebar-panel .label { font-size: 20px; line-height: 1.4; margin-bottom: 12px; font-weight: bold; }
 
-.customSidebar-panel a { font-size: 14px; color: #1779BA; margin-bottom: 10px; display: block; }
+.customSidebar-panel a { font-size: 14px; color: #1779BA; margin-bottom: 10px; display: inline-block; }
 
 .customSidebar-panel a:hover { color: #1468A0; text-decoration: underline; }
 
