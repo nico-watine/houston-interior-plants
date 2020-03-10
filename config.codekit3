@@ -170,652 +170,340 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/Layouts/_original/page.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/_original/page.html",
-		"oF": 0
-		},
-	"/Layouts/blog/_original/blog.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/_original/blog.html",
-		"oF": 0
-		},
-	"/Layouts/blog/_original/blog_post.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/_original/blog_post.html",
-		"oF": 0
-		},
-	"/Layouts/blog/blog.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/blog.html",
-		"oF": 0
-		},
-	"/Layouts/blog/blog_post.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/blog_post.html",
-		"oF": 0
-		},
-	"/Layouts/category/_original/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/_original/category.html",
-		"oF": 0
-		},
-	"/Layouts/category/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/category.html",
-		"oF": 0
-		},
-	"/Layouts/category/product/_original/product.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/product/_original/product.html",
-		"oF": 0
-		},
-	"/Layouts/category/product/product.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/product/product.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-light-level.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-light-level.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-plant-size.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-plant-size.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-plant-type.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-plant-type.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/shop-for-plants.html": {
+	"/products/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/Layouts/category/shop-for-plants/shop-for-plants.html",
+		"oAP": "/products/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html",
 		"oF": 0
 		},
-	"/Layouts/category/shop-for-pots/home-collection.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-pots/home-collection.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-pots/shop-for-pots.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-pots/shop-for-pots.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-pots/snippets/anduze-snippet.html": {
+	"/products/product-descriptions/plants/areca-palm.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/Layouts/category/shop-for-pots/snippets/anduze-snippet.html",
+		"oAP": "/products/product-descriptions/plants/areca-palm.html",
 		"oF": 0
 		},
-	"/Layouts/index/_original/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/_original/default.html",
-		"oF": 0
-		},
-	"/Layouts/index/blocks/functional-tri-banner.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/blocks/functional-tri-banner.html",
-		"oF": 0
-		},
-	"/Layouts/index/blocks/pretty-tri-banner.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/blocks/pretty-tri-banner.html",
-		"oF": 0
-		},
-	"/Layouts/index/default.html": {
+	"/products/product-descriptions/plants/bamboo-palm-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/Layouts/index/default.html",
+		"oAP": "/products/product-descriptions/plants/bamboo-palm-large.html",
 		"oF": 0
 		},
-	"/Layouts/page.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/page.html",
-		"oF": 0
-		},
-	"/Layouts/search/_original/search.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/search/_original/search.html",
-		"oF": 0
-		},
-	"/Layouts/search/search.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/search/search.html",
-		"oF": 0
-		},
-	"/Panels/_original/CategoryHeading.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/CategoryHeading.html",
-		"oF": 0
-		},
-	"/Panels/_original/Footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/Footer.html",
-		"oF": 0
-		},
-	"/Panels/_original/Header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/Header.html",
-		"oF": 0
-		},
-	"/Panels/_original/PagesMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/PagesMenu.html",
-		"oF": 0
-		},
-	"/Panels/_original/ProductDetails.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/ProductDetails.html",
-		"oF": 0
-		},
-	"/Panels/_original/SearchPageHeader.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/SearchPageHeader.html",
-		"oF": 0
-		},
-	"/Panels/_original/SideCategoryList.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/SideCategoryList.html",
-		"oF": 0
-		},
-	"/Panels/_original/TopMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/TopMenu.html",
-		"oF": 0
-		},
-	"/Panels/CategoryHeading.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/CategoryHeading.html",
-		"oF": 0
-		},
-	"/Panels/custom-sidebar.html": {
+	"/products/product-descriptions/plants/bamboo-palm-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/Panels/custom-sidebar.html",
+		"oAP": "/products/product-descriptions/plants/bamboo-palm-medium.html",
 		"oF": 0
 		},
-	"/Panels/Footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/Footer.html",
-		"oF": 0
-		},
-	"/Panels/Header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/Header.html",
-		"oF": 0
-		},
-	"/Panels/PagesMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/PagesMenu.html",
-		"oF": 0
-		},
-	"/Panels/SearchPageHeader.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/SearchPageHeader.html",
-		"oF": 0
-		},
-	"/Panels/SideCategoryList.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/SideCategoryList.html",
-		"oF": 0
-		},
-	"/Panels/TopMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/TopMenu.html",
-		"oF": 0
-		},
-	"/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html": {
+	"/products/product-descriptions/plants/bambusa-vulgaris-indoor-bamboo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html",
+		"oAP": "/products/product-descriptions/plants/bambusa-vulgaris-indoor-bamboo.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/areca-palm.html": {
+	"/products/product-descriptions/plants/bird-of-paradise-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/areca-palm.html",
+		"oAP": "/products/product-descriptions/plants/bird-of-paradise-large.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/bamboo-palm-large.html": {
+	"/products/product-descriptions/plants/bird-of-paradise-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/bamboo-palm-large.html",
+		"oAP": "/products/product-descriptions/plants/bird-of-paradise-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/bamboo-palm-medium.html": {
+	"/products/product-descriptions/plants/cactus-african-milk-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/bamboo-palm-medium.html",
+		"oAP": "/products/product-descriptions/plants/cactus-african-milk-tree.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/bambusa-vulgaris-indoor-bamboo.html": {
+	"/products/product-descriptions/plants/cactus-candelabra-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/bambusa-vulgaris-indoor-bamboo.html",
+		"oAP": "/products/product-descriptions/plants/cactus-candelabra-tree.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/bird-of-paradise-large.html": {
+	"/products/product-descriptions/plants/cactus-euphorbia-ammal-variegated.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/bird-of-paradise-large.html",
+		"oAP": "/products/product-descriptions/plants/cactus-euphorbia-ammal-variegated.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/bird-of-paradise-medium.html": {
+	"/products/product-descriptions/plants/call-only/dracaena-reflexa.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/bird-of-paradise-medium.html",
+		"oAP": "/products/product-descriptions/plants/call-only/dracaena-reflexa.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/cactus-african-milk-tree.html": {
+	"/products/product-descriptions/plants/call-only/fiddle-leaf-fig-column.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/cactus-african-milk-tree.html",
+		"oAP": "/products/product-descriptions/plants/call-only/fiddle-leaf-fig-column.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/cactus-candelabra-tree.html": {
+	"/products/product-descriptions/plants/call-only/variegated-arboricola-column.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/cactus-candelabra-tree.html",
+		"oAP": "/products/product-descriptions/plants/call-only/variegated-arboricola-column.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/cactus-euphorbia-ammal-variegated.html": {
+	"/products/product-descriptions/plants/call-only/warneckii-goldstar-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/cactus-euphorbia-ammal-variegated.html",
+		"oAP": "/products/product-descriptions/plants/call-only/warneckii-goldstar-large.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/call-only/dracaena-reflexa.html": {
+	"/products/product-descriptions/plants/chinese-evergreen-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/call-only/dracaena-reflexa.html",
+		"oAP": "/products/product-descriptions/plants/chinese-evergreen-large.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/call-only/fiddle-leaf-fig-column.html": {
+	"/products/product-descriptions/plants/few-lines/jade-plant.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/call-only/fiddle-leaf-fig-column.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/jade-plant.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/call-only/variegated-arboricola-column.html": {
+	"/products/product-descriptions/plants/few-lines/janet-craig-compacta.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/call-only/variegated-arboricola-column.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/janet-craig-compacta.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/call-only/warneckii-goldstar-large.html": {
+	"/products/product-descriptions/plants/few-lines/lisa-cane-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/call-only/warneckii-goldstar-large.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/lisa-cane-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/chinese-evergreen-large.html": {
+	"/products/product-descriptions/plants/few-lines/marginata-dragon-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/chinese-evergreen-large.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/marginata-dragon-tree.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/jade-plant.html": {
+	"/products/product-descriptions/plants/few-lines/medium-closet-plant-peace-lily.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/jade-plant.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/medium-closet-plant-peace-lily.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/janet-craig-compacta.html": {
+	"/products/product-descriptions/plants/few-lines/pencil-cactus.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/janet-craig-compacta.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/pencil-cactus.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/lisa-cane-medium.html": {
+	"/products/product-descriptions/plants/few-lines/philodendron.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/lisa-cane-medium.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/philodendron.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/marginata-dragon-tree.html": {
+	"/products/product-descriptions/plants/few-lines/song-of-jamaica.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/marginata-dragon-tree.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/song-of-jamaica.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/medium-closet-plant-peace-lily.html": {
+	"/products/product-descriptions/plants/few-lines/warneckii-bush-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/medium-closet-plant-peace-lily.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/warneckii-bush-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/pencil-cactus.html": {
+	"/products/product-descriptions/plants/few-lines/warneckii-goldstar-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/pencil-cactus.html",
+		"oAP": "/products/product-descriptions/plants/few-lines/warneckii-goldstar-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/philodendron.html": {
+	"/products/product-descriptions/plants/fiddle-leaf-fig-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/philodendron.html",
+		"oAP": "/products/product-descriptions/plants/fiddle-leaf-fig-tree.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/song-of-jamaica.html": {
+	"/products/product-descriptions/plants/lady-palm-rhapis-palm.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/song-of-jamaica.html",
+		"oAP": "/products/product-descriptions/plants/lady-palm-rhapis-palm.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/warneckii-bush-medium.html": {
+	"/products/product-descriptions/plants/page-1/chinese-evergreen-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/warneckii-bush-medium.html",
+		"oAP": "/products/product-descriptions/plants/page-1/chinese-evergreen-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/few-lines/warneckii-goldstar-medium.html": {
+	"/products/product-descriptions/plants/page-1/corn-plant.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/few-lines/warneckii-goldstar-medium.html",
+		"oAP": "/products/product-descriptions/plants/page-1/corn-plant.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/fiddle-leaf-fig-tree.html": {
+	"/products/product-descriptions/plants/page-1/corn-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/fiddle-leaf-fig-tree.html",
+		"oAP": "/products/product-descriptions/plants/page-1/corn-plants.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/lady-palm-rhapis-palm.html": {
+	"/products/product-descriptions/plants/page-1/dracaena-draco.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/lady-palm-rhapis-palm.html",
+		"oAP": "/products/product-descriptions/plants/page-1/dracaena-draco.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/chinese-evergreen-medium.html": {
+	"/products/product-descriptions/plants/page-1/extra-large-rhapis-lady-palm.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/chinese-evergreen-medium.html",
+		"oAP": "/products/product-descriptions/plants/page-1/extra-large-rhapis-lady-palm.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/corn-plant.html": {
+	"/products/product-descriptions/plants/page-1/ficus-benjamina-tree.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/corn-plant.html",
+		"oAP": "/products/product-descriptions/plants/page-1/ficus-benjamina-tree.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/corn-plants.html": {
+	"/products/product-descriptions/plants/page-1/ficus-tree-alii.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/corn-plants.html",
+		"oAP": "/products/product-descriptions/plants/page-1/ficus-tree-alii.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/dracaena-draco.html": {
+	"/products/product-descriptions/plants/page-2/hawaiian-lisa-cane.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/dracaena-draco.html",
+		"oAP": "/products/product-descriptions/plants/page-2/hawaiian-lisa-cane.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/extra-large-rhapis-lady-palm.html": {
+	"/products/product-descriptions/plants/page-2/hawaiian-rhapis-palm-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/extra-large-rhapis-lady-palm.html",
+		"oAP": "/products/product-descriptions/plants/page-2/hawaiian-rhapis-palm-large.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/ficus-benjamina-tree.html": {
+	"/products/product-descriptions/plants/page-2/hawaiian-warneckii.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/ficus-benjamina-tree.html",
+		"oAP": "/products/product-descriptions/plants/page-2/hawaiian-warneckii.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-1/ficus-tree-alii.html": {
+	"/products/product-descriptions/plants/page-2/janet-craig-bush-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-1/ficus-tree-alii.html",
+		"oAP": "/products/product-descriptions/plants/page-2/janet-craig-bush-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-2/hawaiian-lisa-cane.html": {
+	"/products/product-descriptions/plants/page-2/janet-craig-carmen.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/hawaiian-lisa-cane.html",
+		"oAP": "/products/product-descriptions/plants/page-2/janet-craig-carmen.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-2/hawaiian-rhapis-palm-large.html": {
+	"/products/product-descriptions/plants/page-2/kentia-palm-large.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/hawaiian-rhapis-palm-large.html",
+		"oAP": "/products/product-descriptions/plants/page-2/kentia-palm-large.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-2/hawaiian-warneckii.html": {
+	"/products/product-descriptions/plants/page-2/kentia-palm-medium.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/hawaiian-warneckii.html",
+		"oAP": "/products/product-descriptions/plants/page-2/kentia-palm-medium.html",
 		"oF": 0
 		},
-	"/product-descriptions/plants/page-2/janet-craig-bush-medium.html": {
+	"/products/product-descriptions/pots/barcelona.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/janet-craig-bush-medium.html",
-		"oF": 0
-		},
-	"/product-descriptions/plants/page-2/janet-craig-carmen.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/janet-craig-carmen.html",
-		"oF": 0
-		},
-	"/product-descriptions/plants/page-2/kentia-palm-large.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/kentia-palm-large.html",
-		"oF": 0
-		},
-	"/product-descriptions/plants/page-2/kentia-palm-medium.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/product-descriptions/plants/page-2/kentia-palm-medium.html",
-		"oF": 0
-		},
-	"/product-descriptions/pots/barcelona.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/product-descriptions/pots/barcelona.html",
+		"oAP": "/products/product-descriptions/pots/barcelona.html",
 		"oF": 0
 		},
 	"/README.md": {
@@ -915,7 +603,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_header.scss": {
+	"/scss/elements/Panels/_Header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -941,7 +629,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/panels/_panels.scss": {
+	"/scss/elements/Panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1305,180 +993,500 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/Snippets/_original/PageMenu.html": {
+	"/storefront/template-files/Layouts/_original/page.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/PageMenu.html",
+		"oAP": "/storefront/template-files/Layouts/_original/page.html",
 		"oF": 0
 		},
-	"/Snippets/_original/ProductThumbImage.html": {
+	"/storefront/template-files/Layouts/blog/_original/blog.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/ProductThumbImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/_original/blog.html",
 		"oF": 0
 		},
-	"/Snippets/_original/ProductTinyImage.html": {
+	"/storefront/template-files/Layouts/blog/_original/blog_post.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/ProductTinyImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/_original/blog_post.html",
 		"oF": 0
 		},
-	"/Snippets/PageMenu.html": {
+	"/storefront/template-files/Layouts/blog/blog.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/PageMenu.html",
+		"oAP": "/storefront/template-files/Layouts/blog/blog.html",
 		"oF": 0
 		},
-	"/Snippets/ProductThumbImage.html": {
+	"/storefront/template-files/Layouts/blog/blog_post.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/ProductThumbImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/blog_post.html",
 		"oF": 0
 		},
-	"/Snippets/ProductTinyImage.html": {
+	"/storefront/template-files/Layouts/category/_original/category.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/ProductTinyImage.html",
+		"oAP": "/storefront/template-files/Layouts/category/_original/category.html",
 		"oF": 0
 		},
-	"/storefront-content/about-us/about-us-text.txt": {
+	"/storefront/template-files/Layouts/category/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/category.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/product/_original/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/product/_original/product.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/product/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/product/product.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-light-level.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-light-level.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-plant-size.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-plant-size.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-plant-type.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-plant-type.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/shop-for-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/about-us/about-us-text.txt",
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/shop-for-plants.html",
 		"oF": 0
 		},
-	"/storefront-content/about-us/about-us.html": {
+	"/storefront/template-files/Layouts/category/shop-for-pots/home-collection.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/about-us/about-us.html",
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/home-collection.html",
 		"oF": 0
 		},
-	"/storefront-content/about-us/original-text.txt": {
+	"/storefront/template-files/Layouts/category/shop-for-pots/shop-for-pots.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/shop-for-pots.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-pots/snippets/anduze-snippet.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/about-us/original-text.txt",
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/snippets/anduze-snippet.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-choose-a-plant.html": {
+	"/storefront/template-files/Layouts/index/_original/default.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-choose-a-plant.html",
+		"oAP": "/storefront/template-files/Layouts/index/_original/default.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-choose-the-right-pot.html": {
+	"/storefront/template-files/Layouts/index/blocks/functional-tri-banner.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-choose-the-right-pot.html",
+		"oAP": "/storefront/template-files/Layouts/index/blocks/functional-tri-banner.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-design-with-plants.html": {
+	"/storefront/template-files/Layouts/index/blocks/pretty-tri-banner.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-design-with-plants.html",
+		"oAP": "/storefront/template-files/Layouts/index/blocks/pretty-tri-banner.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/the-case-for-quality-plants.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/the-case-for-quality-plants.html",
-		"oF": 0
-		},
-	"/storefront-content/blog-posts/top-10-best-indoor-plants.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/top-10-best-indoor-plants.html",
-		"oF": 0
-		},
-	"/storefront-content/blog-posts/top-5-easiest-office-floor-plants.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/top-5-easiest-office-floor-plants.html",
-		"oF": 0
-		},
-	"/storefront-content/delivery-policy/deliver-policy.html": {
+	"/storefront/template-files/Layouts/index/default.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/delivery-policy/deliver-policy.html",
+		"oAP": "/storefront/template-files/Layouts/index/default.html",
 		"oF": 0
 		},
-	"/storefront-content/delivery-policy/original-format.html": {
+	"/storefront/template-files/Layouts/page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/page.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/search/_original/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/search/_original/search.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/search/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/search/search.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/CategoryHeading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/CategoryHeading.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/Footer.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/Header.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/PagesMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/PagesMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/ProductDetails.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/ProductDetails.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/SearchPageHeader.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/SearchPageHeader.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/SideCategoryList.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/SideCategoryList.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/TopMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/TopMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/CategoryHeading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/CategoryHeading.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/custom-sidebar.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/delivery-policy/original-format.html",
+		"oAP": "/storefront/template-files/Panels/custom-sidebar.html",
 		"oF": 0
 		},
-	"/storefront-content/returns-exchanges-policy/content.txt": {
+	"/storefront/template-files/Panels/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/Footer.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/Header.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/PagesMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/PagesMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/SearchPageHeader.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/SearchPageHeader.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/SideCategoryList.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/SideCategoryList.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/TopMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/TopMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/PageMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/PageMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/ProductThumbImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/ProductThumbImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/ProductTinyImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/ProductTinyImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/PageMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/PageMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/ProductThumbImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/ProductThumbImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/ProductTinyImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/ProductTinyImage.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/about-us/about-us-text.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/returns-exchanges-policy/content.txt",
+		"oAP": "/storefront/web-pages/about-us/about-us-text.txt",
 		"oF": 0
 		},
-	"/storefront-content/returns-exchanges-policy/returns-exchanges-policy.html": {
+	"/storefront/web-pages/about-us/about-us.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/about-us/about-us.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/about-us/original-text.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/returns-exchanges-policy/returns-exchanges-policy.html",
+		"oAP": "/storefront/web-pages/about-us/original-text.txt",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/_notes.txt": {
+	"/storefront/web-pages/blog-posts/how-do-i-choose-a-plant.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-choose-a-plant.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/blog-posts/how-do-i-choose-the-right-pot.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-choose-the-right-pot.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/blog-posts/how-do-i-design-with-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-design-with-plants.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/blog-posts/the-case-for-quality-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/the-case-for-quality-plants.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/blog-posts/top-10-best-indoor-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/top-10-best-indoor-plants.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/blog-posts/top-5-easiest-office-floor-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/web-pages/blog-posts/top-5-easiest-office-floor-plants.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/delivery-policy/delivery-policy-1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-1.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/delivery-policy/delivery-policy-2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-2.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/delivery-policy/delivery-policy-3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-3.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/returns-exchanges-policy/content.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/returns-exchanges-policy/content.txt",
+		"oF": 0
+		},
+	"/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/shop-for-services/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/storefront-content/shop-for-services/_notes.txt",
+		"oAP": "/storefront/web-pages/shop-for-services/_notes.txt",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/page-content.html": {
+	"/storefront/web-pages/shop-for-services/page-content.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/shop-for-services/page-content.html",
+		"oAP": "/storefront/web-pages/shop-for-services/page-content.html",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/shop-for-services.html": {
+	"/storefront/web-pages/shop-for-services/shop-for-services.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/shop-for-services/shop-for-services.html",
+		"oAP": "/storefront/web-pages/shop-for-services/shop-for-services.html",
 		"oF": 0
 		},
 	"/TODO": {
@@ -1487,73 +1495,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/TODO",
-		"oF": 0
-		},
-	"/web-pages/delivery-policy/delivery-policy-1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/web-pages/delivery-policy/delivery-policy-1.html",
-		"oF": 0
-		},
-	"/web-pages/delivery-policy/delivery-policy-2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/web-pages/delivery-policy/delivery-policy-2.html",
-		"oF": 0
-		},
-	"/web-pages/delivery-policy/DELIVERY-POLICY.MD": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/web-pages/delivery-policy/DELIVERY-POLICY.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/WebDAV/README_WebDav.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/README_WebDav.txt",
-		"oF": 0
-		},
-	"/WebDAV/template/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/category.html",
-		"oF": 0
-		},
-	"/WebDAV/template/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/default.html",
-		"oF": 0
-		},
-	"/WebDAV/template/Panels/custom-sidebar.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/Panels/custom-sidebar.html",
 		"oF": 0
 		}
 	},
