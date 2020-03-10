@@ -915,7 +915,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_header.scss": {
+	"/scss/elements/Panels/_Header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -941,7 +941,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/panels/_panels.scss": {
+	"/scss/elements/Panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1353,132 +1353,132 @@
 		"oAP": "/Snippets/ProductTinyImage.html",
 		"oF": 0
 		},
-	"/storefront-content/about-us/about-us-text.txt": {
+	"/storefront/web-pages/about-us/about-us-text.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/about-us/about-us-text.txt",
+		"oAP": "/storefront/web-pages/about-us/about-us-text.txt",
 		"oF": 0
 		},
-	"/storefront-content/about-us/about-us.html": {
+	"/storefront/web-pages/about-us/about-us.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/about-us/about-us.html",
+		"oAP": "/storefront/web-pages/about-us/about-us.html",
 		"oF": 0
 		},
-	"/storefront-content/about-us/original-text.txt": {
+	"/storefront/web-pages/about-us/original-text.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/about-us/original-text.txt",
+		"oAP": "/storefront/web-pages/about-us/original-text.txt",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-choose-a-plant.html": {
+	"/storefront/web-pages/blog-posts/how-do-i-choose-a-plant.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-choose-a-plant.html",
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-choose-a-plant.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-choose-the-right-pot.html": {
+	"/storefront/web-pages/blog-posts/how-do-i-choose-the-right-pot.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-choose-the-right-pot.html",
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-choose-the-right-pot.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/how-do-i-design-with-plants.html": {
+	"/storefront/web-pages/blog-posts/how-do-i-design-with-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/how-do-i-design-with-plants.html",
+		"oAP": "/storefront/web-pages/blog-posts/how-do-i-design-with-plants.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/the-case-for-quality-plants.html": {
+	"/storefront/web-pages/blog-posts/the-case-for-quality-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/the-case-for-quality-plants.html",
+		"oAP": "/storefront/web-pages/blog-posts/the-case-for-quality-plants.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/top-10-best-indoor-plants.html": {
+	"/storefront/web-pages/blog-posts/top-10-best-indoor-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/top-10-best-indoor-plants.html",
+		"oAP": "/storefront/web-pages/blog-posts/top-10-best-indoor-plants.html",
 		"oF": 0
 		},
-	"/storefront-content/blog-posts/top-5-easiest-office-floor-plants.html": {
+	"/storefront/web-pages/blog-posts/top-5-easiest-office-floor-plants.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/storefront-content/blog-posts/top-5-easiest-office-floor-plants.html",
+		"oAP": "/storefront/web-pages/blog-posts/top-5-easiest-office-floor-plants.html",
 		"oF": 0
 		},
-	"/storefront-content/delivery-policy/deliver-policy.html": {
+	"/storefront/web-pages/delivery-policy/deliver-policy.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/delivery-policy/deliver-policy.html",
+		"oAP": "/storefront/web-pages/delivery-policy/deliver-policy.html",
 		"oF": 0
 		},
-	"/storefront-content/delivery-policy/original-format.html": {
+	"/storefront/web-pages/delivery-policy/original-format.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/delivery-policy/original-format.html",
+		"oAP": "/storefront/web-pages/delivery-policy/original-format.html",
 		"oF": 0
 		},
-	"/storefront-content/returns-exchanges-policy/content.txt": {
+	"/storefront/web-pages/returns-exchanges-policy/content.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/returns-exchanges-policy/content.txt",
+		"oAP": "/storefront/web-pages/returns-exchanges-policy/content.txt",
 		"oF": 0
 		},
-	"/storefront-content/returns-exchanges-policy/returns-exchanges-policy.html": {
+	"/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/returns-exchanges-policy/returns-exchanges-policy.html",
+		"oAP": "/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/_notes.txt": {
+	"/storefront/web-pages/shop-for-services/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/storefront-content/shop-for-services/_notes.txt",
+		"oAP": "/storefront/web-pages/shop-for-services/_notes.txt",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/page-content.html": {
+	"/storefront/web-pages/shop-for-services/page-content.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/shop-for-services/page-content.html",
+		"oAP": "/storefront/web-pages/shop-for-services/page-content.html",
 		"oF": 0
 		},
-	"/storefront-content/shop-for-services/shop-for-services.html": {
+	"/storefront/web-pages/shop-for-services/shop-for-services.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront-content/shop-for-services/shop-for-services.html",
+		"oAP": "/storefront/web-pages/shop-for-services/shop-for-services.html",
 		"oF": 0
 		},
 	"/TODO": {
