@@ -170,318 +170,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/Layouts/_original/page.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/_original/page.html",
-		"oF": 0
-		},
-	"/Layouts/blog/_original/blog.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/_original/blog.html",
-		"oF": 0
-		},
-	"/Layouts/blog/_original/blog_post.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/_original/blog_post.html",
-		"oF": 0
-		},
-	"/Layouts/blog/blog.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/blog.html",
-		"oF": 0
-		},
-	"/Layouts/blog/blog_post.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/blog/blog_post.html",
-		"oF": 0
-		},
-	"/Layouts/category/_original/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/_original/category.html",
-		"oF": 0
-		},
-	"/Layouts/category/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/category.html",
-		"oF": 0
-		},
-	"/Layouts/category/product/_original/product.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/product/_original/product.html",
-		"oF": 0
-		},
-	"/Layouts/category/product/product.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/product/product.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-light-level.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-light-level.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-plant-size.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-plant-size.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/by-plant-type.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-plants/by-plant-type.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-plants/shop-for-plants.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/Layouts/category/shop-for-plants/shop-for-plants.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-pots/home-collection.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-pots/home-collection.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-pots/shop-for-pots.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/category/shop-for-pots/shop-for-pots.html",
-		"oF": 0
-		},
-	"/Layouts/category/shop-for-pots/snippets/anduze-snippet.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/Layouts/category/shop-for-pots/snippets/anduze-snippet.html",
-		"oF": 0
-		},
-	"/Layouts/index/_original/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/_original/default.html",
-		"oF": 0
-		},
-	"/Layouts/index/blocks/functional-tri-banner.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/blocks/functional-tri-banner.html",
-		"oF": 0
-		},
-	"/Layouts/index/blocks/pretty-tri-banner.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/index/blocks/pretty-tri-banner.html",
-		"oF": 0
-		},
-	"/Layouts/index/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/Layouts/index/default.html",
-		"oF": 0
-		},
-	"/Layouts/page.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/page.html",
-		"oF": 0
-		},
-	"/Layouts/search/_original/search.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/search/_original/search.html",
-		"oF": 0
-		},
-	"/Layouts/search/search.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Layouts/search/search.html",
-		"oF": 0
-		},
-	"/Panels/_original/CategoryHeading.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/CategoryHeading.html",
-		"oF": 0
-		},
-	"/Panels/_original/Footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/Footer.html",
-		"oF": 0
-		},
-	"/Panels/_original/Header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/Header.html",
-		"oF": 0
-		},
-	"/Panels/_original/PagesMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/PagesMenu.html",
-		"oF": 0
-		},
-	"/Panels/_original/ProductDetails.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/ProductDetails.html",
-		"oF": 0
-		},
-	"/Panels/_original/SearchPageHeader.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/SearchPageHeader.html",
-		"oF": 0
-		},
-	"/Panels/_original/SideCategoryList.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/SideCategoryList.html",
-		"oF": 0
-		},
-	"/Panels/_original/TopMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/_original/TopMenu.html",
-		"oF": 0
-		},
-	"/Panels/CategoryHeading.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/CategoryHeading.html",
-		"oF": 0
-		},
-	"/Panels/custom-sidebar.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/Panels/custom-sidebar.html",
-		"oF": 0
-		},
-	"/Panels/Footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/Footer.html",
-		"oF": 0
-		},
-	"/Panels/Header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/Header.html",
-		"oF": 0
-		},
-	"/Panels/PagesMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/PagesMenu.html",
-		"oF": 0
-		},
-	"/Panels/SearchPageHeader.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/SearchPageHeader.html",
-		"oF": 0
-		},
-	"/Panels/SideCategoryList.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/SideCategoryList.html",
-		"oF": 0
-		},
-	"/Panels/TopMenu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Panels/TopMenu.html",
-		"oF": 0
-		},
 	"/products/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1305,52 +993,364 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/Snippets/_original/PageMenu.html": {
+	"/storefront/template-files/Layouts/_original/page.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/PageMenu.html",
+		"oAP": "/storefront/template-files/Layouts/_original/page.html",
 		"oF": 0
 		},
-	"/Snippets/_original/ProductThumbImage.html": {
+	"/storefront/template-files/Layouts/blog/_original/blog.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/ProductThumbImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/_original/blog.html",
 		"oF": 0
 		},
-	"/Snippets/_original/ProductTinyImage.html": {
+	"/storefront/template-files/Layouts/blog/_original/blog_post.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/_original/ProductTinyImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/_original/blog_post.html",
 		"oF": 0
 		},
-	"/Snippets/PageMenu.html": {
+	"/storefront/template-files/Layouts/blog/blog.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/PageMenu.html",
+		"oAP": "/storefront/template-files/Layouts/blog/blog.html",
 		"oF": 0
 		},
-	"/Snippets/ProductThumbImage.html": {
+	"/storefront/template-files/Layouts/blog/blog_post.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/ProductThumbImage.html",
+		"oAP": "/storefront/template-files/Layouts/blog/blog_post.html",
 		"oF": 0
 		},
-	"/Snippets/ProductTinyImage.html": {
+	"/storefront/template-files/Layouts/category/_original/category.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/Snippets/ProductTinyImage.html",
+		"oAP": "/storefront/template-files/Layouts/category/_original/category.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/category.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/product/_original/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/product/_original/product.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/product/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/product/product.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-light-level.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-light-level.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-plant-size.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-plant-size.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/by-plant-type.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/by-plant-type.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-plants/shop-for-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-plants/shop-for-plants.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-pots/home-collection.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/home-collection.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-pots/shop-for-pots.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/shop-for-pots.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/category/shop-for-pots/snippets/anduze-snippet.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/category/shop-for-pots/snippets/anduze-snippet.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/_original/default.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/index/_original/default.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/blocks/functional-tri-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/index/blocks/functional-tri-banner.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/blocks/pretty-tri-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/index/blocks/pretty-tri-banner.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/default.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/index/default.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/page.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/search/_original/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/search/_original/search.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/search/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Layouts/search/search.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/CategoryHeading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/CategoryHeading.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/Footer.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/Header.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/PagesMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/PagesMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/ProductDetails.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/ProductDetails.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/SearchPageHeader.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/SearchPageHeader.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/SideCategoryList.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/SideCategoryList.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/_original/TopMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/_original/TopMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/CategoryHeading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/CategoryHeading.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/custom-sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Panels/custom-sidebar.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/Footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/Footer.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/Header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/Header.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/PagesMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/PagesMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/SearchPageHeader.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/SearchPageHeader.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/SideCategoryList.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/SideCategoryList.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Panels/TopMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Panels/TopMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/PageMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/PageMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/ProductThumbImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/ProductThumbImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/_original/ProductTinyImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/_original/ProductTinyImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/PageMenu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/PageMenu.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/ProductThumbImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/ProductThumbImage.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Snippets/ProductTinyImage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/storefront/template-files/Snippets/ProductTinyImage.html",
 		"oF": 0
 		},
 	"/storefront/web-pages/about-us/about-us-text.txt": {
