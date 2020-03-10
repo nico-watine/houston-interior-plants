@@ -923,7 +923,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/elements/css/_header.css",
+		"oAP": "/scss/elements/css/_Header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -941,7 +941,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_Panels.scss": {
+	"/scss/elements/panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1479,6 +1479,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/storefront-content/shop-for-services/shop-for-services.html",
+		"oF": 0
+		},
+	"/TODO": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/TODO",
 		"oF": 0
 		},
 	"/web-pages/delivery-policy/delivery-policy-1.html": {
