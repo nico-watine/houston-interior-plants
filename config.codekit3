@@ -1425,20 +1425,28 @@
 		"oAP": "/storefront/web-pages/blog-posts/top-5-easiest-office-floor-plants.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/delivery-policy/deliver-policy.html": {
+	"/storefront/web-pages/delivery-policy/delivery-policy-1.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront/web-pages/delivery-policy/deliver-policy.html",
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-1.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/delivery-policy/original-format.html": {
+	"/storefront/web-pages/delivery-policy/delivery-policy-2.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront/web-pages/delivery-policy/original-format.html",
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-2.html",
+		"oF": 0
+		},
+	"/storefront/web-pages/delivery-policy/delivery-policy-3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-3.html",
 		"oF": 0
 		},
 	"/storefront/web-pages/returns-exchanges-policy/content.txt": {
@@ -1488,41 +1496,6 @@
 		"oA": 2,
 		"oAP": "/TODO",
 		"oF": 0
-		},
-	"/web-pages/delivery-policy/delivery-policy-1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/web-pages/delivery-policy/delivery-policy-1.html",
-		"oF": 0
-		},
-	"/web-pages/delivery-policy/delivery-policy-2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/web-pages/delivery-policy/delivery-policy-2.html",
-		"oF": 0
-		},
-	"/web-pages/delivery-policy/DELIVERY-POLICY.MD": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/web-pages/delivery-policy/DELIVERY-POLICY.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"/WebDAV/README_WebDav.txt": {
 		"cB": 0,
