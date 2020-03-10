@@ -1496,38 +1496,6 @@
 		"oA": 2,
 		"oAP": "/TODO",
 		"oF": 0
-		},
-	"/WebDAV/README_WebDav.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/README_WebDav.txt",
-		"oF": 0
-		},
-	"/WebDAV/template/category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/category.html",
-		"oF": 0
-		},
-	"/WebDAV/template/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/default.html",
-		"oF": 0
-		},
-	"/WebDAV/template/Panels/custom-sidebar.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/WebDAV/template/Panels/custom-sidebar.html",
-		"oF": 0
 		}
 	},
 "hooks": [
