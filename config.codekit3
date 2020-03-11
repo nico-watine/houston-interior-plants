@@ -590,7 +590,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_custom-sidebar.scss": {
+	"/scss/elements/panels/_custom-sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -603,7 +603,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_Header.scss": {
+	"/scss/elements/Panels/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -629,7 +629,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_panels.scss": {
+	"/scss/elements/panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -651,6 +651,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/css/_buttons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/_foundation-6-float-grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_foundation-6-float-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
