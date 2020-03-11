@@ -954,19 +954,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/index/_slide-show.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_slide-show.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/index/_stretch-banner.scss": {
 		"aP": 0,
 		"bl": 0,

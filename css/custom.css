@@ -840,8 +840,6 @@ body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
 body#index #HomeFeaturedProducts h2 { display: none; visibility: hidden; }
 
-.slide-show-render.slide-show { top: 0; }
-
 #index-stretch-banner { text-align: center; position: relative; margin-bottom: 10px; }
 
 #index-stretch-banner h2 { text-shadow: 0 3px 2px #000; color: #fff; text-transform: none; font-size: 30px; position: absolute; top: 30px; width: 100%; }
