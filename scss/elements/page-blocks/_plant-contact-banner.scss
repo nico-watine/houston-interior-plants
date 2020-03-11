@@ -3,8 +3,8 @@
 	// background: #fff url('https://cdn3.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/plant-banner-asset-145.jpg') center center/contain no-repeat;
 	width: 100%;
 	border-radius: 0 0 4px 4px;
-	// height: 130px;
-	height: 190px;
+	height: 130px;
+	// height: 190px;
 	margin-top: 130px;
 	// margin-top: 190px;
 	padding-bottom: 15px;
@@ -34,4 +34,8 @@
 			text-decoration: none;
 		}
 	}
+}
+
+.plant-contact-banner.tall {
+	height: 190px;
 }
