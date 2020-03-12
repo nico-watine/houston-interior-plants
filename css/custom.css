@@ -848,6 +848,8 @@ body#index .product-category-link .unit-text-wrapper { position: absolute; top: 
 
 body#index .product-category-link .unit-text-wrapper .prose { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
 
+body#index .product-category-link .unit-link img { border-radius: 6px; border: 1px solid #000; }
+
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
 body#index #HomeFeaturedProducts h2 { display: none; visibility: hidden; }
