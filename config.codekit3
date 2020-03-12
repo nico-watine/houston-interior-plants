@@ -170,6 +170,28 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/img/index/lyrata-banner.jpg": {
+		"ft": 16384,
+		"iS": 155348,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/lyrata-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/lyrata-banner@2x.jpg": {
+		"ft": 16384,
+		"iS": 587010,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/lyrata-banner@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/service-1-flip.jpg": {
 		"ft": 16384,
 		"iS": 58060,
