@@ -376,6 +376,8 @@
 
 .column-block > :last-child { margin-bottom: 0; }
 
+img { display: inline-block; vertical-align: middle; max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; border-style: none; }
+
 table.borderless td { border: 0; }
 
 .button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
