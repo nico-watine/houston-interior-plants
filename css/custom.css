@@ -842,7 +842,7 @@ table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
-.row.product-category-blocks { margin-bottom: 20px; }
+.row.product-category-blocks .product-category-link { margin-bottom: 20px; }
 
 .row.product-category-blocks .product-category-link .unit-link { position: relative; }
 
@@ -852,7 +852,7 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.product-category-blocks .product-category-link .unit-link img { border-radius: 6px; border: 1px solid #000; }
 
-.row.info-cards .card { padding: 12px; border-radius: 6px; height: 124px; background: #f1f1f1; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); margin-bottom: 16px; }
+.row.info-cards .card { padding: 12px; border-radius: 6px; height: 124px; background: #f1f1f1; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); margin-bottom: 20px; }
 
 .row.info-cards .card .label { font-size: 20px; line-height: 1.4; margin: 0 0 8px; font-weight: bold; }
 
