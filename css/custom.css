@@ -1,3 +1,7 @@
+.foundation-grid { box-sizing: border-box; font-size: 100%; }
+
+.foundation-grid *, .foundation-grid *::before, .foundation-grid *::after { box-sizing: inherit; }
+
 .row { max-width: 75rem; margin-right: auto; margin-left: auto; }
 
 .row::before, .row::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
@@ -837,10 +841,6 @@ table.shop-for-plants#shop-for-plants tbody tr td a, table.shop-for-plants#by-pl
 table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
-
-.foundation-grid { box-sizing: border-box; font-size: 100%; }
-
-.foundation-grid *, .foundation-grid *::before, .foundation-grid *::after { box-sizing: inherit; }
 
 .vertical-center { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); }
 

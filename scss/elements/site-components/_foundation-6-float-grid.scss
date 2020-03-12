@@ -1,13 +1,15 @@
-// html {
-// 	box-sizing: border-box;
-// 	font-size: 100%;
-// }
+.foundation-grid {
+	box-sizing: border-box;
+	font-size: 100%;
+}
 
-// *,
-// *::before,
-// *::after {
-// 	box-sizing: inherit;
-// }
+.foundation-grid {
+	*,
+	*::before,
+	*::after {
+		box-sizing: inherit;
+	}
+}
 
 .row {
 	max-width: 75rem;
