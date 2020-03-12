@@ -170,6 +170,39 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/img/index/service-1-flip.jpg": {
+		"ft": 16384,
+		"iS": 58060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/service-1-flip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/shop-plants.jpg": {
+		"ft": 16384,
+		"iS": 100721,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/shop-plants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/shop-pots-brown-2.jpg": {
+		"ft": 16384,
+		"iS": 11608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/shop-pots-brown-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -698,6 +731,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/css/_tables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/typography/_font-family.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_font-family.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
