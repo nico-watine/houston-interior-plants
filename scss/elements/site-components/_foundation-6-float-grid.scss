@@ -1,13 +1,15 @@
-// html {
-// 	box-sizing: border-box;
-// 	font-size: 100%;
-// }
+.zurb-foundation-grid {
+	box-sizing: border-box;
+	font-size: 100%;
+}
 
-// *,
-// *::before,
-// *::after {
-// 	box-sizing: inherit;
-// }
+.zurb-foundation-grid {
+	*,
+	*::before,
+	*::after {
+		box-sizing: inherit;
+	}
+}
 
 .row {
 	max-width: 75rem;

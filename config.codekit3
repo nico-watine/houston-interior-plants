@@ -170,6 +170,47 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/img/index/service-1-flip.jpg": {
+		"ft": 16384,
+		"iS": 58060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/service-1-flip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/shop-plants.jpg": {
+		"ft": 16384,
+		"iS": 100721,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/shop-plants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/shop-pots-brown-2.jpg": {
+		"ft": 16384,
+		"iS": 11608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/shop-pots-brown-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/index.html",
+		"oF": 0
+		},
 	"/products/product-descriptions/plants/8-ficus-lyrata-fiddle-leaf-fig.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -590,7 +631,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/panels/_custom-sidebar.scss": {
+	"/scss/elements/Panels/_custom-sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -603,7 +644,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/Panels/_header.scss": {
+	"/scss/elements/Panels/_Header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -629,7 +670,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/panels/_panels.scss": {
+	"/scss/elements/Panels/_panels.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -690,6 +731,45 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/elements/css/_tables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/media/_img.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_img.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/media/_media.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_media.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/site-components/typography/_font-family.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/site-components/css/_font-family.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -950,6 +1030,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_new-foundation-index.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_new-foundation-index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

@@ -1,3 +1,7 @@
+.zurb-foundation-grid { box-sizing: border-box; font-size: 100%; }
+
+.zurb-foundation-grid *, .zurb-foundation-grid *::before, .zurb-foundation-grid *::after { box-sizing: inherit; }
+
 .row { max-width: 75rem; margin-right: auto; margin-left: auto; }
 
 .row::before, .row::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
@@ -376,6 +380,8 @@
 
 .column-block > :last-child { margin-bottom: 0; }
 
+img { display: inline-block; vertical-align: middle; max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; border-style: none; }
+
 table.borderless td { border: 0; }
 
 .button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
@@ -666,6 +672,8 @@ table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0;
 
 table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
 
+.ff-montserrat { font-family: 'Montserrat', sans-serif; }
+
 .letter-spacing-normal { letter-spacing: normal !important; }
 
 .Breadcrumb { color: #000; }
@@ -833,6 +841,14 @@ table.shop-for-plants#shop-for-plants tbody tr td a, table.shop-for-plants#by-pl
 table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
+
+body#index .product-category-link .unit-link { position: relative; }
+
+body#index .product-category-link .unit-text-wrapper { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 24px; width: 100%; z-index: 3; }
+
+body#index .product-category-link .unit-text-wrapper .prose { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
+
+body#index .product-category-link .unit-link img { border-radius: 6px; border: 1px solid #000; }
 
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
