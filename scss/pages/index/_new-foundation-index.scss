@@ -34,5 +34,13 @@
 }
 
 .row.info-cards {
+	margin-bottom: 20px;
 
+	.card {
+		padding: 12px;
+		border-radius: 6px;
+		height: 124px;
+		background: #f1f1f1;
+		box-shadow: $z-1;
+	}
 }
