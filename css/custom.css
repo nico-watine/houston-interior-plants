@@ -842,13 +842,25 @@ table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
-.product-category-blocks .product-category-link .unit-link { position: relative; }
+.row.product-category-blocks { margin-bottom: 20px; }
 
-.product-category-blocks .product-category-link .unit-text-wrapper { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 30px; width: 100%; z-index: 3; }
+.row.product-category-blocks .product-category-link .unit-link { position: relative; }
 
-.product-category-blocks .product-category-link .unit-text-wrapper .headline { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
+.row.product-category-blocks .product-category-link .unit-text-wrapper { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 30px; width: 100%; z-index: 3; }
 
-.product-category-blocks .product-category-link .unit-link img { border-radius: 6px; border: 1px solid #000; }
+.row.product-category-blocks .product-category-link .unit-text-wrapper .headline { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
+
+.row.product-category-blocks .product-category-link .unit-link img { border-radius: 6px; border: 1px solid #000; }
+
+.row.info-cards .card { padding: 12px; border-radius: 6px; height: 124px; background: #f1f1f1; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); margin-bottom: 16px; }
+
+.row.info-cards .card .label { font-size: 20px; line-height: 1.4; margin: 0 0 8px; font-weight: bold; }
+
+.row.info-cards .card a { font-size: 14px; color: #1779BA; display: inline-block; text-decoration: none; font-family: Arial; margin-bottom: 6px; }
+
+.row.info-cards .card a:hover { color: #1468A0; text-decoration: underline; }
+
+.row.info-cards .card p { font-family: Arial; font-size: 14px; line-height: 1.4; }
 
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 

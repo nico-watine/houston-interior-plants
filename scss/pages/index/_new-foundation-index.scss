@@ -1,4 +1,6 @@
-.product-category-blocks {
+.row.product-category-blocks {
+	margin-bottom: 20px;
+
 	.product-category-link {
 		.unit-link {
 			position: relative;
@@ -27,6 +29,44 @@
 				border-radius: 6px;
 				border: 1px solid #000;
 			}
+		}
+	}
+}
+
+.row.info-cards {
+	.card {
+		padding: 12px;
+		border-radius: 6px;
+		height: 124px;
+		background: #f1f1f1;
+		box-shadow: $z-1;
+		margin-bottom: 16px;
+
+		.label {
+			font-size: 20px;
+			line-height: 1.4;
+			margin: 0 0 8px;
+			font-weight: bold;
+		}
+
+		a {
+			font-size: 14px;
+			color: $link-blue;
+			display: inline-block;
+			text-decoration: none;
+			font-family: Arial;
+			margin-bottom: 6px;
+
+			&:hover {
+				color: $link-blue-hover;
+				text-decoration: underline;
+			}
+		}
+
+		p {
+			font-family: Arial;
+			font-size: 14px;
+			line-height: 1.4;
 		}
 	}
 }
