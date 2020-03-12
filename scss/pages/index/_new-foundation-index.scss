@@ -1,4 +1,6 @@
-.product-category-blocks {
+.row.product-category-blocks {
+	margin-bottom: 20px;
+
 	.product-category-link {
 		.unit-link {
 			position: relative;
@@ -29,4 +31,8 @@
 			}
 		}
 	}
+}
+
+.row.info-cards {
+
 }
