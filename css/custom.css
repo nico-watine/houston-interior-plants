@@ -838,6 +838,10 @@ table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
+.foundation-grid { box-sizing: border-box; font-size: 100%; }
+
+.foundation-grid *, .foundation-grid *::before, .foundation-grid *::after { box-sizing: inherit; }
+
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
 body#index #HomeFeaturedProducts h2 { display: none; visibility: hidden; }
