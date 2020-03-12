@@ -380,7 +380,7 @@
 
 .column-block > :last-child { margin-bottom: 0; }
 
-img { display: inline-block; vertical-align: middle; max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; border-style: none; }
+img.responsive-img { display: inline-block; vertical-align: middle; max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; border-style: none; }
 
 table.borderless td { border: 0; }
 
