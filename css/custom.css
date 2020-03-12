@@ -856,7 +856,7 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.info-cards .card { padding: 12px; border-radius: 6px; height: 124px; background: #f1f1f1; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
-.row.info-cards .card .heading { font-size: 20px; line-height: 1.4; margin: 0 0 8px; font-weight: bold; }
+.row.info-cards .card .label { font-size: 20px; line-height: 1.4; margin: 0 0 8px; font-weight: bold; }
 
 .row.info-cards .card a { font-size: 14px; color: #1779BA; display: inline-block; text-decoration: none; font-family: Arial; margin-bottom: 6px; }
 
