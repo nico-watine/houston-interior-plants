@@ -50,6 +50,20 @@
 			font-weight: bold;
 		}
 
+		a {
+			font-size: 14px;
+			color: $link-blue;
+			display: inline-block;
+			text-decoration: none;
+			font-family: Arial;
+			margin-bottom: 6px;
+
+			&:hover {
+				color: $link-blue-hover;
+				text-decoration: underline;
+			}
+		}
+
 		p {
 			font-family: Arial;
 			font-size: 14px;
