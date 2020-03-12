@@ -842,6 +842,8 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .foundation-grid *, .foundation-grid *::before, .foundation-grid *::after { box-sizing: inherit; }
 
+.vertical-center { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); }
+
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
 body#index #HomeFeaturedProducts h2 { display: none; visibility: hidden; }
