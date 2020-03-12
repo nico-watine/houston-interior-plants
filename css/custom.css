@@ -1,6 +1,6 @@
-.foundation-grid { box-sizing: border-box; font-size: 100%; }
+.zurb-foundation-grid { box-sizing: border-box; font-size: 100%; }
 
-.foundation-grid *, .foundation-grid *::before, .foundation-grid *::after { box-sizing: inherit; }
+.zurb-foundation-grid *, .zurb-foundation-grid *::before, .zurb-foundation-grid *::after { box-sizing: inherit; }
 
 .row { max-width: 75rem; margin-right: auto; margin-left: auto; }
 
