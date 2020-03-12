@@ -34,19 +34,19 @@
 	padding-left: 0;
 }
 .row .row {
-	margin-right: -.9375rem;
-	margin-left: -.9375rem;
+	margin-right: -8px;
+	margin-left: -8px;
 }
 @media print, screen and (min-width: 40em) {
 	.row .row {
-		margin-right: -.9375rem;
-		margin-left: -.9375rem;
+		margin-right: -8px;
+		margin-left: -8px;
 	}
 }
 @media print, screen and (min-width: 64em) {
 	.row .row {
-		margin-right: -.9375rem;
-		margin-left: -.9375rem;
+		margin-right: -8px;
+		margin-left: -8px;
 	}
 }
 .row .row.collapse {
@@ -68,8 +68,8 @@
 .columns {
 	width: 100%;
 	float: left;
-	padding-right: .9375rem;
-	padding-left: .9375rem;
+	padding-right: 8px;
+	padding-left: 8px;
 }
 .column:last-child:not(:first-child),
 .columns:last-child:not(:first-child) {
@@ -461,8 +461,8 @@
 
 .small-uncollapse > .column,
 .small-uncollapse > .columns {
-	padding-right: .9375rem;
-	padding-left: .9375rem;
+	padding-right: 8px;
+	padding-left: 8px;
 }
 
 .small-centered {
@@ -796,8 +796,8 @@
 	}
 	.medium-uncollapse > .column,
 	.medium-uncollapse > .columns {
-		padding-right: .9375rem;
-		padding-left: .9375rem;
+		padding-right: 8px;
+		padding-left: 8px;
 	}
 	.medium-centered {
 		margin-right: auto;
@@ -1130,8 +1130,8 @@
 	}
 	.large-uncollapse > .column,
 	.large-uncollapse > .columns {
-		padding-right: .9375rem;
-		padding-left: .9375rem;
+		padding-right: 8px;
+		padding-left: 8px;
 	}
 	.large-centered {
 		margin-right: auto;
