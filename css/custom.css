@@ -800,30 +800,6 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .cf::after { clear: both; }
 
-.separator-center { text-align: center !important; }
-
-.separator-center::before, .separator-center::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
-
-.separator-center::after { clear: both; }
-
-.separator-center::after { position: relative !important; width: 48px; border-bottom: 2px solid #000; margin: 16px auto 0; }
-
-.separator-left { text-align: left !important; }
-
-.separator-left::before, .separator-left::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
-
-.separator-left::after { clear: both; }
-
-.separator-left::after { position: relative !important; width: 48px; border-bottom: 2px solid #000; margin: 16px auto 0; margin-left: 0 !important; }
-
-.separator-right { text-align: right !important; }
-
-.separator-right::before, .separator-right::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
-
-.separator-right::after { clear: both; }
-
-.separator-right::after { position: relative !important; width: 48px; border-bottom: 2px solid #000; margin: 16px auto 0; margin-right: 0 !important; }
-
 .PostBody p { font-size: 16px; line-height: 1.4; }
 
 .PostBody a { color: #569300; text-decoration: underline; }
@@ -891,6 +867,14 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 .row.info-cards .card p { font-family: Arial; font-size: 14px; line-height: 1.4; }
 
 .row.about-us-banner { background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; }
+
+.row.about-us-banner .headline { text-align: left !important; }
+
+.row.about-us-banner .headline::before, .row.about-us-banner .headline::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
+
+.row.about-us-banner .headline::after { clear: both; }
+
+.row.about-us-banner .headline::after { position: relative !important; width: 170px; border-bottom: 4px solid #fff; margin: 16px auto 0; margin-left: 0 !important; }
 
 body#index #HomeFeaturedProducts { margin-bottom: 0; }
 
