@@ -170,6 +170,17 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/img/index/about-us-lyrata-bg.jpg": {
+		"ft": 16384,
+		"iS": 177028,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/about-us-lyrata-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/lyrata-banner.jpg": {
 		"ft": 16384,
 		"iS": 155348,
