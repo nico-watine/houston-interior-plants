@@ -866,9 +866,11 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.info-cards .card p { font-family: Arial; font-size: 14px; line-height: 1.4; }
 
-.row.about-us-banner { background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; }
+.row.about-us-banner { height: 535px; padding-top: 140px; background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; }
 
-.row.about-us-banner .headline { text-align: left !important; }
+.row.about-us-banner .text-block { margin-left: 30px; }
+
+.row.about-us-banner .headline { text-align: left !important; margin: 0 0 32px; max-width: 480px; font-size: 36px; line-height: 1.2; }
 
 .row.about-us-banner .headline::before, .row.about-us-banner .headline::after { display: table; content: ' '; flex-basis: 0; -webkit-box-ordinal-group: 2; order: 1; }
 
