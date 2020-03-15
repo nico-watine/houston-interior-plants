@@ -116,6 +116,7 @@
 	text-align: center;
 	border-radius: 6px;
 	min-height: 350px;
+	margin-bottom: 40px;
 	box-shadow: $z-1;
 
 	.headline {
@@ -151,11 +152,12 @@
 }
 
 .plant-care-services-unit {
-	background: #f9f9f9;
+	background: #f9f9f9 url('/img/index/philo-shadow-bg.png') right top/contain no-repeat;
 	box-shadow: $z-1;
 	border-radius: 6px;
 	padding: 60px 25px;
 	min-height: 350px;
+	margin-bottom: 40px;
 
 	.headline {
 		margin: 0 0 16px;

@@ -181,6 +181,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/philo-shadow-bg.png": {
+		"ft": 32768,
+		"iS": 234222,
+		"oA": 0,
+		"oAP": "/img/index/philo-shadow-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/index/service-1-flip.jpg": {
 		"ft": 16384,
 		"iS": 58060,
