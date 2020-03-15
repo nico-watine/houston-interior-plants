@@ -866,7 +866,7 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.info-cards .card p { font-family: Arial; font-size: 14px; line-height: 1.4; }
 
-.row.about-us-banner { padding: 140px 0; background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; }
+.row.about-us-banner { padding: 140px 0; background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; margin-bottom: 40px; }
 
 .row.about-us-banner .text-block { margin-left: 30px; }
 
