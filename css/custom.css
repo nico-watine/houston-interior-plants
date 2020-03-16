@@ -898,40 +898,6 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .plant-care-services-unit .paragraph { max-width: 460px; }
 
-body#index #HomeFeaturedProducts { margin-bottom: 0; }
-
-body#index #HomeFeaturedProducts h2 { display: none; visibility: hidden; }
-
-#index-stretch-banner { text-align: center; position: relative; margin-bottom: 10px; }
-
-#index-stretch-banner h2 { text-shadow: 0 3px 2px #000; color: #fff; text-transform: none; font-size: 30px; position: absolute; top: 30px; width: 100%; }
-
-#index-stretch-banner img { width: 978px; height: 98px; border: 1px solid #000; }
-
-body#index #Wrapper { padding-top: 10px; }
-
-body#index #Wrapper table.plant-pot-blog-banner td { padding: 0; }
-
-body#index #Wrapper table.plant-pot-blog-banner#text img { border: 1px solid #000; display: block; margin: 0 auto; }
-
-body#index #Wrapper table.plant-pot-blog-banner#text h3 { position: absolute; color: #fff; text-shadow: 2px 4px 4px #000; font-size: 60px; width: 320px; padding-top: 42px; padding-left: 14px; }
-
-body#index #Wrapper table.plant-pot-blog-banner#text td#services span { position: absolute; padding-top: 260px; color: #fff; text-shadow: 2px 4px 4px #000; font-size: 35px; padding-left: 14px; }
-
-body#index #Wrapper #tagline { text-align: center; padding: 10px 0; margin-bottom: 16px; }
-
-body#index #Wrapper #tagline h3 { text-transform: none; font-size: 23px; letter-spacing: 0; color: #569300; }
-
-#index-summary { margin-bottom: 30px; }
-
-#index-summary ul li { font-size: 18px; line-height: 1.4; }
-
-#plant-service-banner { margin-bottom: 30px; background: #e8e8e8; padding: 12px; display: inline-block; border-radius: 6px; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
-
-#plant-service-banner h3 { color: #569300; text-transform: none; margin-bottom: 8px; font-size: 20px; letter-spacing: 0; }
-
-#plant-service-banner p { margin-bottom: 6px; font-size: 16px; }
-
 .PrimaryProductDetails { border-color: #000; padding-top: 20px; }
 
 .PrimaryProductDetails .ProductMain { padding-left: 10px; }
