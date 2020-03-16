@@ -178,7 +178,7 @@
 		"oAP": "/img/index/about-us-lyrata-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/index/philo-shadow-bg.png": {
@@ -233,7 +233,7 @@
 		"oAP": "/img/index/shop-table-tops-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {

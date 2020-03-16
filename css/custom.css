@@ -866,7 +866,7 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.info-cards .card p { font-family: Arial; font-size: 14px; line-height: 1.4; }
 
-.row.about-us-banner { padding: 140px 0; background: #fff url("/img/index/about-us-lyrata-bg.jpg") center/cover no-repeat; margin-bottom: 40px; }
+.row.about-us-banner { padding: 140px 0; background: #fff url("https://cdn10.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/about-us-lyrata-bg.jpg") center/cover no-repeat; margin-bottom: 40px; }
 
 .row.about-us-banner .text-block { margin-left: 30px; }
 
@@ -890,11 +890,11 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .shop-table-tops-unit a.link, .plant-care-services-unit a.link { color: #fff; background: #569300; border: 1px solid #569300; padding: 13px 26px; border-radius: 500px; font-weight: bold; text-decoration: none; font-size: 18px; line-height: 1; display: inline-block; }
 
-.shop-table-tops-unit { background: #fff url("/img/index/shop-table-tops-bg.jpg") center/cover no-repeat; padding: 90px 25px; text-align: center; }
+.shop-table-tops-unit { background: #fff url("https://cdn10.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/shop-table-tops-bg.jpg") center/cover no-repeat; padding: 90px 25px; text-align: center; }
 
 .shop-table-tops-unit .headline, .shop-table-tops-unit .paragraph { color: #fff; text-shadow: 1px 2px 0 #000; }
 
-.plant-care-services-unit { background: #f9f9f9 url("/img/index/philo-shadow-bg.png") right top/contain no-repeat; padding: 60px 25px; }
+.plant-care-services-unit { background: #f9f9f9 url("https://cdn10.bigcommerce.com/s-3q3m3ghk/product_images/uploaded_images/philo-shadow-bg.png") right top/contain no-repeat; padding: 60px 25px; }
 
 .plant-care-services-unit .paragraph { max-width: 460px; }
 
