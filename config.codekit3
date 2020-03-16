@@ -1310,6 +1310,14 @@
 		"oAP": "/storefront/template-files/Layouts/index/blocks/pretty-tri-banner.html",
 		"oF": 0
 		},
+	"/storefront/template-files/Layouts/index/default-v2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/index/default-v2.html",
+		"oF": 0
+		},
 	"/storefront/template-files/Layouts/index/default.html": {
 		"cB": 0,
 		"ft": 8192,
