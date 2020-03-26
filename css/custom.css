@@ -384,6 +384,10 @@ img.responsive-img { display: inline-block; vertical-align: middle; max-width: 1
 
 table.borderless td { border: 0; }
 
+table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0; margin: 0; }
+
+table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
+
 .button, .small.button { padding: 5px 10px !important; text-decoration: none !important; text-transform: uppercase !important; background: #569300; border-radius: 5px !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); letter-spacing: 1px; color: #fff; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; border: 2px solid #569300; }
 
 .button:hover { background: #fff; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); color: #000 !important; }
@@ -667,10 +671,6 @@ a.CustomizeItemLink:hover, .KeepShopping a:hover { color: #6e6e6e; }
 .py-32 { padding-top: 32px; padding-bottom: 32px; }
 
 .py-40 { padding-top: 40px; padding-bottom: 40px; }
-
-table.plain, table.shop-for-plants, table.shop-for-pots { border: 0; padding: 0; margin: 0; }
-
-table.plain td, table.shop-for-plants td, table.shop-for-pots td { border: 0; margin: 0; padding: 0; }
 
 .ff-montserrat { font-family: 'Montserrat', sans-serif; }
 
