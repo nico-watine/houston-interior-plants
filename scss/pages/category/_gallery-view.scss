@@ -4,11 +4,9 @@
 			margin-left: 15px !important;
 
 			.ProductImage {
-				// background: #f4f4f4;
 				padding: 6px 6px 10px;
 
 				img {
-					// border: 1px solid #fff;
 					width: 100%;
 					border: 1px solid $primary-green;
 				}
@@ -18,10 +16,8 @@
 				.ProductImage {
 					background: #f7f7f7;
 					border: 1px solid $primary-green;
-					// box-shadow: $z-1;
 
 					img {
-						// border: 2px solid $primary-green;
 						border: 1px solid #fff;
 						box-shadow: $z-1;
 					}
