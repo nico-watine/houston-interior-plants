@@ -29,3 +29,6 @@ Main Menu:
 
 Index:
 	☐	Fold in new foundation-grid sections into current index markup
+
+Zurb-Foundation-Grid:
+	☐	Rather than specifying 'img.responsive-img', do '.zurb-foundation-grid img'
