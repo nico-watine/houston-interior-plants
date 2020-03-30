@@ -1145,6 +1145,14 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/shop-for-plants.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/shop-for-plants.html",
+		"oF": 0
+		},
 	"/storefront/template-files/Layouts/_original/page.html": {
 		"cB": 0,
 		"ft": 8192,
