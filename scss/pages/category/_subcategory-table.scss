@@ -1,4 +1,3 @@
-table.shop-for-plants,
 table.shop-for-pots {
 	@extend .plain;
 
@@ -43,9 +42,6 @@ table.shop-for-pots {
 	}
 }
 
-table.shop-for-plants#shop-for-plants,
-table.shop-for-plants#by-plant-size,
-table.shop-for-plants#by-light-level,
 table.shop-for-pots#shop-for-pots {
 	tbody {
 		tr {
@@ -54,20 +50,6 @@ table.shop-for-pots#shop-for-pots {
 
 				a {
 					width: 245px;
-				}
-			}
-		}
-	}
-}
-
-table.shop-for-plants#by-plant-type {
-	tbody {
-		tr {
-			td {
-				width: 240px;
-
-				a {
-					width: 200px;
 				}
 			}
 		}
