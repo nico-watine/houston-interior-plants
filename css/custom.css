@@ -826,6 +826,26 @@ table#case-for-quality-plants img { max-width: 300px; }
 
 .ProductPriceWrap { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 
+table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
+
+table.shop-for-plants tbody tr td a, table.shop-for-pots tbody tr td a { box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); font-size: 15px; background: #f4f4f4; padding: 10px; display: inline-block; line-height: 1.5; border: 1px solid #f4f4f4; }
+
+table.shop-for-plants tbody tr td a span, table.shop-for-pots tbody tr td a span { display: block; font-size: 18px; }
+
+table.shop-for-plants tbody tr td a img, table.shop-for-pots tbody tr td a img { border: 1px solid #569300; display: block; margin: 0 auto 10px; }
+
+table.shop-for-plants tbody tr td a:hover, table.shop-for-pots tbody tr td a:hover { background: #fff; color: #000; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); border: 1px solid #569300; }
+
+table.shop-for-plants tbody tr td a:hover span, table.shop-for-pots tbody tr td a:hover span { text-decoration: underline; }
+
+table.shop-for-plants#shop-for-plants tbody tr td, table.shop-for-plants#by-plant-size tbody tr td, table.shop-for-plants#by-light-level tbody tr td, table.shop-for-pots#shop-for-pots tbody tr td { width: 320px; }
+
+table.shop-for-plants#shop-for-plants tbody tr td a, table.shop-for-plants#by-plant-size tbody tr td a, table.shop-for-plants#by-light-level tbody tr td a, table.shop-for-pots#shop-for-pots tbody tr td a { width: 245px; }
+
+table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
+
+table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
+
 ul#pot-sizes li { font-size: 18px; line-height: 1.3; }
 
 table.shop-for-plants tbody tr td, table.shop-for-pots tbody tr td { text-align: center; }
