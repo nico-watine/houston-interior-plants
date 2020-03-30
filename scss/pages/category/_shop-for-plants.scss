@@ -1,5 +1,4 @@
-table.shop-for-plants,
-table.shop-for-pots {
+table.shop-for-plants {
 	@extend .plain;
 
 	tbody {
@@ -45,8 +44,7 @@ table.shop-for-pots {
 
 table.shop-for-plants#shop-for-plants,
 table.shop-for-plants#by-plant-size,
-table.shop-for-plants#by-light-level,
-table.shop-for-pots#shop-for-pots {
+table.shop-for-plants#by-light-level {
 	tbody {
 		tr {
 			td {
