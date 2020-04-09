@@ -1327,12 +1327,12 @@
 		"oAP": "/storefront/template-files/Layouts/index/default-v1.html",
 		"oF": 0
 		},
-	"/storefront/template-files/Layouts/index/default-v2.html": {
+	"/storefront/template-files/Layouts/index/default-v3.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront/template-files/Layouts/index/default-v2.html",
+		"oAP": "/storefront/template-files/Layouts/index/default-v3.html",
 		"oF": 0
 		},
 	"/storefront/template-files/Layouts/page.html": {
