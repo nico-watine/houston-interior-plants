@@ -680,9 +680,9 @@ table.shop-for-plants#by-plant-type tbody tr td { width: 240px; }
 
 table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
-.row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 30px; width: 100%; z-index: 3; }
+.row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; z-index: 3; text-align: right; }
 
-.row.quarantine-cozy-banner .heading-wrap .headline { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
+.row.quarantine-cozy-banner .heading-wrap .headline { color: #000; font-size: 36px; line-height: 1.2; font-weight: bold; }
 
 .row.product-category-blocks .product-category-link { margin-bottom: 20px; }
 

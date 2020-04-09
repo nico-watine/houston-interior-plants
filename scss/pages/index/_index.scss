@@ -3,20 +3,20 @@
 		position: absolute;
 		top: 50%;
 		transform: translateY(-50%);
-		padding: 30px;
+		padding: 10px;
 		width: 100%;
 		z-index: 3;
+		text-align: right;
 
 		.headline {
-			text-shadow: 2px 4px 4px #000;
-			color: #fff;
-			font-size: 60px;
+			color: #000;
+			font-size: 36px;
 			line-height: 1.2;
-			text-transform: uppercase;
 			font-weight: bold;
 		}
 	}
 }
+
 .row.product-category-blocks {
 	.product-category-link {
 		margin-bottom: 20px;
