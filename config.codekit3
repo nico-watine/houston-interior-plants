@@ -192,6 +192,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/index/quarantine-cozy.jpg": {
+		"ft": 16384,
+		"iS": 106038,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/index/quarantine-cozy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/ratio-hold.png": {
+		"ft": 32768,
+		"iS": 3207,
+		"oA": 0,
+		"oAP": "/img/index/ratio-hold.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/index/service-1-flip.jpg": {
 		"ft": 16384,
 		"iS": 58060,
@@ -1054,19 +1076,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/category/_shop-for-plants.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_shop-for-plants.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/category/_shop-for-pots.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1076,6 +1085,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_shop-for-pots.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/category/_subcategory-table.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_subcategory-table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1144,14 +1166,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"/shop-for-plants.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/shop-for-plants.html",
-		"oF": 0
 		},
 	"/storefront/template-files/Layouts/_original/page.html": {
 		"cB": 0,
@@ -1313,12 +1327,12 @@
 		"oAP": "/storefront/template-files/Layouts/index/default-v1.html",
 		"oF": 0
 		},
-	"/storefront/template-files/Layouts/index/default-v2.html": {
+	"/storefront/template-files/Layouts/index/default-v3.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront/template-files/Layouts/index/default-v2.html",
+		"oAP": "/storefront/template-files/Layouts/index/default-v3.html",
 		"oF": 0
 		},
 	"/storefront/template-files/Layouts/page.html": {
