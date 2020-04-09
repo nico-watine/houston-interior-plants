@@ -684,6 +684,8 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .row.quarantine-cozy-banner .heading-wrap .headline { color: #000; font-size: 36px; line-height: 1.2; font-weight: bold; }
 
+.row.quarantine-cozy-banner .prose-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; }
+
 .row.quarantine-cozy-banner .prose-wrap .paragraph { font-size: 18px; font-family: Arial; line-height: 1.4; }
 
 .row.product-category-blocks .product-category-link { margin-bottom: 20px; }
