@@ -1689,6 +1689,16 @@
 		"oA": 2,
 		"oAP": "/TODO",
 		"oF": 0
+		},
+	"/webdav/mobile_template/Styles/default.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/webdav/mobile_template/Styles/default-min.css",
+		"oF": 0,
+		"oS": 3
 		}
 	},
 "hooks": [
