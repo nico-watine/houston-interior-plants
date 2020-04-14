@@ -14,13 +14,16 @@ html,body{
 }
 
 a{
-    color:#333;
-    text-decoration:none
+    /*color:#333;*/
+    /*text-decoration:none*/
+    color: #1779BA;
+    text-decoration: underline;
 }
 
 a:hover{
-    color:#484848;
-    text-decoration:none
+    /*color:#484848;*/
+    /*text-decoration:none*/
+    color: #1468A0;
 }
 
 a,
@@ -339,7 +342,7 @@ table.General tbody tr td{
 #TopMenu li a,#TopMenu li a:hover, .topNav #Menu li a, .topNav #Menu li a:hover {
     color: #777 !important;
     padding: 10px 0;
-    
+
     /* Make sure the clickable (and highlight) area spans the whole width of the menu */
     padding-left:15px;
     margin-left:-15px;
@@ -372,7 +375,7 @@ table.General tbody tr td{
     text-decoration:none;
     text-transform:capitalize;
     font: bold 15px/18px 'Montserrat',Arial,Helvetica,sans-serif;
-    
+
     /* Make sure the clickable (and highlight) area spans the whole width of the menu */
     padding-left:15px;
     margin-left:-15px;
