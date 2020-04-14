@@ -339,7 +339,7 @@ table.General tbody tr td{
 #TopMenu li a,#TopMenu li a:hover, .topNav #Menu li a, .topNav #Menu li a:hover {
     color: #777 !important;
     padding: 10px 0;
-    
+
     /* Make sure the clickable (and highlight) area spans the whole width of the menu */
     padding-left:15px;
     margin-left:-15px;
@@ -372,7 +372,7 @@ table.General tbody tr td{
     text-decoration:none;
     text-transform:capitalize;
     font: bold 15px/18px 'Montserrat',Arial,Helvetica,sans-serif;
-    
+
     /* Make sure the clickable (and highlight) area spans the whole width of the menu */
     padding-left:15px;
     margin-left:-15px;
@@ -2186,3 +2186,8 @@ ul.blog-tags li {
 
 /*CUSTOM ADDITIONS ::*/
 .topNav.on-screen ul.MenuList { display: none !important; visibility: hidden !important; }
+
+.ProductDescriptionContainer a {
+	color: #1779BA;
+	text-decoration: underline;
+}
