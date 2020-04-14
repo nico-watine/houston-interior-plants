@@ -2191,3 +2191,7 @@ ul.blog-tags li {
 	color: #1779BA;
 	text-decoration: underline;
 }
+
+.ProductDescriptionContainer h3:before {
+	content: none !important;
+}
