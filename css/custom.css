@@ -692,7 +692,7 @@ body#index #Header { width: 1180px; margin: 0 auto; }
 
 body#index .zurb-foundation-grid { background: #e6f0f2; }
 
-body#index .Content.Widest { margin: 0 auto; max-width: 1180px; width: 100% !important; }
+body#index .Content.Widest { margin: 0 auto; max-width: 1180px; width: 100%; }
 
 .row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; z-index: 3; text-align: right; }
 
