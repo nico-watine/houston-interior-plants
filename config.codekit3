@@ -142,16 +142,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/_ignores/styles.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/_ignores/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/_ignores/styles.html": {
 		"cB": 0,
 		"ft": 8192,
