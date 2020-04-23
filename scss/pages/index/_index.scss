@@ -1,4 +1,24 @@
-@import '_play-branch.scss';
+body#index {
+	#Container {
+		width: auto;
+	}
+
+	#Header {
+		width: 1180px;
+		margin: 0 auto;
+	}
+
+	.zurb-foundation-grid {
+		background: #e6f0f2;
+	}
+
+	.Content.Widest {
+		margin: 0 auto;
+		max-width: 1180px;
+		width: 100% !important;
+	}
+}
+
 
 .row.quarantine-cozy-banner {
 	.heading-wrap {
