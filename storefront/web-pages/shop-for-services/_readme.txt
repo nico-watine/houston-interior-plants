@@ -1,3 +1,25 @@
+SERVICES
+
+how to contact
+
+scan their floorplan
+email it
+can also just call or email and set up a visit (appointment)
+
+label it as 2 clear methods
+
+make it clear that online is faster
+save time and get your quote faster
+
+
+
+they receive link (basically unique gctx string) with hoverable/interactive plant icons, also take you to plant page
+
+figure out most efficient, future proof method of a consistent process
+
+
+
+
 SHOP FOR SERVICES
 Looking for plants and maintenance for your office?
 Email us your floor plan and we will send you both a designget back with you within 24 hours with a design and quote*
