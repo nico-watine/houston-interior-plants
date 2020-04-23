@@ -686,6 +686,14 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .custom-block h2 { color: #569300; letter-spacing: 0; text-transform: none; margin: 0 0 8px !important; padding: 8px 0 0 0 !important; font-weight: bold; }
 
+body#index #Container { width: auto; }
+
+body#index #Header { width: 1180px; margin: 0 auto; }
+
+body#index .zurb-foundation-grid { background: #e6f0f2; }
+
+body#index .Content.Widest { margin: 0 auto; }
+
 .row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; z-index: 3; text-align: right; }
 
 .row.quarantine-cozy-banner .heading-wrap .headline { color: #fff; text-shadow: 0 0 30px #000; font-size: 36px; line-height: 1.2; font-weight: bold; letter-spacing: 0; }
