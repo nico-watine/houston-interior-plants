@@ -1559,12 +1559,12 @@
 		"oAP": "/storefront/template-files/Snippets/ProductTinyImage.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/about-us/about-us-text.txt": {
+	"/storefront/web-pages/about-us/_about-us-prose.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/storefront/web-pages/about-us/about-us-text.txt",
+		"oA": 1,
+		"oAP": "/storefront/web-pages/about-us/_about-us-prose.txt",
 		"oF": 0
 		},
 	"/storefront/web-pages/about-us/about-us.html": {
@@ -1573,14 +1573,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/storefront/web-pages/about-us/about-us.html",
-		"oF": 0
-		},
-	"/storefront/web-pages/about-us/original-text.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/storefront/web-pages/about-us/original-text.txt",
 		"oF": 0
 		},
 	"/storefront/web-pages/blog-posts/how-do-i-choose-a-plant.html": {
