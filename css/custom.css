@@ -688,7 +688,7 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 body#index #Container { width: auto; }
 
-body#index #Header { width: 1180px; margin: 0 auto; }
+body#index #Header { max-width: 1180px; width: 100%; margin: 0 auto; }
 
 body#index .zurb-foundation-grid { background: #e6f0f2; }
 
