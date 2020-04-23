@@ -1559,12 +1559,12 @@
 		"oAP": "/storefront/template-files/Snippets/ProductTinyImage.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/about-us/_about-us-prose.txt": {
+	"/storefront/web-pages/about-us/_readme.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/storefront/web-pages/about-us/_about-us-prose.txt",
+		"oAP": "/storefront/web-pages/about-us/_readme.txt",
 		"oF": 0
 		},
 	"/storefront/web-pages/about-us/about-us.html": {
@@ -1647,12 +1647,12 @@
 		"oAP": "/storefront/web-pages/delivery-policy/delivery-policy-3.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/returns-exchanges-policy/content.txt": {
+	"/storefront/web-pages/returns-exchanges-policy/_readme.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/storefront/web-pages/returns-exchanges-policy/content.txt",
+		"oAP": "/storefront/web-pages/returns-exchanges-policy/_readme.txt",
 		"oF": 0
 		},
 	"/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html": {
@@ -1663,12 +1663,12 @@
 		"oAP": "/storefront/web-pages/returns-exchanges-policy/returns-exchanges-policy.html",
 		"oF": 0
 		},
-	"/storefront/web-pages/shop-for-services/_notes.txt": {
+	"/storefront/web-pages/shop-for-services/_readme.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/storefront/web-pages/shop-for-services/_notes.txt",
+		"oAP": "/storefront/web-pages/shop-for-services/_readme.txt",
 		"oF": 0
 		},
 	"/storefront/web-pages/shop-for-services/page-content.html": {
