@@ -1116,19 +1116,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/index/_play-branch.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/_play-branch.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/index/_stretch-banner.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1326,6 +1313,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/storefront/template-files/Layouts/index/default-v1.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/default-v2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/index/default-v2.html",
 		"oF": 0
 		},
 	"/storefront/template-files/Layouts/index/default-v3.html": {
