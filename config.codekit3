@@ -27,8 +27,8 @@
 		},
 	"/_ignores/codekit-icon.png": {
 		"ft": 32768,
-		"iS": 22084,
-		"oA": 0,
+		"iS": 8667,
+		"oA": 1,
 		"oAP": "/_ignores/codekit-icon.png",
 		"oF": 0,
 		"oIPL": 0,
@@ -92,14 +92,6 @@
 		"oAP": "/_ignores/houston-interior-plants.sublime-workspace",
 		"oF": 0
 		},
-	"/_ignores/img-links.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/img-links.html",
-		"oF": 1
-		},
 	"/_ignores/notes.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -130,14 +122,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_ignores/shop-for-pots-category-urls.txt",
-		"oF": 0
-		},
-	"/_ignores/styles.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/styles.html",
 		"oF": 0
 		},
 	"/css/custom.css": {
@@ -1677,7 +1661,7 @@
 	"displayValue": "houston-interior-plants",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/_ignores/codekit-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
