@@ -686,6 +686,12 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .custom-block h2 { color: #569300; letter-spacing: 0; text-transform: none; margin: 0 0 8px !important; padding: 8px 0 0 0 !important; font-weight: bold; }
 
+body#index #Logo { float: none; display: inherit; }
+
+body#index .plant-contact-banner { margin-top: 0; }
+
+body#index #Header #HeaderLower { float: none; }
+
 body#index #Container { width: auto; }
 
 body#index #Header { max-width: 1180px; width: 100%; margin: 0 auto; }
