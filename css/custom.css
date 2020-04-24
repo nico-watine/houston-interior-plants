@@ -690,6 +690,8 @@ body#index #Logo { float: none; display: inherit; }
 
 body#index .plant-contact-banner { margin-top: 0; }
 
+body#index #Header #HeaderLower { float: none; }
+
 body#index #Container { width: auto; }
 
 body#index #Header { max-width: 1180px; width: 100%; margin: 0 auto; }
