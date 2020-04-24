@@ -580,6 +580,8 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 #Header #HeaderLower { float: none; }
 
+#Header #SideCategoryList { float: none; }
+
 .customSidebar #usa-grown { text-align: center; padding-top: 10px; margin-bottom: 20px; }
 
 .customSidebar #usa-grown img { width: 80px; height: auto; }
