@@ -1103,19 +1103,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/index/_featured-products-banner.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_featured-products-banner.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/index/_index.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1329,6 +1316,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/storefront/template-files/Layouts/index/default-v3.html",
+		"oF": 0
+		},
+	"/storefront/template-files/Layouts/index/default-v4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/index/default-v4.html",
 		"oF": 0
 		},
 	"/storefront/template-files/Layouts/page.html": {
