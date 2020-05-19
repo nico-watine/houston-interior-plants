@@ -1318,6 +1318,14 @@
 		"oAP": "/storefront/template-files/Layouts/index/default-v3.html",
 		"oF": 0
 		},
+	"/storefront/template-files/Layouts/index/default-v4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/storefront/template-files/Layouts/index/default-v4.html",
+		"oF": 0
+		},
 	"/storefront/template-files/Layouts/page.html": {
 		"cB": 0,
 		"ft": 8192,
