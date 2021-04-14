@@ -4,7 +4,7 @@
 
 .row { max-width: 75rem; margin-right: auto; margin-left: auto; }
 
-.row::before, .row::after { display: table; content: ' '; flex-basis: 0; order: 1; }
+.row::before, .row::after { display: table; content: ' '; -webkit-flex-basis: 0; flex-basis: 0; -webkit-order: 1; order: 1; }
 
 .row::after { clear: both; }
 
@@ -640,7 +640,7 @@ p.small-lead, .p.small-lead, .small-lead { font-size: 18px; }
 
 .topNav.on-screen ul.MenuList { display: none !important; visibility: hidden !important; }
 
-.cf::before, .cf::after { display: table; content: ' '; flex-basis: 0; order: 1; }
+.cf::before, .cf::after { display: table; content: ' '; -webkit-flex-basis: 0; flex-basis: 0; -webkit-order: 1; order: 1; }
 
 .cf::after { clear: both; }
 
@@ -692,19 +692,17 @@ table.shop-for-plants#by-plant-type tbody tr td a { width: 200px; }
 
 .custom-block h2 { color: #569300; letter-spacing: 0; text-transform: none; margin: 0 0 8px !important; padding: 8px 0 0 0 !important; font-weight: bold; }
 
-body#index #Container { width: auto; }
-
 body#index #Header { max-width: 1180px; width: 100%; margin: 0 auto; }
 
 body#index .zurb-foundation-grid { background: #e6f0f2; }
 
 body#index .Content.Widest { margin: 0 auto; max-width: 1180px; width: 100%; }
 
-.row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; z-index: 3; text-align: right; }
+.row.quarantine-cozy-banner .heading-wrap { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 10px; width: 100%; z-index: 3; text-align: right; }
 
 .row.quarantine-cozy-banner .heading-wrap .headline { color: #fff; text-shadow: 0 0 30px #000; font-size: 36px; line-height: 1.2; font-weight: bold; letter-spacing: 0; }
 
-.row.quarantine-cozy-banner .prose-wrap { position: absolute; top: 50%; transform: translateY(-50%); padding: 10px; width: 100%; max-width: 430px; }
+.row.quarantine-cozy-banner .prose-wrap { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 10px; width: 100%; max-width: 430px; }
 
 .row.quarantine-cozy-banner .prose-wrap .paragraph { font-size: 18px; font-family: Arial; line-height: 1.4; }
 
@@ -712,7 +710,7 @@ body#index .Content.Widest { margin: 0 auto; max-width: 1180px; width: 100%; }
 
 .row.product-category-blocks .product-category-link .unit-link { position: relative; }
 
-.row.product-category-blocks .product-category-link .unit-text-wrapper { position: absolute; top: 50%; transform: translateY(-50%); padding: 30px; width: 100%; z-index: 3; }
+.row.product-category-blocks .product-category-link .unit-text-wrapper { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); padding: 30px; width: 100%; z-index: 3; }
 
 .row.product-category-blocks .product-category-link .unit-text-wrapper .headline { text-shadow: 2px 4px 4px #000; color: #fff; font-size: 60px; line-height: 1.2; text-transform: uppercase; font-weight: bold; }
 
@@ -734,7 +732,7 @@ body#index .Content.Widest { margin: 0 auto; max-width: 1180px; width: 100%; }
 
 .about-us-banner .headline { text-align: left !important; margin: 0 0 32px; max-width: 480px; font-size: 36px; line-height: 1.2; }
 
-.about-us-banner .headline::before, .about-us-banner .headline::after { display: table; content: ' '; flex-basis: 0; order: 1; }
+.about-us-banner .headline::before, .about-us-banner .headline::after { display: table; content: ' '; -webkit-flex-basis: 0; flex-basis: 0; -webkit-order: 1; order: 1; }
 
 .about-us-banner .headline::after { clear: both; }
 
